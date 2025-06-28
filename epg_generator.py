@@ -15,6 +15,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 配置部分
 CHANNEL_IDS = [
+    '400477',  # TNT Sports 1 HD
+    '400480',  # TNT Sports 2 HD
+    '400479',  # TNT Sports 3 HD
+    '400478',  # TNT Sports 4 HD
     '378960',  # CHC影迷影院
     '378964',  # CHC家庭影院
     '378961',  # CHC动作电影
