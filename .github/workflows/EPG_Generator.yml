@@ -5,40 +5,69 @@ on:
   schedule:
     - cron: '0 4 * * *'  # 每天UTC时间4点运行 (香港时间中午12点)
 
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate-epg:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write  # 添加写权限
+      
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        fetch-depth: 0  # 获取完整历史
+        token: ${{ secrets.GITHUB_TOKEN }}  # 使用具有写权限的令牌
+        
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests pytz
         
+    - name: Clean previous build
+      run: |
+        # 删除前一次构建的文件
+        if [ -f viu.xml ]; then
+          git rm -f viu.xml
+          git commit -m "Remove previous viu.xml" || echo "No previous file to remove"
+        fi
+        
     - name: Run EPG Generator
       run: python epg_generator.py
       
-    - name: Upload EPG file
+    - name: Upload EPG file (artifact)
       uses: actions/upload-artifact@v4
       with:
         name: viu-epg
         path: viu.xml
+        retention-days: 7
         
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git pull
+        
+        # 添加变更
         git add viu.xml
-        git diff-index --quiet HEAD || git commit -m "Automated EPG update: $(date +'%Y-%m-%d %H:%M')"
-        git push origin main
+        
+        # 仅在有变更时提交
+        if [[ $(git diff --cached --name-only) ]]; then
+          echo "有文件变更，提交变更"
+          git commit -m "Automated EPG update: $(date +'%Y-%m-%d %H:%M')"
+          # 确保工作区是最新的
+          git pull --rebase
+          # 推送变更
+          git push origin HEAD:refs/heads/main
+        else
+          echo "没有变更，跳过提交"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
