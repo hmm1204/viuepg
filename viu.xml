@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20250628051259"><channel id="400477">
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20250628051655"><channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
@@ -1073,7 +1073,7 @@
     <desc>Michele takes off to Europe for a vacation and meets a Japanese woman named Miki. As they become friends and travel together, Michele discovers that Miki is her husband's mistress.</desc>
     <date>2025-06-29</date>
   </programme><channel id="368550">
-    <display-name lang="Hong Kong">港台电视31</display-name>
+    <display-name lang="香港">港台电视31</display-name>
     <icon src="" />
   </channel>
   <programme start="20250628080000 +0800" stop="20250628080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
@@ -1350,7 +1350,7 @@
     <desc />
     <date>2025-06-30</date>
   </programme><channel id="368551">
-    <display-name lang="Hong Kong">港台电视32</display-name>
+    <display-name lang="香港">港台电视32</display-name>
     <icon src="" />
   </channel>
   <programme start="20250628090000 +0800" stop="20250628120000 +0800" channel="368551"><title lang="zh">全港大專生機械人大賽 2025 青出於「籃」 - 決賽實錄</title>
@@ -1444,7 +1444,7 @@
     <desc>生活．健康．資訊．體育．港式速遞</desc>
     <date>2025-06-29</date>
   </programme><channel id="410274">
-    <display-name lang="Hong Kong">ViuTV</display-name>
+    <display-name lang="香港">ViuTV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128105803707716_97" />
   </channel>
   <programme start="20250628080000 +0800" stop="20250628083000 +0800" channel="410274"><title lang="zh">飛不甩家毛 第14集 </title>
