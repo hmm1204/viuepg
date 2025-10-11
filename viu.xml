@@ -1,48 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20251010041350"><channel id="400477">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20251011041302"><channel id="400477">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010091500 +0800" stop="20251010094500 +0800" channel="400477"><title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusi"])self.__next_f.push([1,"ve interviews, the best action and so much more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010094500 +0800" stop="20251010114500 +0800" channel="400477"><title lang="zh">Test Cricket Highlights</title>
-    <desc>A look back at India v West Indies in the First Test of the two-match series.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010114500 +0800" stop="20251010200000 +0800" channel="400477"><title lang="zh">Live Test Cricket</title>
-    <desc>India v West Indies. Coverage of the first day of the Second and Final Te"])self.__next_f.push([1,"st in the series from Arun Jaitley Stadium in Delhi. The hosts have won the past nine Test series against the West Indies, a run that stretches all the way back to 2002. During that period the visitors have failed to win any of the last 25 matches against their opponents, and have lo</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010223000 +0800" channel="400477"><title lang="zh">Live: Snooker Xi'an Grand Prix</title>
-    <desc>Coverage of the second session from the fourth round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251010230000 +0800" channel="400477"><title lang="zh">European Rally Championship Highlights</title>
-    <desc>Action from the 2025 Rally Croatia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230000 +0800" stop="20251010233000 +0800" channel="400477"><title lang="zh">Serie A - Full Impact</title>
-    <desc>The best moments from the sixth"])self.__next_f.push([1," matchday of the 2025/26 season, including Juventus v AC Milan, Inter Milan v Cremonese, and Fiorentina v Napoli.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233000 +0800" stop="20251011000000 +0800" channel="400477"><title lang="zh">Premier League Netbusters</title>
-    <desc>A unique and fast-paced look at all the best action from the top flight, including Leeds United v Tottenham Hotspur, Arsenal v West Ham United, and Chelsea v Liverpool.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011003000 +0800" channel="400477"><title lang="zh">Premier League - The Big Interview</title>
-    <desc>An interview with a Premier League star of the past or present.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011003000 +0800" stop="20251011011500 +0800" channel="400477"><title lang="zh">Sign Up - Into Football</title>
-    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011011500 +0800" stop="20251011013000 +0800" channel="400477"><title lang="zh">Premier League Reload</title>
-    <desc>A whirlwind catch-up "])self.__next_f.push([1,"from matchday seven of the top flight, featuring all the goals and major talking points from Leeds United v Tottenham Hotspur and more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013000 +0800" stop="20251011020000 +0800" channel="400477"><title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusi"])self.__next_f.push([1,"ve interviews, the best action and so much more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020000 +0800" stop="20251011050000 +0800" channel="400477"><title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Sale Sharks v Newcastle Red Bulls (Kick-off 7.45pm). Coverage of the match from Salford Community Stadium. The Sharks reached the semi-finals last season, while Newcastle will be looking to improve after finishing bottom of the table with just two wins from 18 games.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011080000 +0800" channel="400477"><title lang="zh">Live MLB</title>
-    <desc>Seattle Mariners v Detroit Tigers (Start-time TBA). Coverage of game five of the American League Division Series from T-Mo"])self.__next_f.push([1,"bile Park.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011111500 +0800" channel="400477"><title lang="zh">Live MLB</title>
+  <programme start="20251011080000 +0800" stop="20251011111500 +0800" channel="400477"><title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011111500 +0800" stop="20251011114500 +0800" channel="400477"><title lang="zh">Serie A - Full Impact</title>
@@ -75,122 +36,56 @@
   </programme><programme start="20251012070000 +0800" stop="20251012080000 +0800" channel="400477"><title lang="zh">Live UFC</title>
     <desc>Charles Oliveira v Mateusz Gamrot. Coverage of the lightweight bout from Farmasi Arena in Rio de Janeiro, Brazil, plus the undercard.</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012103000 +0800" stop="20251012104500 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting action from India v West Indies in the First Test of the series.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012104500 +0800" stop="20251012114500 +0800" channel="400477"><title lang="zh">Test Cricket Highlights</title>
+    <desc>India v West Indies. Action from the secon"])self.__next_f.push([1,"d day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012114500 +0800" stop="20251012200000 +0800" channel="400477"><title lang="zh">Live Test Cricket</title>
+    <desc>India v West Indies. Coverage of the third day of the Second and Final Te"])self.__next_f.push([1,"st in the series from Arun Jaitley Stadium in Delhi. The hosts are looking for their first Test series victory since they beat Bangladesh in a two-match contest just over a year ago. Since then they've lost two and drawn one of the previous three series, but will be buoyed by a 2-2 d</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012200000 +0800" stop="20251012201500 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at West Indies v Pakistan in the first ODI of the series.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012201500 +0800" stop="20251012203000 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at West Indies v Pakistan in the second ODI of the series.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012203000 +0800" stop="20251012210000 +0800" channel="400477"><title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012213000 +0800" channel="400477"><title lang="zh">Premier League Stories</title>
+    <desc>A look at the career of Yaya Toure, "])self.__next_f.push([1,"from his humble beginnings in Ivory Coast to his key role in Manchester City's emergence as a dominant force in the Premier League.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012213000 +0800" stop="20251013003000 +0800" channel="400477"><title lang="zh">Live: The Gallagher PREM</title>
+    <desc>Harlequins v Saracens (Kick-off 3.00pm)).</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013003000 +0800" stop="20251013010000 +0800" channel="400477"><title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the DHI elite final at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013010000 +0800" stop="20251013033000 +0800" channel="400477"><title lang="zh">Live: UCI Mountain Bike World Series Women</title>
+    <desc>Coverage of the XCO Olympic elite race, which takes place at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013033000 +0800" stop="20251013051500 +0800" channel="400477"><title lang="zh">Live: UCI Mountain Bike World Series Men</title>
+    <desc>Coverage of the XCO Olympic elite race, which takes place at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013051500 +0800" stop="20251013064500 +0800" channel="400477"><title lang="zh">Rocky &amp; Wrighty: From Brockley to the Big Time</title>
+    <desc>The story of how a young David Rocastle's meteoric rise to stardom inspired another legend in the shape of Ian Wright.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013064500 +0800" stop="20251013074500 +0800" channel="400477"><title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013074500 +0800" stop="20251013080000 +0800" channel="400477"><title lang="zh">Training Day</title>
+    <desc>Kenny Allstar and Stillryan join forces to take on the world of baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013080000 +0800" stop="20251014080000 +0800" channel="400477"><title lang="zh">Live MLB</title>
+    <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-13</date>
   </programme><channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010111500 +0800" channel="400480"><title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010111500 +0800" stop="20251010114500 +0800" channel="400480"><title lang="zh">MLB Closer</title>
-    <desc>A look back at the best action from the MLB.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010114500 +0800" stop="20251010121500 +0800" channel="400480"><title lang="zh">MLB: Off the Bat</title>
-    <desc>A round-up of action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010121500 +0800" stop="20251010124500 +0800" channel="400480"><title lang="zh">MLB Classic</title>
-    <desc>Pedro Martinez defies injury to pitch in Game 5 of the 1999 ALDS and lead the Boston Red Sox to an inspir"])self.__next_f.push([1,"ed victory over the Cleveland Indians.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010124500 +0800" stop="20251010130000 +0800" channel="400480"><title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2025 Grand Prix of Indonesia\""])self.__next_f.push([1,",\"genre\":\"Motorcycling.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010133000 +0800" channel="400480"><title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusi"])self.__next_f.push([1,"ve interviews, the best action and so much more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010133000 +0800" stop="20251010140000 +0800" channel="400480"><title lang="zh">Race Bikes</title>
-    <desc>Nino Schurter looks at the mountain bikes he used in his career.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010143000 +0800" channel="400480"><title lang="zh">Race Bikes</title>
-    <desc>A look at the most mythical mountain bike of all-time, the Honda RN-01.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010143000 +0800" stop="20251010153000 +0800" channel="400480"><title lang="zh">FIM Speedway of Nations</title>
-    <desc>Action from"])self.__next_f.push([1," the final at MotoArena Torun in Poland.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010153000 +0800" stop="20251010163000 +0800" channel="400480"><title lang="zh">British Superbikes Highlights</title>
-    <desc>Action from the 10th round of the season at Oulton Park in Cheshire.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010163000 +0800" stop="20251010173000 +0800" channel="400480"><title lang="zh">MotoGP Highlights</title>
-    <desc>Action from the 2025 MotoGP Grand Prix of Indonesia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010183000 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike first free practice session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010183000 +0800" stop="20251010184500 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the first round of the Superbike W"])self.__next_f.push([1,"orld Championship in Australia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010184500 +0800" stop="20251010190000 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the second round of the Superbike "])self.__next_f.push([1,"World Championship in Portugal.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010191500 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the third round of the Super"])self.__next_f.push([1,"bike World Championship in the Netherlands.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010191500 +0800" stop="20251010193000 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the fourth round of the Superbike Wor"])self.__next_f.push([1,"ld Championship in Italy.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010193000 +0800" stop="20251010194500 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the fifth round of the Su"])self.__next_f.push([1,"perbike World Championship in the Czech Republic.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010194500 +0800" stop="20251010200000 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the sixth round of the "])self.__next_f.push([1,"Superbike World Championship in Emilia-Romagna, Italy.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010201500 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the seventh round of the "])self.__next_f.push([1,"Superbike World Championship in the United Kingdom.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010201500 +0800" stop="20251010203000 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the eighth round of the Superbike Wor"])self.__next_f.push([1,"ld Championship in Hungary.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010203000 +0800" stop="20251010204500 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the ninth round of the season in France.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010204500 +0800" stop="20251010220000 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport Superpole session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010230000 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike second free practice session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230000 +0800" stop="20251010234500 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport 300 Superpole session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010234500 +0800" stop="20251011000000 +0800" channel="400480"><title lang="zh">Superbike Rewind</title>
-    <desc>Action from the 10th round of the season in Aragon, Spain.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011010000 +0800" channel="400480"><title lang="zh">British Superbikes Highlights</title>
-    <desc>Action from the 10th round of the season at Oulton Park in Cheshire.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011020000 +0800" channel="400480"><title lang="zh">MotoGP Highlights</title>
-    <desc>Action from the 2025 MotoGP Grand Prix of Indonesia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020000 +0800" stop="20251011031500 +0800" channel="400480"><title lang="zh">SHEENE</title>
-    <desc>A look back at the life of two-time world champion Barry Sheene, 20 years on from his death.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011031500 +0800" stop="20251011033000 +0800" channel="400480"><title lang="zh">British Superbikes Rewind</title>
-    <desc>A look back at the best action from round 10 at Oulton Park in Cheshire.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011033000 +0800" stop="20251011034500 +0800" channel="400480"><title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2025 Grand Prix of Indonesia\""])self.__next_f.push([1,",\"genre\":\"Motorcycling.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011034500 +0800" stop="20251011050000 +0800" channel="400480"><title lang="zh">Live: UCI Mountain Bike World Series Women</title>
-    <desc>Coverage of the XCC short track elite race, which takes place in Mont Sainte Anne, Canada.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011054600 +0800" channel="400480"><title lang="zh">Live: UCI Mountain Bike World Series Men</title>
-    <desc>Coverage of the XCC short track elite race, which takes place in Mont Sainte Anne, Canada.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011054600 +0800" stop="20251011061500 +0800" channel="400480"><title lang="zh">Grit and Glory: Enduro Mountain Bike Racing</title>
-    <desc>A behind-the-scenes look at the UCI Enduro World Cup.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011061500 +0800" stop="20251011063000 +0800" channel="400480"><title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclu"])self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011063000 +0800" stop="20251011073000 +0800" channel="400480"><title lang="zh">FIM Speedway of Nations</title>
-    <desc>Action fr"])self.__next_f.push([1,"om the final at MotoArena Torun in Poland.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011073000 +0800" stop="20251011074500 +0800" channel="400480"><title lang="zh">Reframe the Game</title>
-    <desc>The story of the rise of top-flight women's rugby.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011074500 +0800" stop="20251011080000 +0800" channel="400480"><title lang="zh">Reframe the Game</title>
-    <desc>A woman is uprooted from her country in terrifying cir"])self.__next_f.push([1,"cumstances. After a headline-hitting evacuation to the UK, she finds a new home and community in a Yorkshire football club.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011103000 +0800" channel="400480"><title lang="zh">Live: WNBA</title>
+  <programme start="20251011080000 +0800" stop="20251011103000 +0800" channel="400480"><title lang="zh">Live: WNBA</title>
     <desc>Phoenix Mercury v Las Vegas Aces (Tip-off 1.00am). Coverage of game four of the WNBA finals from PHX Arena.</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011103000 +0800" stop="20251011104500 +0800" channel="400480"><title lang="zh">TNT Sports Reload</title>
@@ -253,68 +148,83 @@
   </programme><programme start="20251012043000 +0800" stop="20251012080000 +0800" channel="400480"><title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
     <date>2025-10-11</date>
-  </programme><programme start="20251012080000 +0800" stop="20251013080000 +0800" channel="400480"><title lang="zh">Live MLB</title>
+  </programme><programme start="20251012080000 +0800" stop="20251012113000 +0800" channel="400480"><title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
     <date>2025-10-12</date>
+  </programme><programme start="20251012113000 +0800" stop="20251012120000 +0800" channel="400480"><title lang="zh">MLB Closer</title>
+    <desc>A look back at the best action from the MLB.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012123000 +0800" channel="400480"><title lang="zh">MLB: Off the Bat</title>
+    <desc>A round-up of action from Major League Baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012123000 +0800" stop="20251012130000 +0800" channel="400480"><title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012130000 +0800" stop="20251012140000 +0800" channel="400480"><title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Exeter Chiefs.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="400480"><title lang="zh">The Gallagher PREM</title>
+    <desc>Northampton Saints v Leicester Tigers.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012150000 +0800" stop="20251012160000 +0800" channel="400480"><title lang="zh">The Gallagher PREM</title>
+    <desc>Bath Rugby v Gloucester Rugby.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012160000 +0800" stop="20251012170000 +0800" channel="400480"><title lang="zh">FIM Speedway Grand Prix Highlights</title>
+    <desc>A review of the best stories and action from the 2025 FIM Speedway Grand Prix season.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012170000 +0800" stop="20251012173000 +0800" channel="400480"><title lang="zh">Spirit of Yachting</title>
+    <desc>Action from the 2025 Rolex Middle Sea Race in Malta\","])self.__next_f.push([1,"\"genre\":\"Sailing.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012173000 +0800" stop="20251012184500 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
+    <desc>Coverage of the Superpole race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012184500 +0800" stop="20251012203000 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
+    <desc>Coverage of the Supersport second race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012203000 +0800" stop="20251012220000 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
+    <desc>Coverage of the Superbike second race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012220000 +0800" stop="20251012231500 +0800" channel="400480"><title lang="zh">Live: Superbike World Championship</title>
+    <desc>Coverage of the Supersport 300 second race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012231500 +0800" stop="20251013004500 +0800" channel="400480"><title lang="zh">Toprak Razgatlioglu: El Turco</title>
+    <desc>A look at the career of the Turkish motorcycle racer.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013004500 +0800" stop="20251013010000 +0800" channel="400480"><title lang="zh">British Superbikes Rewind</title>
+    <desc>A look back at the best action from round 10 at Oulton Park in Cheshire.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013010000 +0800" stop="20251013014500 +0800" channel="400480"><title lang="zh">Sign Up - Into Football</title>
+    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013014500 +0800" stop="20251013020000 +0800" channel="400480"><title lang="zh">Training Day</title>
+    <desc>Kenny Allstar and Stillryan join forces to take on the world of baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013030000 +0800" channel="400480"><title lang="zh">WNBA</title>
+    <desc>Action from Phoenix Mercury v Las Vegas Aces in game four of the WNBA finals.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013030000 +0800" stop="20251013053000 +0800" channel="400480"><title lang="zh">Live: WNBA</title>
+    <desc>Las Vegas Aces v Phoenix Mercury (Tip-off 8.00pm). Coverage from game five of the WNBA finals from Michelob ULTR"])self.__next_f.push([1,"A Arena.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013053000 +0800" stop="20251013060000 +0800" channel="400480"><title lang="zh">MLB: Off the Bat</title>
+    <desc>A round-up of action from Major League Baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013060000 +0800" stop="20251013070000 +0800" channel="400480"><title lang="zh">Test Cricket Highlights</title>
+    <desc>India v West Indies. Action from the thi"])self.__next_f.push([1,"rd day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013070000 +0800" stop="20251013073000 +0800" channel="400480"><title lang="zh">UCI Gravel World Championships</title>
+    <desc>Action from the women's race in Zuid-Limburg, Netherlands.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013073000 +0800" stop="20251013080000 +0800" channel="400480"><title lang="zh">UCI Gravel World Championships</title>
+    <desc>Action from the men's race in Zuid-Limburg, Netherlands.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013080000 +0800" stop="20251014080000 +0800" channel="400480"><title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the XCO Olympic elite race at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-13</date>
   </programme><channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010083000 +0800" stop="20251010090000 +0800" channel="400479"><title lang="zh">European Rally Championship Highlights</title>
-    <desc>Action from the 2025 Rally Croatia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010090000 +0800" stop="20251010100000 +0800" channel="400479"><title lang="zh">WNBA</title>
-    <desc>Action from Phoenix Mercury v Las Vegas Aces in game three of the WNBA finals.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010100000 +0800" stop="20251010120000 +0800" channel="400479"><title lang="zh">Snooker Xi'an Grand Prix</title>
-    <desc>Action from the third day of the tournament.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010130000 +0800" channel="400479"><title lang="zh">Supertri E World Triathlon Championship</title>
-    <desc>Action from the latest race of the season in Toulouse.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010140000 +0800" channel="400479"><title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2025 Gran"])self.__next_f.push([1," Piemonte.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010170000 +0800" channel="400479"><title lang="zh">Live: Snooker Xi'an Grand Prix</title>
-    <desc>Coverage of the first session from the fourth round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010170000 +0800" stop="20251010173000 +0800" channel="400479"><title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclu"])self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010190000 +0800" channel="400479"><title lang="zh">Ultimate Pool</title>
-    <desc>Action from Group B of the last 16 of the competition.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010193000 +0800" channel="400479"><title lang="zh">Spirit of Yachting</title>
-    <desc>Action from the Maxi Yacht Rolex Cup.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010193000 +0800" stop="20251010223000 +0800" channel="400479"><title lang="zh">Live: Snooker Xi'an Grand Prix</title>
-    <desc>Coverage of the second session from the fourth round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251010233000 +0800" channel="400479"><title lang="zh">SailGP Highlights</title>
-    <desc>Action from the 2025 DP World Spain Sail Grand Prix.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233000 +0800" stop="20251011010000 +0800" channel="400479"><title lang="zh">Ultimate Pool</title>
-    <desc>Action from Group B of the last 16 of the competition.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011011500 +0800" channel="400479"><title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best batting action from India v West Indies in the First Test of the series.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011011500 +0800" stop="20251011013000 +0800" channel="400479"><title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best bowling action from India v West Indies in the First Test of the series.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013000 +0800" stop="20251011023000 +0800" channel="400479"><title lang="zh">Test Cricket Highlights</title>
-    <desc>India v West Indies. Action from the first"])self.__next_f.push([1," day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011023000 +0800" stop="20251011033000 +0800" channel="400479"><title lang="zh">British Speedway</title>
-    <desc>Action from Ipswich Witches v Leicester Li"])self.__next_f.push([1,"ons in the second leg of the Grand Final.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011033000 +0800" stop="20251011043000 +0800" channel="400479"><title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043000 +0800" stop="20251011080000 +0800" channel="400479"><title lang="zh">Live MLB</title>
-    <desc>Seattle Mariners v Detroit Tigers (Start-time TBA). Coverage of game five of the American League Division Series from T-Mobile Park.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011101500 +0800" channel="400479"><title lang="zh">Live: NWSL</title>
+  <programme start="20251011080000 +0800" stop="20251011101500 +0800" channel="400479"><title lang="zh">Live: NWSL</title>
     <desc>Orlando Pride v Portland Thorns (Kick-off 1.00am). Coverage of the match from Inter\u0026Co Stadium.</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011101500 +0800" stop="20251011111500 +0800" channel="400479"><title lang="zh">British Speedway</title>
@@ -389,101 +299,59 @@
   </programme><programme start="20251012071500 +0800" stop="20251012080000 +0800" channel="400479"><title lang="zh">Live: V8 Supercars Championship</title>
     <desc>The Repco Bathurst 1000. Coverage of race 27 from the 10th round of the season at Mount Panorama Circuit in Bathurst, New South Wales.</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012134500 +0800" stop="20251012140000 +0800" channel="400479"><title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusi"])self.__next_f.push([1,"ve interviews, the best action and so much more.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012173000 +0800" channel="400479"><title lang="zh">Live: Snooker Xi'an Grand Prix</title>
+    <desc>Coverage of the first session from the semi-finals of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012173000 +0800" stop="20251012180000 +0800" channel="400479"><title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclu"])self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180000 +0800" stop="20251012190000 +0800" channel="400479"><title lang="zh">Men's Cycling World Tour</title>
+    <desc>Action from"])self.__next_f.push([1," the 2025 Tour of Lombardy in Italy.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012190000 +0800" stop="20251012193000 +0800" channel="400479"><title lang="zh">Grit and Glory: Enduro Mountain Bike Racing</title>
+    <desc>A behind-the-scenes look at the UCI Enduro World Cup.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012193000 +0800" stop="20251012230000 +0800" channel="400479"><title lang="zh">Live: Snooker Xi'an Grand Prix</title>
+    <desc>Coverage of the second session from the semi-finals of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012230000 +0800" stop="20251013000000 +0800" channel="400479"><title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013000000 +0800" stop="20251013003000 +0800" channel="400479"><title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the DHI elite final at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013003000 +0800" stop="20251013020000 +0800" channel="400479"><title lang="zh">Ultimate Pool</title>
+    <desc>Action from Group B of the last 16 of the competition.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013030000 +0800" channel="400479"><title lang="zh">Test Cricket Highlights</title>
+    <desc>India v West Indies. Action from the third"])self.__next_f.push([1," day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013030000 +0800" stop="20251013040000 +0800" channel="400479"><title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013040000 +0800" stop="20251013060000 +0800" channel="400479"><title lang="zh">Snooker Xi'an Grand Prix</title>
+    <desc>Action from the sixth day of the tournament.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013060000 +0800" stop="20251013070000 +0800" channel="400479"><title lang="zh">The Gallagher PREM</title>
+    <desc>Harlequins v Saracens.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013070000 +0800" stop="20251013073000 +0800" channel="400479"><title lang="zh">Superbike World Championship</title>
+    <desc>Action from the Superpole race at the 11th round of the season, which takes place at Circuito do Estoril in Portugal.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013073000 +0800" stop="20251013080000 +0800" channel="400479"><title lang="zh">Superbike World Championship</title>
+    <desc>Action from the second Superbike race at the 11th round of the season, which takes place at Circuito do Estoril in Portugal.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013080000 +0800" stop="20251014080000 +0800" channel="400479"><title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2025 P"])self.__next_f.push([1,"aris Tours race.</desc>
+    <date>2025-10-13</date>
   </programme><channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010090000 +0800" channel="400478"><title lang="zh">International T20 Cricket Highlights</title>
-    <desc>New Zealand v Australia. Action from the third and final T20 in the series from Bay Oval in Mount Maunganui, Tauranga.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010090000 +0800" stop="20251010093000 +0800" channel="400478"><title lang="zh">Serie A - Full Impact</title>
-    <desc>The best moments from the sixth"])self.__next_f.push([1," matchday of the 2025/26 season, including Juventus v AC Milan, Inter Milan v Cremonese, and Fiorentina v Napoli.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010093000 +0800" stop="20251010103000 +0800" channel="400478"><title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2025 Gran"])self.__next_f.push([1," Piemonte.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010103000 +0800" stop="20251010110000 +0800" channel="400478"><title lang="zh">UFC Connected</title>
-    <desc>UFC Connected brings fans a unique look inside the UFC with exclusive access to fighters, teams a"])self.__next_f.push([1,"nd events from around the globe.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110000 +0800" stop="20251010113000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback</title>
-    <desc>Robert Whittaker v Yoel Romero from July 2017.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010113000 +0800" stop="20251010120000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback</title>
-    <desc>A look back at one of the all-time classic UFC bouts b"])self.__next_f.push([1,"etween featherweights Max Holloway and Jose Aldo at UFC 218 in Detroit.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010123000 +0800" channel="400478"><title lang="zh">Formula E Flashback</title>
-    <desc>A look back at the best o"])self.__next_f.push([1,"f the action from the 2018 Punta del Este ePrix.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010123000 +0800" stop="20251010130000 +0800" channel="400478"><title lang="zh">Formula E Flashback</title>
-    <desc>A look back at the 2018 New"])self.__next_f.push([1," York City ePrix at Brooklyn Street Circuit.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010140000 +0800" channel="400478"><title lang="zh">SailGP Highlights</title>
-    <desc>Action from the 2025 DP World Spain Sail Grand Prix.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010150000 +0800" channel="400478"><title lang="zh">WNBA</title>
-    <desc>Action from Phoenix Mercury v Las Vegas Aces in game three of the WNBA finals.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150000 +0800" stop="20251010160000 +0800" channel="400478"><title lang="zh">Supertri E World Triathlon Championship</title>
-    <desc>Action from the latest race of the season in Toulouse.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010160000 +0800" stop="20251010181500 +0800" channel="400478"><title lang="zh">Live: AFLW</title>
-    <desc>Western Bulldogs Women v Essendon Bombers Women (Bounce-up 9.15am). Coverage of the match from Mission Whitten Oval in Melbourne.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010181500 +0800" stop="20251010183000 +0800" channel="400478"><title lang="zh">Reframe the Game</title>
-    <desc>The story of the rise of top-flight women's rugby.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010183000 +0800" stop="20251010193000 +0800" channel="400478"><title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2025 Gr"])self.__next_f.push([1,"an Piemonte.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010193000 +0800" stop="20251010200000 +0800" channel="400478"><title lang="zh">MLB: Off the Bat</title>
-    <desc>A round-up of action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010210000 +0800" channel="400478"><title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210000 +0800" stop="20251010220000 +0800" channel="400478"><title lang="zh">Live: FIA Extreme H World Cup</title>
-    <desc>Coverage of the second day from this year's event, which takes place in Saudi Arabia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010230000 +0800" channel="400478"><title lang="zh">MLB Classic</title>
-    <desc>A look back at the 2023 World Series.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230000 +0800" stop="20251011000000 +0800" channel="400478"><title lang="zh">MLB Classic</title>
-    <desc>A look back at the 2024 World Series.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011010000 +0800" channel="400478"><title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011013000 +0800" channel="400478"><title lang="zh">MLB: Off the Bat</title>
-    <desc>A round-up of action from Major League Baseball.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013000 +0800" stop="20251011023000 +0800" channel="400478"><title lang="zh">UEFA Champions League Greatest Nights</title>
-    <desc>A look at some of Chelsea's most unforgettable matches in the Champions League, including interviews with former stars and managers who made history for the club.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011023000 +0800" stop="20251011033000 +0800" channel="400478"><title lang="zh">UEFA Champions League Greatest Nights</title>
-    <desc>A nostalgic reflection on some of Manchester United's most unforgettable matches in the Champions League including interviews with former stars and managers.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011033000 +0800" stop="20251011043000 +0800" channel="400478"><title lang="zh">UEFA Champions League Greatest Nights</title>
-    <desc>A nostalgic reflection on some of Liverpool's most unforgettable matches in the Champions League including interviews with former stars and managers who made history for the club.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043000 +0800" stop="20251011050000 +0800" channel="400478"><title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from Europe's premier club football competition.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011053000 +0800" channel="400478"><title lang="zh">Serie A - Full Impact</title>
-    <desc>The best moments from the six"])self.__next_f.push([1,"th matchday of the 2025/26 season, including Juventus v AC Milan, Inter Milan v Cremonese, and Fiorentina v Napoli.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011053000 +0800" stop="20251011060000 +0800" channel="400478"><title lang="zh">Premier League Netbusters</title>
-    <desc>A unique and fast-paced look at all the best action from the top flight, including Leeds United v Tottenham Hotspur, Arsenal v West Ham United, and Chelsea v Liverpool.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011060000 +0800" stop="20251011063000 +0800" channel="400478"><title lang="zh">Fight Week</title>
-    <desc>A review of UFC 320 at T-Mobile Arena in Las Vegas, Nevada.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011063000 +0800" stop="20251011073000 +0800" channel="400478"><title lang="zh">Test Cricket Highlights</title>
-    <desc>India v West Indies. Action from the fir"])self.__next_f.push([1,"st day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011073000 +0800" stop="20251011080000 +0800" channel="400478"><title lang="zh">MotoGP Highlights</title>
-    <desc>Action from the 2025 MotoGP Grand Prix of Indonesia.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011083000 +0800" stop="20251011084500 +0800" channel="400478"><title lang="zh">British Superbikes Rewind</title>
+  <programme start="20251011083000 +0800" stop="20251011084500 +0800" channel="400478"><title lang="zh">British Superbikes Rewind</title>
     <desc>A look back at the best action from round 10 at Oulton Park in Cheshire.</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011084500 +0800" stop="20251011090000 +0800" channel="400478"><title lang="zh">TNT Sports Reload</title>
@@ -534,65 +402,83 @@
   </programme><programme start="20251012071500 +0800" stop="20251012080000 +0800" channel="400478"><title lang="zh">The Gallagher PREM</title>
     <desc>Bath Rugby v Gloucester Rugby.</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012081500 +0800" stop="20251012083000 +0800" channel="400478"><title lang="zh">Premier League Reload</title>
+    <desc>A whirlwind catch-up "])self.__next_f.push([1,"from matchday seven of the top flight, featuring all the goals and major talking points from Leeds United v Tottenham Hotspur and more.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012083000 +0800" stop="20251012084500 +0800" channel="400478"><title lang="zh">British Superbikes Rewind</title>
+    <desc>A look back at the best action from round 10 at Oulton Park in Cheshire.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012084500 +0800" stop="20251012090000 +0800" channel="400478"><title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2025 Grand Prix of Indonesia\""])self.__next_f.push([1,",\"genre\":\"Motorcycling.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012090000 +0800" stop="20251012100000 +0800" channel="400478"><title lang="zh">Men's Cycling World Tour</title>
+    <desc>Action from t"])self.__next_f.push([1,"he 2025 Tour of Lombardy in Italy.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012100000 +0800" stop="20251012120000 +0800" channel="400478"><title lang="zh">Live: AFLW</title>
+    <desc>Sydney Swans Women v Carlton Blues Women (Bounce-up 3.05am). Coverage of the match from Henson Park in Sydney.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012140000 +0800" channel="400478"><title lang="zh">Live: AFLW</title>
+    <desc>St Kilda Saints Women v Collingwood Magpies Women (Bounce-up 5.05am). Coverage of the match from RSEA Park in Melbourne.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012160000 +0800" channel="400478"><title lang="zh">Live: AFLW</title>
+    <desc>Fremantle Dockers Women v Melbourne Demons Women (Bounce-up 7.05am). Coverage of the match from Fremantle Oval in Perth.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012160000 +0800" stop="20251012161500 +0800" channel="400478"><title lang="zh">The Gruppetto</title>
+    <desc>A look back at the latest cycling action.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012161500 +0800" stop="20251012164500 +0800" channel="400478"><title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the XCC short track elite race in Mont Sainte Anne, Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012164500 +0800" stop="20251012171500 +0800" channel="400478"><title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the DHI elite final at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012171500 +0800" stop="20251012174500 +0800" channel="400478"><title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the DHI elite final at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012174500 +0800" stop="20251012201500 +0800" channel="400478"><title lang="zh">Live: Golden Trail World Series</title>
+    <desc>Action from day two of the Golden Trail World Series final.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012201500 +0800" stop="20251012221500 +0800" channel="400478"><title lang="zh">Live: UCI Gravel World Championships</title>
+    <desc>Coverage of the men's race, which takes place in Zuid-Limburg, Netherlands.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012221500 +0800" stop="20251012231500 +0800" channel="400478"><title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The 2025 Paris Tours. Coverage of the one-day race held in and around Paris, France.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012231500 +0800" stop="20251013001500 +0800" channel="400478"><title lang="zh">Men's Cycling World Tour</title>
+    <desc>Action from t"])self.__next_f.push([1,"he 2025 Tour of Lombardy in Italy.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013001500 +0800" stop="20251013003000 +0800" channel="400478"><title lang="zh">What I Wore</title>
+    <desc>Real Madrid legend Michel Salgado describes his passion for football via the shirts which have define"])self.__next_f.push([1,"d his life.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013003000 +0800" stop="20251013010000 +0800" channel="400478"><title lang="zh">The WRC Magazine</title>
+    <desc>The latest news and action from the 2025 Central European Ral"])self.__next_f.push([1,"ly.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013010000 +0800" stop="20251013020000 +0800" channel="400478"><title lang="zh">SailGP Highlights</title>
+    <desc>Action from the 2025 DP World Spain Sail Grand Prix.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013023000 +0800" channel="400478"><title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with Liverpool's Cody Gakpo.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013023000 +0800" stop="20251013030000 +0800" channel="400478"><title lang="zh">World Rally Raid Championship</title>
+    <desc>Action from the Ultimate Rally Raid in Portugal.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013030000 +0800" stop="20251013040000 +0800" channel="400478"><title lang="zh">FIM Speedway of Nations</title>
+    <desc>Action from"])self.__next_f.push([1," the final at MotoArena Torun in Poland.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013040000 +0800" stop="20251013070000 +0800" channel="400478"><title lang="zh">UFC</title>
+    <desc>Charles Oliveira v Mateusz Gamrot.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013070000 +0800" stop="20251013080000 +0800" channel="400478"><title lang="zh">UEFA Champions League Greatest Nights</title>
+    <desc>A nostalgic reflection on some of Arsenal's most unforgettable matches in the Champions League including interviews with former stars and managers who made history for the club.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013080000 +0800" stop="20251014080000 +0800" channel="400478"><title lang="zh">SailGP Highlights</title>
+    <desc>Action from the 2025 DP World Spain Sail Grand Prix.</desc>
+    <date>2025-10-13</date>
   </programme><channel id="378960">
-    <display-name lang="China">CHC高清电影</display-name>
+    <display-name lang="中國">CHC高清电影</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010081700 +0800" channel="378960"><title lang="zh">唐人街探案Ⅲ</title>
-    <desc>唐人街探案Ⅲ</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010081700 +0800" stop="20251010094600 +0800" channel="378960"><title lang="zh">陈赓晋南大捷</title>
-    <desc>陈赓晋南大捷</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010094600 +0800" stop="20251010111200 +0800" channel="378960"><title lang="zh">坚不可摧</title>
-    <desc>坚不可摧</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010111200 +0800" stop="20251010125600 +0800" channel="378960"><title lang="zh">一秒钟</title>
-    <desc>一秒钟</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010125600 +0800" stop="20251010142900 +0800" channel="378960"><title lang="zh">张三丰传奇之道法自然</title>
-    <desc>张三丰传奇之道法自然</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010142900 +0800" stop="20251010155900 +0800" channel="378960"><title lang="zh">预制厨神</title>
-    <desc>预制厨神</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010155900 +0800" stop="20251010171400 +0800" channel="378960"><title lang="zh">我的爷爷是外星人</title>
-    <desc>我的爷爷是外星人</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010171400 +0800" stop="20251010184200 +0800" channel="378960"><title lang="zh">欢乐喜剧人</title>
-    <desc>欢乐喜剧人</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010184200 +0800" stop="20251010201300 +0800" channel="378960"><title lang="zh">内联升传奇</title>
-    <desc>内联升传奇</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010201300 +0800" stop="20251010220000 +0800" channel="378960"><title lang="zh">老班主</title>
-    <desc>老班主</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010233300 +0800" channel="378960"><title lang="zh">大洪流</title>
-    <desc>大洪流</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233300 +0800" stop="20251011000000 +0800" channel="378960"><title lang="zh">美好的一天</title>
-    <desc>美好的一天</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011011300 +0800" channel="378960"><title lang="zh">美好的一天</title>
-    <desc>美好的一天</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011011300 +0800" stop="20251011040000 +0800" channel="378960"><title lang="zh">少年巴比伦</title>
-    <desc>少年巴比伦</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011040000 +0800" stop="20251011043300 +0800" channel="378960"><title lang="zh">少年巴比伦</title>
-    <desc>少年巴比伦</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043300 +0800" stop="20251011060000 +0800" channel="378960"><title lang="zh">少年巴比伦</title>
-    <desc>少年巴比伦</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011060000 +0800" stop="20251011072700 +0800" channel="378960"><title lang="zh">麻辣白玉堂之血黄金(上)</title>
-    <desc>麻辣白玉堂之血黄金(上)</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011072700 +0800" stop="20251011080000 +0800" channel="378960"><title lang="zh">麻辣白玉堂之血黄金(下)</title>
-    <desc>麻辣白玉堂之血黄金(下)</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011085400 +0800" channel="378960"><title lang="zh">麻辣白玉堂之血黄金(下)</title>
+  <programme start="20251011080000 +0800" stop="20251011085400 +0800" channel="378960"><title lang="zh">麻辣白玉堂之血黄金(下)</title>
     <desc>麻辣白玉堂之血黄金(下)</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011085400 +0800" stop="20251011102800 +0800" channel="378960"><title lang="zh">飞虎队</title>
@@ -622,62 +508,62 @@
   </programme><programme start="20251011220000 +0800" stop="20251011232700 +0800" channel="378960"><title lang="zh">珍·古道尔的传奇一生</title>
     <desc>珍·古道尔的传奇一生</desc>
     <date>2025-10-11</date>
-  </programme><programme start="20251011232700 +0800" stop="20251012080000 +0800" channel="378960"><title lang="zh">命中注定</title>
+  </programme><programme start="20251011232700 +0800" stop="20251012000000 +0800" channel="378960"><title lang="zh">命中注定</title>
     <desc>命中注定</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012000000 +0800" stop="20251012012000 +0800" channel="378960"><title lang="zh">命中注定</title>
+    <desc>命中注定</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012012000 +0800" stop="20251012040000 +0800" channel="378960"><title lang="zh">我爱你!</title>
+    <desc>我爱你!</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012040000 +0800" stop="20251012044000 +0800" channel="378960"><title lang="zh">我爱你!</title>
+    <desc>我爱你!</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012044000 +0800" stop="20251012060000 +0800" channel="378960"><title lang="zh">我爱你!</title>
+    <desc>我爱你!</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012060000 +0800" stop="20251012073200 +0800" channel="378960"><title lang="zh">制服</title>
+    <desc>制服</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012073200 +0800" stop="20251012080000 +0800" channel="378960"><title lang="zh">蜜月计划</title>
+    <desc>蜜月计划</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012080000 +0800" stop="20251012090600 +0800" channel="378960"><title lang="zh">蜜月计划</title>
+    <desc>蜜月计划</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012090600 +0800" stop="20251012102700 +0800" channel="378960"><title lang="zh">狼牙山五壮士</title>
+    <desc>狼牙山五壮士</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012102700 +0800" stop="20251012123700 +0800" channel="378960"><title lang="zh">妖猫传</title>
+    <desc>妖猫传</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012123700 +0800" stop="20251012142100 +0800" channel="378960"><title lang="zh">1980年代的爱情</title>
+    <desc>1980年代的爱情</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012142100 +0800" stop="20251012160700 +0800" channel="378960"><title lang="zh">全城通缉</title>
+    <desc>全城通缉</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012160700 +0800" stop="20251012175800 +0800" channel="378960"><title lang="zh">特警队2019版</title>
+    <desc>特警队2019版</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012175800 +0800" stop="20251012200400 +0800" channel="378960"><title lang="zh">守岛人</title>
+    <desc>守岛人</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012200400 +0800" stop="20251012220000 +0800" channel="378960"><title lang="zh">影</title>
+    <desc>影</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012220000 +0800" stop="20251012234800 +0800" channel="378960"><title lang="zh">神秘海域</title>
+    <desc>神秘海域</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012234800 +0800" stop="20251013080000 +0800" channel="378960"><title lang="zh">最遗憾是错过你</title>
+    <desc>最遗憾是错过你</desc>
+    <date>2025-10-12</date>
   </programme><channel id="378964">
     <display-name lang="中國">CHC家庭电影</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010091500 +0800" channel="378964"><title lang="zh">托米莉斯女王</title>
-    <desc>托米莉斯女王</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010091500 +0800" stop="20251010105000 +0800" channel="378964"><title lang="zh">英雄若兰</title>
-    <desc>英雄若兰</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010105000 +0800" stop="20251010131500 +0800" channel="378964"><title lang="zh">侏罗纪世界Ⅲ</title>
-    <desc>侏罗纪世界Ⅲ</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010131500 +0800" stop="20251010152500 +0800" channel="378964"><title lang="zh">夺冠</title>
-    <desc>夺冠</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010152500 +0800" stop="20251010171000 +0800" channel="378964"><title lang="zh">黑郁金香</title>
-    <desc>黑郁金香</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010171000 +0800" stop="20251010184500 +0800" channel="378964"><title lang="zh">忠爱无言</title>
-    <desc>忠爱无言</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010184500 +0800" stop="20251010203500 +0800" channel="378964"><title lang="zh">潜行</title>
-    <desc>潜行</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010203500 +0800" stop="20251010220000 +0800" channel="378964"><title lang="zh">画江湖之不良帅</title>
-    <desc>画江湖之不良帅</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010234500 +0800" channel="378964"><title lang="zh">武馆</title>
-    <desc>武馆</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010234500 +0800" stop="20251011000000 +0800" channel="378964"><title lang="zh">断片之险途夺宝</title>
-    <desc>断片之险途夺宝</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011011500 +0800" channel="378964"><title lang="zh">断片之险途夺宝</title>
-    <desc>断片之险途夺宝</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011011500 +0800" stop="20251011025000 +0800" channel="378964"><title lang="zh">冠军</title>
-    <desc>冠军</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011025000 +0800" stop="20251011040000 +0800" channel="378964"><title lang="zh">没有一顿火锅解决不了的事</title>
-    <desc>没有一顿火锅解决不了的事</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011040000 +0800" stop="20251011045500 +0800" channel="378964"><title lang="zh">没有一顿火锅解决不了的事</title>
-    <desc>没有一顿火锅解决不了的事</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011045500 +0800" stop="20251011065500 +0800" channel="378964"><title lang="zh">唐人街探案Ⅱ</title>
-    <desc>唐人街探案Ⅱ</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011065500 +0800" stop="20251011080000 +0800" channel="378964"><title lang="zh">大闹天竺</title>
-    <desc>大闹天竺</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011083000 +0800" channel="378964"><title lang="zh">大闹天竺</title>
+  <programme start="20251011080000 +0800" stop="20251011083000 +0800" channel="378964"><title lang="zh">大闹天竺</title>
     <desc>大闹天竺</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011083000 +0800" stop="20251011102000 +0800" channel="378964"><title lang="zh">潜行</title>
@@ -704,71 +590,74 @@
   </programme><programme start="20251011201500 +0800" stop="20251011220000 +0800" channel="378964"><title lang="zh">妈妈!</title>
     <desc>妈妈!</desc>
     <date>2025-10-11</date>
-  </programme><programme start="20251011220000 +0800" stop="20251012080000 +0800" channel="378964"><title lang="zh">碟中谍-神秘国度</title>
+  </programme><programme start="20251011220000 +0800" stop="20251012000000 +0800" channel="378964"><title lang="zh">碟中谍-神秘国度</title>
     <desc>碟中谍-神秘国度</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012000000 +0800" stop="20251012000500 +0800" channel="378964"><title lang="zh">碟中谍-神秘国度</title>
+    <desc>碟中谍-神秘国度</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012000500 +0800" stop="20251012021000 +0800" channel="378964"><title lang="zh">囧妈</title>
+    <desc>囧妈</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012021000 +0800" stop="20251012034500 +0800" channel="378964"><title lang="zh">这就是命</title>
+    <desc>这就是命</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012034500 +0800" stop="20251012040000 +0800" channel="378964"><title lang="zh">反转人生</title>
+    <desc>反转人生</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012040000 +0800" stop="20251012053000 +0800" channel="378964"><title lang="zh">反转人生</title>
+    <desc>反转人生</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012053000 +0800" stop="20251012053500 +0800" channel="378964"><title lang="zh">家庭导视、垫播</title>
+    <desc>家庭导视、垫播</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012053500 +0800" stop="20251012071000 +0800" channel="378964"><title lang="zh">笑傲江湖</title>
+    <desc>笑傲江湖</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012071000 +0800" stop="20251012080000 +0800" channel="378964"><title lang="zh">同合村的孝声</title>
+    <desc>同合村的孝声</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012080000 +0800" stop="20251012084500 +0800" channel="378964"><title lang="zh">同合村的孝声</title>
+    <desc>同合村的孝声</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012084500 +0800" stop="20251012102000 +0800" channel="378964"><title lang="zh">神奇四侠</title>
+    <desc>神奇四侠</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012102000 +0800" stop="20251012102500 +0800" channel="378964"><title lang="zh">家庭导视、垫播</title>
+    <desc>家庭导视、垫播</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012102500 +0800" stop="20251012120000 +0800" channel="378964"><title lang="zh">马背上的巡线员</title>
+    <desc>马背上的巡线员</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012135500 +0800" channel="378964"><title lang="zh">金属之声</title>
+    <desc>金属之声</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012135500 +0800" stop="20251012154500 +0800" channel="378964"><title lang="zh">第三种爱情</title>
+    <desc>第三种爱情</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012154500 +0800" stop="20251012171000 +0800" channel="378964"><title lang="zh">基米</title>
+    <desc>基米</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012171000 +0800" stop="20251012184500 +0800" channel="378964"><title lang="zh">至尊一剑</title>
+    <desc>至尊一剑</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012184500 +0800" stop="20251012202500 +0800" channel="378964"><title lang="zh">找到你</title>
+    <desc>找到你</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012202500 +0800" stop="20251012220000 +0800" channel="378964"><title lang="zh">大反派</title>
+    <desc>大反派</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012220000 +0800" stop="20251012235000 +0800" channel="378964"><title lang="zh">斯宾塞</title>
+    <desc>斯宾塞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012235000 +0800" stop="20251013080000 +0800" channel="378964"><title lang="zh">黄飞鸿之鬼脚七</title>
+    <desc>黄飞鸿之鬼脚七</desc>
+    <date>2025-10-12</date>
   </programme><channel id="378961">
     <display-name lang="中國">CHC动作电影</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010092500 +0800" channel="378961"><title lang="zh">巨齿鲨-深渊</title>
-    <desc>巨齿鲨-深渊</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010092500 +0800" stop="20251010111500 +0800" channel="378961"><title lang="zh">龙之战</title>
-    <desc>龙之战</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010111500 +0800" stop="20251010125500 +0800" channel="378961"><title lang="zh">羞羞的铁拳</title>
-    <desc>羞羞的铁拳</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010125500 +0800" stop="20251010142500 +0800" channel="378961"><title lang="zh">动作导视、梅格雷的十字路口之夜</title>
-    <desc>动作导视、梅格雷的十字路口之夜</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010142500 +0800" stop="20251010155000 +0800" channel="378961"><title lang="zh">麻辣白玉堂之致命棋局</title>
-    <desc>麻辣白玉堂之致命棋局</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010155000 +0800" stop="20251010172000 +0800" channel="378961"><title lang="zh">东北警察故事Ⅱ</title>
-    <desc>东北警察故事Ⅱ</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010172000 +0800" stop="20251010184500 +0800" channel="378961"><title lang="zh">坚不可摧</title>
-    <desc>坚不可摧</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010184500 +0800" stop="20251010185000 +0800" channel="378961"><title lang="zh">动作导视</title>
-    <desc>动作导视</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010185000 +0800" stop="20251010203000 +0800" channel="378961"><title lang="zh">雪山飞狐之塞北宝藏</title>
-    <desc>雪山飞狐之塞北宝藏</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010203000 +0800" stop="20251010222500 +0800" channel="378961"><title lang="zh">九层妖塔</title>
-    <desc>九层妖塔</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010222500 +0800" stop="20251011000000 +0800" channel="378961"><title lang="zh">唐山五虎</title>
-    <desc>唐山五虎</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011013500 +0800" channel="378961"><title lang="zh">动作导视、神鞭</title>
-    <desc>动作导视、神鞭</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013500 +0800" stop="20251011014000 +0800" channel="378961"><title lang="zh">动作导视</title>
-    <desc>动作导视</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011014000 +0800" stop="20251011034000 +0800" channel="378961"><title lang="zh">古董局中局</title>
-    <desc>古董局中局</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011034000 +0800" stop="20251011040000 +0800" channel="378961"><title lang="zh">神探马洛-血与光</title>
-    <desc>神探马洛-血与光</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011040000 +0800" stop="20251011051500 +0800" channel="378961"><title lang="zh">神探马洛-血与光</title>
-    <desc>神探马洛-血与光</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011051500 +0800" stop="20251011052000 +0800" channel="378961"><title lang="zh">动作导视</title>
-    <desc>动作导视</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011052000 +0800" stop="20251011070000 +0800" channel="378961"><title lang="zh">维和防暴队</title>
-    <desc>维和防暴队</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011070000 +0800" stop="20251011080000 +0800" channel="378961"><title lang="zh">加勒比海盗</title>
-    <desc>加勒比海盗</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011091500 +0800" channel="378961"><title lang="zh">加勒比海盗</title>
+  <programme start="20251011080000 +0800" stop="20251011091500 +0800" channel="378961"><title lang="zh">加勒比海盗</title>
     <desc>加勒比海盗</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011091500 +0800" stop="20251011110000 +0800" channel="378961"><title lang="zh">销魂刀</title>
@@ -798,56 +687,74 @@
   </programme><programme start="20251011220000 +0800" stop="20251011233000 +0800" channel="378961"><title lang="zh">神奇四侠-银影侠现身</title>
     <desc>神奇四侠-银影侠现身</desc>
     <date>2025-10-11</date>
-  </programme><programme start="20251011233000 +0800" stop="20251012080000 +0800" channel="378961"><title lang="zh">麻辣白玉堂之刺涿州</title>
+  </programme><programme start="20251011233000 +0800" stop="20251012000000 +0800" channel="378961"><title lang="zh">麻辣白玉堂之刺涿州</title>
     <desc>麻辣白玉堂之刺涿州</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012000000 +0800" stop="20251012005500 +0800" channel="378961"><title lang="zh">麻辣白玉堂之刺涿州</title>
+    <desc>麻辣白玉堂之刺涿州</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012005500 +0800" stop="20251012030000 +0800" channel="378961"><title lang="zh">动作导视、妖猫传</title>
+    <desc>动作导视、妖猫传</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012030000 +0800" stop="20251012040000 +0800" channel="378961"><title lang="zh">大话西游之月光宝盒</title>
+    <desc>大话西游之月光宝盒</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012040000 +0800" stop="20251012042500 +0800" channel="378961"><title lang="zh">大话西游之月光宝盒</title>
+    <desc>大话西游之月光宝盒</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012042500 +0800" stop="20251012062000 +0800" channel="378961"><title lang="zh">攀登者</title>
+    <desc>攀登者</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012062000 +0800" stop="20251012062500 +0800" channel="378961"><title lang="zh">动作导视</title>
+    <desc>动作导视</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012062500 +0800" stop="20251012080000 +0800" channel="378961"><title lang="zh">刺杀小说家</title>
+    <desc>刺杀小说家</desc>
+    <date>2025-10-11</date>
+  </programme><programme start="20251012080000 +0800" stop="20251012083000 +0800" channel="378961"><title lang="zh">刺杀小说家</title>
+    <desc>刺杀小说家</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012083000 +0800" stop="20251012100500 +0800" channel="378961"><title lang="zh">第五行动组-对决</title>
+    <desc>第五行动组-对决</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012100500 +0800" stop="20251012115500 +0800" channel="378961"><title lang="zh">缉毒英雄</title>
+    <desc>缉毒英雄</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012115500 +0800" stop="20251012134500 +0800" channel="378961"><title lang="zh">超能一家人</title>
+    <desc>超能一家人</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012134500 +0800" stop="20251012151500 +0800" channel="378961"><title lang="zh">狂暴飞车</title>
+    <desc>狂暴飞车</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012151500 +0800" stop="20251012152000 +0800" channel="378961"><title lang="zh">动作导视</title>
+    <desc>动作导视</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012152000 +0800" stop="20251012164500 +0800" channel="378961"><title lang="zh">神机图</title>
+    <desc>神机图</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012164500 +0800" stop="20251012185500 +0800" channel="378961"><title lang="zh">狄仁杰之四大天王</title>
+    <desc>狄仁杰之四大天王</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012185500 +0800" stop="20251012203000 +0800" channel="378961"><title lang="zh">密战峨眉</title>
+    <desc>密战峨眉</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012203000 +0800" stop="20251012221500 +0800" channel="378961"><title lang="zh">云南虫谷</title>
+    <desc>云南虫谷</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012221500 +0800" stop="20251012222000 +0800" channel="378961"><title lang="zh">动作导视</title>
+    <desc>动作导视</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012222000 +0800" stop="20251012235500 +0800" channel="378961"><title lang="zh">火车谋杀迷案</title>
+    <desc>火车谋杀迷案</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012235500 +0800" stop="20251013080000 +0800" channel="378961"><title lang="zh">国家宝藏</title>
+    <desc>国家宝藏</desc>
+    <date>2025-10-12</date>
   </programme><channel id="410286">
-    <display-name lang="Hong Kong">Now爆谷星影台</display-name>
+    <display-name lang="香港">Now爆谷星影台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123759567284_49" />
   </channel>
-  <programme start="20251010091500 +0800" stop="20251010110500 +0800" channel="410286"><title lang="zh">野獸刑警</title>
-    <desc>飛虎隊督察Mike被下放到紅番區, 帶領一群生番差佬, 最令他頭痛的便是爛鬼東。東為人火爆, 全無紀律, 一次遇上黑道好友Roy殺人, 竟殉私讓他潛逃。Mike初到貴境, 被東耍弄得頭暈眼花。然而, 他們要面對真正敵人是新崛起的華...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110500 +0800" stop="20251010123500 +0800" channel="410286"><title lang="zh">兩個只能活一個</title>
-    <desc>阿武是個生活潦倒、嚐盡霉運的窮鬼、一次與麻雀館中人浴血, 被毆至重傷。復癒後, 益發感到生命的亳無意義, 遂決心以命賭命, 通過一名印度籍的經紀, 接了一單殺人的買賣, 代價是八萬八仟元, 行動前夕, 武巧遇麻雀館的打手們, 與他們狠狠地睹了一場, 竟嬴了二十多萬回來...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010123500 +0800" stop="20251010141500 +0800" channel="410286"><title lang="zh">警察故事III</title>
-    <desc>特警家駒潛入內地監獄當臥底以搏取軍火走私要犯豹強信任, 在公安楊建華的協助下他與豹強成功逃獄。後他與楊建華假扮成豹強的同鄉, 以矯捷身手得到豹強的賞識。後與豹強等人到了吉隆坡卻巧遇女友May, May懷疑他與楊建華有戀情而發生爭執, 豹強當場揭穿家駒臥底的身份......</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010141500 +0800" stop="20251010155500 +0800" channel="410286"><title lang="zh">驚天十二小時</title>
-    <desc>新加坡國慶前夕, 適逢達卡啦嘛到新訪問, 日本赤軍恐怖組織聲言要阻止是次訪問並刺殺達卡, 新加坡警方在國慶期間人手不足的情況下與國際刑警香港反恐怖專家雷泰合力保護達卡。新加坡警方便衣探員石頭為雷泰在港時的拍檔, 在達卡未抵新前, 兩人合力破獲赤軍在新的其中一個巢穴, 並獲悉赤軍首領已抵新的消息。國慶前夕, 達卡抵新, 可惜, 在警方嚴密保護下, 達卡仍被赤軍刺傷...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010155500 +0800" stop="20251010173000 +0800" channel="410286"><title lang="zh">冒險王</title>
-    <desc>無字真經失散於江湖, 早已惹來黑白二道, 甚至日本野心家的垂注。衛博士本因目睹木馬失控殺人而放棄考古生涯, 但在多番鼓勵下終於再披戰衣, 遠赴上海追查無字真經下落, 後來發現真經在鹽幫幫主端木明手中, 但此君出沒無常, 於是一場涉及三批人馬明查暗訪勾心鬥角的競賽由此展開...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010192000 +0800" channel="410286"><title lang="zh">蜀山傳</title>
-    <desc>孤月大師與自己徒弟玄天宗相戀, 在一場戰役中被幽泉血魔所殺, 而崑崙山靈氣盡被血魔吸去。二百年後, 血魔又興起進攻, 並用巨石沙海包圍蜀山最高之山峨嵋山。峨嵋開山祖師峨嵋真人, 惟恐此戰傷及凡間, 乃派大弟子丹辰子往山下疏離凡間正在交戰的凡間軍隊。丹辰子應命飛下山, 途中與玄天宗相遇, 兩人戰前碰面...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010192000 +0800" stop="20251010210000 +0800" channel="410286"><title lang="zh">吳三桂與陳圓圓</title>
-    <desc>陳太圓(花名陳圓圓)早計劃搞移民, 發現太太已移情別戀外籍人士, 而其名下大部份財產卻早已轉名給太太, 他頓然感到一無所有。在失意之餘, 陳圓圓致電給吳二牛, 電話是吳二牛之妹吳桂芳(花名吳三桂)所接。陳圓圓在無處投靠之餘, 搬進了吳三桂之家, 最初二人因性格端時常互相爭吵, 但在日久相對下情愫漸生。究竟吳三桂能否為愛情改變自己?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210000 +0800" stop="20251010224000 +0800" channel="410286"><title lang="zh">肥貓流浪記</title>
-    <desc>肥貓為一弱智成年人, 年介三十, 因犯事而被判入獄兩年, 由於他心地善良、無知, 故在獄中表現良好, 更得到社會福利署人仕申請保釋出獄。本來肥貓出獄是好事, 但肥貓父母雙亡, 因此社署只好指派一工作人員BIBI照料肥貓, BIBI接肥貓出獄, 但肥貓因並不認識BIBI, 二人溝通頓成問題, 一日BIBI帶肥貓往離島拜祭肥之雙親後, 正要帶肥回港時, BIBI發生交通意外與肥貓分開, 獨自剩下肥流落於離島, 自此便走上流浪之生涯。於離島一帶流浪一整夜, 肥又餓又凍, 幸遇上性格頑固, 但仍樂於助人之老者, 老者發現肥貓無親無故, 於是收容肥於家中。肥與老者在村裡一同生活, 他的樂觀性格令本來死氣沉沉的村落變得充滿生氣, 而且肥更化解了老者與隔壁之青年JAMES之誤會, 三人更成為好友...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010224000 +0800" stop="20251011003000 +0800" channel="410286"><title lang="zh">最後判決</title>
-    <desc>李是一個年輕神父, 幽默田吻與嶄新作風都令其他神父側目, 但有教無類的態度得到信奉者的認同。雖然是神父, 也會有情慾愛念。李遇上一個迷戀者Donna的情慾陷阱, 結果, 他被控強姦, 李內疚, 但不感覺犯誡, 沒有人相信他是清白, 而願意施以援手的, 只有兩個人...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011003000 +0800" stop="20251011020500 +0800" channel="410286"><title lang="zh">夜驚魂</title>
-    <desc>市內發生連串命案, 猛龍與辣厘王奉命追查, 發現死者皆被刀及白色魚網絲襪所殺, 但苦無破案線索。龍心儀的夜間節目主持人Sissy, 接連遭神秘人騷擾, 疑是變態殺手所為, 借故保護Sissy為名親近為實。某夜, 變態殺手又再出動殺人, Sissy不甘終日活在恐懼中, 自告奮勇穿上白色魚網絲襪, 逗引兇手現身, 可是猛龍、辣厘王走失, Sissy變成變態殺手的囊中物...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020500 +0800" stop="20251011035500 +0800" channel="410286"><title lang="zh">整蠱專家</title>
-    <desc>整蠱專家受聘於金默基對付車文杰, 期間發現自己原來被騙, 決定一走了之。最後他重拾信心與整蠱之霸比賽, 他能否成功勝出並奪得美人歸呢?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011035500 +0800" stop="20251011052000 +0800" channel="410286"><title lang="zh">原振俠與衛斯理</title>
-    <desc>名醫原振俠在泰國北部探險, 發現大巫師將已故酋長之女芭珠血祭「老祖宗」, 原救了芭珠, 卻中了血咒。芭珠以本命護身降救回原振俠一命。但原血咒未消, 到第七次冒血就無藥可救。原找到衛斯理幫忙, 原振俠、女記者彩虹與芭珠的男友黑龍一同出發到泰國找解藥佛眼珠。衛斯理則去取降魔武器, 隨後趕來。大巫師派出嗜血的惡鬼頭與大批手下伏擊原振俠等人...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011052000 +0800" stop="20251011070000 +0800" channel="410286"><title lang="zh">警察故事III</title>
-    <desc>特警家駒潛入內地監獄當臥底以搏取軍火走私要犯豹強信任, 在公安楊建華的協助下他與豹強成功逃獄。後他與楊建華假扮成豹強的同鄉, 以矯捷身手得到豹強的賞識。後與豹強等人到了吉隆坡卻巧遇女友May, May懷疑他與楊建華有戀情而發生爭執, 豹強當場揭穿家駒臥底的身份......</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011070000 +0800" stop="20251011080000 +0800" channel="410286"><title lang="zh">蜀山傳</title>
-    <desc>孤月大師與自己徒弟玄天宗相戀, 在一場戰役中被幽泉血魔所殺, 而崑崙山靈氣盡被血魔吸去。二百年後, 血魔又興起進攻, 並用巨石沙海包圍蜀山最高之山峨嵋山。峨嵋開山祖師峨嵋真人, 惟恐此戰傷及凡間, 乃派大弟子丹辰子往山下疏離凡間正在交戰的凡間軍隊。丹辰子應命飛下山, 途中與玄天宗相遇, 兩人戰前碰面...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011084500 +0800" stop="20251011101500 +0800" channel="410286"><title lang="zh">最佳拍檔之千里救差婆</title>
+  <programme start="20251011084500 +0800" stop="20251011101500 +0800" channel="410286"><title lang="zh">最佳拍檔之千里救差婆</title>
     <desc>紐西蘭老科學家發明三菱鏡可激發人體內的超能力, 反派組織欲奪取三菱鏡及報告, 但不成功。King Kong及科學家之女Sally將鏡帶返香港；反派人士亦跟隨並擄走光頭神探之妻差婆；最佳拍檔要遠赴紐西蘭救差婆及對付反派組織。</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011101500 +0800" stop="20251011115500 +0800" channel="410286"><title lang="zh">地下情</title>
@@ -889,59 +796,53 @@
   </programme><programme start="20251012074000 +0800" stop="20251012080000 +0800" channel="410286"><title lang="zh">Office有鬼</title>
     <desc>每逢踏入農曆七月, 在這幢大廈內工作的人當中, 必定會有九人離奇死亡。Ken剛來這大廈見工, 在大堂內遇見前女友Pat, 及穿紅裙的漂亮女子。電梯內, Pat看見一蹲著的白衣女子, 使她不寒而慄。一日, Pat發現隔壁公司的女秘書Connie與最後廁格內的人談話, 突然傳來了尖叫聲, 只見Connie在雜物房內上吊死去。案發現場樓下的財務公司少東Richard決定在Mary姐退休前, 將她迫走, 以省公司開支。翌日, Richard便與朋離港狂歡。Pat又聽到公司秘書Karen正與最後廁格內的人談話, 後來發現Karen在影印房內自殺。豈料, Pat要當夜班, 正猶疑該否上廁時, 女廁門突然自動開了...</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012091500 +0800" stop="20251012110000 +0800" channel="410286"><title lang="zh">最佳損友</title>
+    <desc>徐定富本是徐定貴之同父異母兄長, 自幼在美長大。及後其父去世, 叔父親自赴美接他返港承繼遺產。富不欲與貴均分家產, 命三損友教壞貴, 三人不但失敗反而與貴成好友, 最後富欣賞貴的才華, 兩兄弟遂一起打理徐氏。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012110000 +0800" stop="20251012124500 +0800" channel="410286"><title lang="zh">痴情快婿</title>
+    <desc>黎明是一名嫉惡如仇的英明幹探, 與來自香港的富家女未婚妻周慧敏藉著假期一同拜會周的父親鄭則士。後來, 黎始知之父親原來是退休黑幫要人, 黎內心忐忑不安。正當二人下機不久, 周立即被人擄去, 黎心急如焚, 且人生路不熟, 唯有往找香港的摯友兼冤家兼前度情誤-國術教練陳勳奇, 合力追尋周的下落。鄭雖已退出江湖, 但在知道女兒與警探相戀後, 亦有所顧忌, 再者, 鄭得悉販毒集團要追殺黎報復, 為保愛女不得已要拆散鴛鴦。鄭更安排郭秀雲色誘黎, 使一對小情侶誤會重生, 卻反而造就了陳與郭這對鬥氣冤家。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012124500 +0800" stop="20251012143000 +0800" channel="410286"><title lang="zh">小親親</title>
+    <desc>一個是專欄作家吳秋月, 以寫「月經」感性辛辣而聞名；一個是電台男DJ章戎, 出名開導普世愛情迷航者, 兩個城中風頭躉, 本來毫不相干。一天, 吳秋月因一張黑膠碟與章戎交惡, 可是死敵也會變俏冤家, 秋月的前男友忽然回來, 吳秋月、章戎的戰事又變成另一個情場上的角力...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012143000 +0800" stop="20251012161000 +0800" channel="410286"><title lang="zh">97家有囍事</title>
+    <desc>老老頭共有三個兒子, 他最疼鍚的便是老么老恭, 但老恭終日游手好閒, 夜夜笙歌, 父子二人關係惡劣。一日, 適逢恭的生日, 兩位兄長聯手戲弄恭, 令其以為中了彩票。恭一時得意忘形, 胡亂揮霍, 欠下賭債, 然後裝傻, 家人信以為真, 對其呵護有加, 並向恭傾吐心事。這次「扮傻」的經歷令恭成長, 更與老父冰釋前嫌。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012161000 +0800" stop="20251012175500 +0800" channel="410286"><title lang="zh">黃飛鴻之西域雄獅</title>
+    <desc>清末民初, 廣東省民團教頭黃飛鴻在廣州設立寶芝林館, 與一班弟子鋤強扶弱, 發揚中華武術。其精通英語的弟子牙刷蘇亦於舊金山開分館, 遂將中華國術發揚海外, 鴻決定與十三姨及弟子鬼腳七遠赴舊金山視察分館業務並順道探望蘇。初抵西域, 便發生意外, 鴻為救十三姨而墮下峽穀...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012175500 +0800" stop="20251012193000 +0800" channel="410286"><title lang="zh">百變星君</title>
+    <desc>富家子李澤星掛名留學, 實際上卻揮金如土, 稱霸校園, 並自命情聖。一日, 因搭上黑幫老大情婦Bonnie, 而遭黑幫刺殺, 被炸得粉身碎骨, 剩三器官生存。李父因其九代單傳, 決定用人造器官移植手術還原星仔, 從此星仔一變成為無敵百變金剛...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012193000 +0800" stop="20251012210000 +0800" channel="410286"><title lang="zh">神探磨轆</title>
+    <desc>服役警界長達十載的中年男子陸志摩 (劉青雲) , 向來辦事魯莽粗疏, 故被警界視為腫瘤；惟其待人真誠, 再加上無功有勞的前題下, 終被遞升為CID。陸雖發奮但同僚卻暗地裡譏笑他為“神探磨轆”。眾幫辦恐防“磨轆”拖累, 遂一致把他推薦給新紮師姐黃雪笙 (伍詠薇) , 以削減雪笙爭功機會, 幸她每次都能化險為夷, 但對“磨轆”卻早存介蒂。在偶然機會下, 他發現雪笙的重大秘密, 原來這位精明的女上司竟然與一個女同志熱戀。然而, 陸不僅為她堅守秘密, 甚至成為其愛情軍師, 出謀獻計, 排解她與女伴Ron (鐘麗緹) 的困擾。惟始料不及的是“磨轆”與Ron本性相近, 竟萌生愛意；最後還被雪笙發現他倆的曖昧關係, 三人關係從此變得混亂。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012224500 +0800" channel="410286"><title lang="zh">爆谷星影好戲: 人嚇人</title>
+    <desc>在紙紮店工作的朱宏利道術不精, 自小由道士二叔公帶大, 並有一位指腹為婚的未婚妻阿雲, 他因不想拖累未婚妻, 而經常冷淡對待她。朱宏利與鎮中望族馬家的後代馬麟祥乃好朋友, 馬麟祥敗光家財, 離鄉出走, 最後卻變成一具屍體回來, 而同時一名身懷六甲, 自稱是馬麟祥妻子的女子, 與幾名男子一同回鄉, 朱宏利心中有懷疑, 決定暗中調查...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012224500 +0800" stop="20251013004000 +0800" channel="410286"><title lang="zh">G4特工</title>
+    <desc>事業愛情面臨崩潰, 羿決定加入G4, 奉命保護訪港的南韓商貿政要, 而女友Carmen正是負責接待的公關。南韓淚進分子借助退役軍人, 偷取美製刺針式飛彈, 進行跨國暗殺, 悍然把戰場帶上街頭, 爆發一場轟天劇鬥, 使陷於困惑的羿和Carmen, 更被逼進一個危機重重的死角......</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013004000 +0800" stop="20251013022000 +0800" channel="410286"><title lang="zh">致命性騷擾</title>
+    <desc>一宗性騷擾事件引發辦公室的政治風波, 一次調查事件揭露兩名高層的明爭暗鬥, 金錢、名利、肉慾導致兩宗的殺人事件發生...公司職員Amy一天持生果刀傷了高層卓, 還以為會報警處理她, 竟被Amy反控強姦罪名。公司避免與另一間公司的合併事件觸礁, 把事件低調處理, 並委派法律顧問Joe前來調查。卓因此事而離開, 背後策劃整件事的是另一高層Jac...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013022000 +0800" stop="20251013040500 +0800" channel="410286"><title lang="zh">黃飛鴻之西域雄獅</title>
+    <desc>清末民初, 廣東省民團教頭黃飛鴻在廣州設立寶芝林館, 與一班弟子鋤強扶弱, 發揚中華武術。其精通英語的弟子牙刷蘇亦於舊金山開分館, 遂將中華國術發揚海外, 鴻決定與十三姨及弟子鬼腳七遠赴舊金山視察分館業務並順道探望蘇。初抵西域, 便發生意外, 鴻為救十三姨而墮下峽穀...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013040500 +0800" stop="20251013054000 +0800" channel="410286"><title lang="zh">Office有鬼</title>
+    <desc>每逢踏入農曆七月, 在這幢大廈內工作的人當中, 必定會有九人離奇死亡。Ken剛來這大廈見工, 在大堂內遇見前女友Pat, 及穿紅裙的漂亮女子。電梯內, Pat看見一蹲著的白衣女子, 使她不寒而慄。一日, Pat發現隔壁公司的女秘書Connie與最後廁格內的人談話, 突然傳來了尖叫聲, 只見Connie在雜物房內上吊死去。案發現場樓下的財務公司少東Richard決定在Mary姐退休前, 將她迫走, 以省公司開支。翌日, Richard便與朋離港狂歡。Pat又聽到公司秘書Karen正與最後廁格內的人談話, 後來發現Karen在影印房內自殺。豈料, Pat要當夜班, 正猶疑該否上廁時, 女廁門突然自動開了...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013054000 +0800" stop="20251013071500 +0800" channel="410286"><title lang="zh">百變星君</title>
+    <desc>富家子李澤星掛名留學, 實際上卻揮金如土, 稱霸校園, 並自命情聖。一日, 因搭上黑幫老大情婦Bonnie, 而遭黑幫刺殺, 被炸得粉身碎骨, 剩三器官生存。李父因其九代單傳, 決定用人造器官移植手術還原星仔, 從此星仔一變成為無敵百變金剛...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013071500 +0800" stop="20251013080000 +0800" channel="410286"><title lang="zh">歡場</title>
+    <desc>七名表面上被解僱的女警: 豪放女、女教徒、愛金、福爾摩斯、六呎三、肥妹及沙展蟹鉗, 原來要為一名變態色魔案件, 在日式夜總會當臥底。在罪惡城夜總會中第一組媽媽生QE乃最紅, 時常難為女警們。在龍鳳榜宣傳夜, 蟹鉗命令各人不顧一切盡力拉票, 而QE之弟大隻強誘騙豪放女外出拍照...</desc>
+    <date>2025-10-12</date>
   </programme><channel id="410285">
-    <display-name lang="Hong Kong">Now 爆谷台</display-name>
+    <display-name lang="香港">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96" />
   </channel>
-  <programme start="20251010084500 +0800" stop="20251010090000 +0800" channel="410285"><title lang="zh">爆谷電影現場 第254集 </title>
-    <desc>爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010090000 +0800" stop="20251010120000 +0800" channel="410285"><title lang="zh">黃金時代</title>
-    <desc>上世紀二十至四十年代的中國, 是一個民氣十足、海闊天空的時代, 一群年輕人自由地追求夢想與愛情......蕭紅, 一個特立獨行的女子, 一路流亡, 從哈爾濱到香港, 一邊躲避戰亂, 一邊經歷著令人唏噓又痛徹心扉的愛情與人生。對生的堅強對死的掙扎在她筆下穿透紙背, 她的人生亦是如此。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010135500 +0800" channel="410285"><title lang="zh">斷網</title>
-    <desc>電子熒幕背後藏著一片詭秘的網絡森林, 滿佈光纖與數據, 是孕育技術與滋長病毒的奇幻空間。黑客們在網絡森林播毒, 發動了一次大規模的網絡襲擊, 幸得天才網絡保安主任卓家俊利用自身研發的防火牆, 化解危機。殊不知病毒攻擊原來是由其上司陳明志所操控, 家俊亦因此誤墮其洗黑錢圈套, 陷入險境。為證清白, 家俊與陳明志展開激烈鬥法。家俊暗中在網絡森林煉製具備人工智能 (AI) 的超級病毒, 更不惜游走危險領域 -潛伏並攻擊各路黑客, 誓要找出陳明志罪證!同時, 陳明志不擇手段, 命令黑客反奪家俊手上解密科技, 更綁架其女兒卓寶兒及恐嚇其妻子詠珊。家人生命受到威脅, 家俊受盡掣肘, 更禍不單行的是, 其研發的AI病毒失控, 迅速竄入各個電腦系統, 瞬間全城斷網, 引起莫大恐慌, 後果不堪設想...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010135500 +0800" stop="20251010154500 +0800" channel="410285"><title lang="zh">蠟筆小新劇場版：我們的恐龍日記</title>
-    <desc>就快踏入暑假, 小新真係超級~興奮!更犀利嘅係呢個假期仲有一個震撼全世界嘅大消息--將絕種恐龍復活到現代嘅「恐龍樂園」將會喺東京開幕!春日防衛隊竟然仲受到特別邀請, 可以一齊去參觀, 又可以去世界矚目嘅「恐龍樂園」玩, 又可以近距離見到巨大嘅恐龍, 小新佢哋自然係超級無敵興奮!隨住樂園開幕, 世界亦掀起一股恐龍風潮!與此同時, 小白喺春日部嘅河邊遇見一隻叫做「拿拿」嘅小恐龍。喺小新佢哋苦苦哀求下, 拿拿正式入住野原家, 同小新、小白一齊生活, 創造出好多重要又特別嘅回憶。但正當小新享受緊呢個與別不同嘅暑假, 恐龍竟然逃出咗恐龍樂園, 湧入東京中心, 甚至走入春日部!到底呢場「恐龍之亂」可以點收科?拿拿身上又隱藏住咩重大秘密?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010154500 +0800" stop="20251010182500 +0800" channel="410285"><title lang="zh">滿江紅</title>
-    <desc>南宋紹興年間, 岳飛死後四年, 秦檜率兵與金國會談。會談前夜, 金國使者死在宰相駐地, 所攜密信也不翼而飛。小兵張大與親兵營副統領孫均機緣巧合被裹挾進這巨大陰謀之中, 宰相秦檜命兩人限一個時辰之內找到兇手。伴隨危機四伏的深入調查, 宰相府總管何立、副總管武義淳、舞姬瑤琴等人捲入局中, 案件的背後似乎隱藏著一場更大的陰謀。局中有局、人心叵測, 一夜之間風雲變幻, 各方勢力暗流湧動...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010182500 +0800" stop="20251010200000 +0800" channel="410285"><title lang="zh">冤鴦大盜</title>
-    <desc>一對恩愛的情侶阿喬和阿玫某日突然得悉惡耗: 阿喬患有腦瘤, 急需一百萬泰銖進行手術。無計可施之下, 他們決定去搶劫一間找換店。不幸的是, 找換店在同一日遭遇另一單劫案, 阿喬和阿玫跟店內其餘10名顧客被職業劫匪扣押為人質。當這群人被困於店內無路可逃時, 各人埋藏的陰謀和秘密逐一被揭露, 究竟這場劫中劫誰是無辜?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010213000 +0800" channel="410285"><title lang="zh">芳韻流傳: 朝花夕拾．芳華絕代</title>
-    <desc>故事由2013年梅艷芳未有送到拍賣的遺物, 被一車車丟到垃圾收集站, 歌迷在執拾梅艷芳的遺物作為整個故事的切入點, 珍貴遺物被淋上紅色漆油, 有的甚至「被輾轉」地到了夜冷店, 但每一件可能被旁人視為微不足道的垃圾, 在梅迷眼中均是寶藏, 他們不怕骯髒邋遢、不怕遭警察查問, 仍堅持盡力把被棄置的遺物拿走, 不想這些瑰寶無聲無息地被送到堆填區。在別人眼中沒什麼價值、由個人所寫的的賀卡、便條、信件丶心意禮物等等, 梅艷芳也一直視為珍寶, 一直好好地保存著, 有的物件甚至連歌迷本人也忘記曾經送予偶像......一眾歌迷不忍這些充滿回憶和意義的物件就此被丟棄, 除了盡了最大努力把部分從垃圾收集站取回之後, 盡可能物歸原主。故事就由這些遺物而展開, 透過這些小物件而牽引劇情, 幾位梅迷都有著自己的成長故事, 而他們在人生中微妙的改變, 都與梅艷芳有著莫大關係: 因為梅艷芳而從孤寂怕事變得開朗積極; 因</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010213000 +0800" stop="20251010215000 +0800" channel="410285"><title lang="zh">爆谷製造 </title>
-    <desc>入圍台灣金馬獎最佳男主角、女主角、音效, 三項提名的《看我今天怎麼說》, 由黃修平執導, 鍾雪瑩、游學修、吳祉昊主演, 講述三位聾人青年活出真我的故事。游學修親述為接近角色的聽力程度, 差點取不出耳塞的經歷。出爐影后鍾雪瑩大談如何透過讀唇逐漸靠近角色。二人更分享角逐金馬獎影帝、影后的感受</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010215000 +0800" stop="20251010220000 +0800" channel="410285"><title lang="zh">爆谷電影現場 第247集 </title>
-    <desc>爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010234500 +0800" channel="410285"><title lang="zh">沒有美色殺人狂</title>
-    <desc>外表猙獰的醜男兄弟宰弼和塽邱因外貌深受世人誤解, 決心用全副身家買下神秘荒廢小屋, 歸隱田園, 與狗狗過寧靜安穩的生活。豈料到埗第一天, 因救了一個前來度假的女學生美娜, 卻被同行朋友當成變態殺人狂魔, 因此而被警察盯上...平淡日子遙遙無期, 更發生連串誤會, 多人在他們的溫馨小屋意外死亡, 同時竟喚醒了屋內被封印多年的超級惡魔, 兄弟臨時組成「屠魔二人組」拯救世界, 高呼「我很醜, 但我很好人」!</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010234500 +0800" stop="20251011000000 +0800" channel="410285"><title lang="zh">爆谷電影現場 第254集 </title>
-    <desc>爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011020500 +0800" channel="410285"><title lang="zh">幻愛</title>
-    <desc>善良戇直的小學教師阿樂 (劉俊謙 飾) , 是精神分裂症康復者, 渴望愛情但從來不敢戀愛。他在街頭偶遇了清麗脫俗的欣欣 (蔡思韵 飾) , 一見鍾情卻掙扎應否透露病情, 不幸再次病發, 被幻覺纏繞。他更發現她的真正身分, 竟然是個攻於心計的心理輔導員?二人發展出一段懸疑曲折的禁戀, 疑幻似真。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020500 +0800" stop="20251011040500 +0800" channel="410285"><title lang="zh">我的麻煩老友</title>
-    <desc>甘小文生性吝嗇, 人人都對他敬而遠之。一天, 他不請自到同事鐵男和阿銀的婚禮, 還揭露他和阿銀有過一夜情, 婚禮不歡而散, 阿甘帶醉開車回家, 不料重傷入院。天使要帶走阿甘, 阿甘求饒, 天使答應在七天之內有七個人來探望他, 就免他一死。同事們對他復活視而不見, 阿甘為改善人際關係參加EQ大學堂, 遇到比他更討厭的阿童, 離限期已是最後一天了, 阿甘為了救阿童, 再次撞成重傷......</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011040500 +0800" stop="20251011055500 +0800" channel="410285"><title lang="zh">扮工女團補英班</title>
-    <desc>1995年, 子英 (高我星 飾) 、宥娜 (李絮 飾) 、寶藍 (朴惠秀 飾) 三人已在三振集團公司待了8年, 雖然她們擁有卓越的工作能力, 但因高中畢業的學歷讓她們在公司的地位不高。為了能獲得升遷機會而一起參加公司多益班的她們, 後來發現公司有不正當的行為, 便決定冒著被公司解僱的風險, 同心協力與公司正面對決......</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011055500 +0800" stop="20251011075500 +0800" channel="410285"><title lang="zh">來福大酒店</title>
-    <desc>昔日的「街頭混子」李清讓出獄再就業接連碰壁, 和老熟人王達基的偶然相遇, 讓他懷揣陰謀入職“病友之家”, 這其中隱藏著什麼不不為人知的交易?又會和來福大飯店潑辣老闆娘碰撞出怎樣驚心動魄的故事?隨著陰謀與衝突不斷浮現, 一面是朝夕相處勝似親人的病友們, 一面是老熟人拋來的賺錢橄欖枝, 他究竟該何去何從, “病友之家”來福大酒店又能否化險為夷...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011075500 +0800" stop="20251011080000 +0800" channel="410285"><title lang="zh">爆谷製造 </title>
-    <desc>《送院途中》講述三位救護員對工作的熱愛和取捨, 以及在他們拯救生命的同時, 如何拯救自己的故事。三位飾演救護員的古天樂、游學修及潘燦良暢談拍攝經過。古天樂指雖然他們在片場甚少溝通, 但拍攝時大家都充滿默契。潘燦良亦分享戲中一幕令他心有餘悸的場面。電影背後的故事, 就由三位親自揭開。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011081000 +0800" stop="20251011101500 +0800" channel="410285"><title lang="zh">秘密之丘</title>
+  <programme start="20251011081000 +0800" stop="20251011101500 +0800" channel="410285"><title lang="zh">秘密之丘</title>
     <desc>「家人是什麼意思?對我來說, 這仍然是一個謎。」踏入敏感成長階段的12歲少女明恩為工人職業的家人感到難堪, 她不斷撒謊以掩蓋自己真實的家庭狀況。然而, 當她寫作時, 卻不受現實限制。明恩在作品中傾注了自己的感情, 為自己構建了一個與眾不同的世界。然而, 一位新同學的寫作, 動搖了她的自信, 令她嘗試了解自己的家庭背景。</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011101500 +0800" stop="20251011115500 +0800" channel="410285"><title lang="zh">猛鬼3寶</title>
@@ -992,83 +893,53 @@
   </programme><programme start="20251012064500 +0800" stop="20251012080000 +0800" channel="410285"><title lang="zh">中國合伙人</title>
     <desc>成東青, 農村出身的土鱉；孟曉駿, 精英知識分子；王陽, 浪漫派的詩人。三個各走極端的人, 因一個美國夢而把他們綁在一起, 申請簽証卻是兩個成功, 一個被拒。而後來「新夢想」學校的空前成功, 使成東青被塑造為留學教父, 由土鱉蛻變成領導者, 讓孟曉駿看不過去, 二人嫌隙日深......</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012083500 +0800" stop="20251012104500 +0800" channel="410285"><title lang="zh">北齋：浮世繪傳奇</title>
+    <desc>葛飾北齋是江戶時代後期的浮世繪畫師, 由18歲開始學畫, 一生創作超過三萬幅畫作, 其少年經歷卻鮮為人知。《北齋: 浮世繪傳奇》揭秘他逐步成為傳奇畫師之路, 重現他於生命的最後如何畫下名留千古的《富嶽三十六景》。一代藝術泰斗如何掀起一場驚濤拍岸, 又捲起千堆陽春白雪的傳奇人生。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012104500 +0800" stop="20251012122000 +0800" channel="410285"><title lang="zh">老鼠愛上貓</title>
+    <desc>北宋年間, 開封包拯明鏡高懸, 嫉惡如仇, 全國天下太平。正因國泰民安, 開封府漸無用武之地, 連龍虎狗頭鍘也快要生銹。來自江湖的游俠展昭, 為跟隨包大人而放棄以往放浪不羈的生活。可是熱愛自由的他已開始厭倦苦悶的官場生活, 他既緬懷過去的雲游四海, 又幻想自己披上黑衣行俠仗義!一次行動中, 他遇上了一生中既最可怕但又最重要的朋友錦毛鼠白玉堂...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012122000 +0800" stop="20251012135000 +0800" channel="410285"><title lang="zh">此情此刻</title>
+    <desc>《此情此刻》描述四段關係: 面臨分手又難離難捨的愛侶、久別再遇的父女、逃避長大的女生、以及兩個因誤會十年不見的好友。由「麗誠影室」這間舊式照相館把故事串連在一起。不同人物不同故事, 因著不同經歷而有不同感悟, 但都指向我們對這城的感覺。是他是她, 也是你和我。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012135000 +0800" stop="20251012162500 +0800" channel="410285"><title lang="zh">七劍</title>
+    <desc>於1600年間, 滿清雖已入關, 但中原武林仍隱藏不少反抗力量, 滿清親王哆格多頒佈禁武令, 並派前朝降清高手風火連城剿殺各地違令武林人士, 而風火連城的下一個目標便是西北邊陲的武莊。武莊表面上住了一批莊稼人, 實則是反清組織天地會分舵人馬。路見不平的俠醫傅青主認為要解武莊之危, 只有帶了兩位武莊青年武元英和韓志邦上天山求助。天山萬里冰封, 住了一位擅於鑄劍的世外高人晦明大師。晦明有四大弟子: 楚昭南、楊雲驄、穆郎、辛龍子, 其中大師兄楚昭南, 依仗師傅所傳的絕世寶劍, 希望將來可在江湖上快意恩仇；二弟子楊雲驄, 雖武功高強卻無意再涉足凡塵。然而, 當楊雲驄冒險在雪崩危機中救了遇險的武元英, 其清淨的天山生活終於被打擾了...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012162500 +0800" stop="20251012180500 +0800" channel="410285"><title lang="zh">小白龍情海翻波</title>
+    <desc>材貌出眾的黑鳳在一貴族學校讀書, 她最大的志願是能夠嫁給皇子, 成為皇妃, 而二皇子在學校遇到黑鳳後亦一見鍾情, 二人互生情愫。一天, 學校突然出現一名殺手--盲俠「一地雞毛」, 企圖行刺校長......</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180500 +0800" stop="20251012200000 +0800" channel="410285"><title lang="zh">絕世好B</title>
+    <desc>Lena, Johnny 和 Wayne 受命開發以「絕世好 B」為宣傳重點的嬰兒產品系列. Johnny 初做主管, 聘請了神經兮兮的 Sabrina 為女秘書. Lena 得知 Wayne 對嬰兒有恐懼症, 於是特別從日本請來兒童行為專家 Boey 協助他完成工作. Lena 發現 Wayne 在研究 BB 產品時, 與 Boey 的關係越來越密切, 妒火中燒. Boey 為免成為第三者, 悄然離開. Johnny 與 Wayne 幾經辛苦終於完成「絕世好 B」系列......</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012200000 +0800" stop="20251012220000 +0800" channel="410285"><title lang="zh">安信兄弟為你呈獻：爆谷周日・港・好戲: 填詞L</title>
+    <desc>「天生我材必有用」, 羅穎詩誤信師長的讒言, 認定寫歌詞是她這輩子的使命, 立志要當填詞人!好事多磨, 儘管阿詩扭盡六壬、奇招百出, 一邊增進填詞功力、一邊廣結善緣, 仍未能成功入行, 做不成填詞人, 反淪為填詞L。「只要有恆心, 鐵柱磨成針」, 填詞L揹著夢想的包袱在填滿遺憾的道上狂奔!</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012220000 +0800" stop="20251012234500 +0800" channel="410285"><title lang="zh">一個人的武林</title>
+    <desc>噱號南拳王的洪拳武術家暴斃於行車隧道, 屍身並沒刀傷或槍傷痕跡, 初步鑑定死於拳擊, 重案組總督察陸玄心專責調查, 始終毫無頭緒, 卻接到監獄消息, 犯了誤殺罪的服刑犯人夏侯武, 主動表示願意協助警方調查, 條件是即時假釋。「先練拳次練腿, 後擒拿用兵器, 由內而外」, 夏侯武斷言兇手行兇目的並非尋仇, 且會繼續犯案。果然, 號稱北腿王、擒拿王、兵器王的武術界精英相繼遇害, 均死於各自本門功夫之下。得到夏侯武提供線索, 陸玄心終於發現兇手藏身大澳, 這時夏侯武卻違反假釋令突然失蹤...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012234500 +0800" stop="20251013000000 +0800" channel="410285"><title lang="zh">爆谷製造 </title>
+    <desc>動作替身是電影的無名英雄, 他們上場時傷痕纍纍, 觀眾卻不見其廬山真面目。在電影《武替道》裏面飾演動作替身的演員劉俊謙, 連同在戲中飾演動作巨星的伍允龍, 一同接受訪問。他們會由接拍電影的契機, 再談到對於香港動作電影的冀望。而一早已建立默契的二人, 更會大爆對方在片場的舉動, 以及初相識的經過...</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013000000 +0800" stop="20251013014500 +0800" channel="410285"><title lang="zh">無間道</title>
+    <desc>無間道是講述兩個身份混亂的人, 陳永仁(梁朝偉飾)和劉健明(劉德華飾), 他們各自身為警方及黑社會的臥底, 決心要離開這個不辨是非的處境, 離開無間地獄, 尋回自已。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013014500 +0800" stop="20251013033500 +0800" channel="410285"><title lang="zh">寒戰2</title>
+    <desc>上集《寒戰》謎團重重, 香港面臨空前危機, 警隊每個人都可能是內鬼, 而《寒戰2》將會直擊謎底, 揭露幕後黑手。郭富城、梁家輝、周潤發三大影帝演技交鋒, 戲焰逼人；加上楊采妮、文詠珊等氣質女演員, 還有彭于晏、李治廷, 楊祐寧等新生代型男隆重加盟, 打造香港最強戲勢陣容。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013033500 +0800" stop="20251013050000 +0800" channel="410285"><title lang="zh">黑的教育 (導演版)</title>
+    <desc>歃血為盟算什麼兄弟, 有種就分享見不得光的壞祕密!高中畢業, 三男集結天臺, 嚷嚷等價交換, 說出來的話卻一個比一個毛骨悚然。開過頭的玩笑, 意外觸發暗夜奔逃, 堪稱最慘成年禮。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013050000 +0800" stop="20251013065000 +0800" channel="410285"><title lang="zh">一路驚喜</title>
+    <desc>本片由6個小故事組成, 講述生活在不同環境的人在除夕夜為趕及回家團圓的故事。婚禮策劃專家嘉怡在為客人籌劃第一百個婚禮時萌起結婚的衝動, 可是男友維利經歷過父母分別兩次婚姻失敗的陰影下對結婚有所抗拒；究竟二人最終能否開花結果?是「婚」還是「分」!退役體操皇后林娜娜在除夕夜作動入院, 其丈夫大明星蕭敬明原以為可陪伴完娜娜臨盆後便可趕赴電視台參加倒數直播節目；可是事與願違, 娜娜臨盆過程延遲而同時電視台方面不斷來電催促；面對事業和家庭的抉擇, 敬明如何是好?工作狂警察鍾偉及亞倫聯手緝捕罪犯猴子歸案, 被捕的猴子要求二人通融先向其年老體弱的祖母話別；二人同意, 就在猴子與祖母話別過程中二人深深體會到自己冰封已久的親情和感情。決定為自己的人生爭取最大的幸福!他們雖在人生路上都面臨着困難和交叉點, 但懷着對團圓的期望。使這次人生旅程帶給他們無數的一路驚喜。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013065000 +0800" stop="20251013080000 +0800" channel="410285"><title lang="zh">誠實選舉媽 2</title>
+    <desc>朱尚淑在首爾市長選戰中落選後, 變成了一個無業游民, 但某天她偶然拯救了一名落海的民眾而上了新聞, 進而獲得在故鄉華麗回歸的機會。然而, 朱尚淑卻因太過誠實, 導致支持率跌到谷底, 就在她又要重新開始說謊的瞬間, 竟又變得只能說真話, 而且這次竟連她的祕書室長也無法說謊?!</desc>
+    <date>2025-10-12</date>
   </programme><channel id="369671">
     <display-name lang="馬來西亞">iQIYI HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010090000 +0800" channel="369671"><title lang="zh">Golden Trio</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010090000 +0800" stop="20251010100000 +0800" channel="369671"><title lang="zh">Golden Trio</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010100000 +0800" stop="20251010110000 +0800" channel="369671"><title lang="zh">Romance on the Farm</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110000 +0800" stop="20251010120000 +0800" channel="369671"><title lang="zh">Romance on the Farm</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010130000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010140000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010150000 +0800" channel="369671"><title lang="zh">Beloved</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150000 +0800" stop="20251010160000 +0800" channel="369671"><title lang="zh">Beloved</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010160000 +0800" stop="20251010170000 +0800" channel="369671"><title lang="zh">Dark Night And Dawn</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010170000 +0800" stop="20251010180000 +0800" channel="369671"><title lang="zh">Dark Night And Dawn</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010180000 +0800" stop="20251010190000 +0800" channel="369671"><title lang="zh">Romance on the Farm</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010200000 +0800" channel="369671"><title lang="zh">Romance on the Farm</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010210000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210000 +0800" stop="20251010220000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010225000 +0800" channel="369671"><title lang="zh">Beloved</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010225000 +0800" stop="20251010234000 +0800" channel="369671"><title lang="zh">Footprints Of Change</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010234000 +0800" stop="20251011012000 +0800" channel="369671"><title lang="zh">Romance on the Farm</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011012000 +0800" stop="20251011024000 +0800" channel="369671"><title lang="zh">Nvxia Fan Lihua</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011024000 +0800" stop="20251011033000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011033000 +0800" stop="20251011042000 +0800" channel="369671"><title lang="zh">A Beautiful Lie</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011042000 +0800" stop="20251011051000 +0800" channel="369671"><title lang="zh">Beloved</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011051000 +0800" stop="20251011060000 +0800" channel="369671"><title lang="zh">Footprints Of Change</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011060000 +0800" stop="20251011070000 +0800" channel="369671"><title lang="zh">A Lonely Hero's Journey</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011070000 +0800" stop="20251011080000 +0800" channel="369671"><title lang="zh">A Lonely Hero's Journey</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011093000 +0800" channel="369671"><title lang="zh">Blade Of Fury</title>
+  <programme start="20251011080000 +0800" stop="20251011093000 +0800" channel="369671"><title lang="zh">Blade Of Fury</title>
     <desc />
     <date>2025-10-11</date>
   </programme><programme start="20251011093000 +0800" stop="20251011104000 +0800" channel="369671"><title lang="zh">Horror Legend Of Miao Ling</title>
@@ -1113,50 +984,56 @@
   </programme><programme start="20251012070000 +0800" stop="20251012080000 +0800" channel="369671"><title lang="zh">A Lonely Hero's Journey</title>
     <desc />
     <date>2025-10-11</date>
+  </programme><programme start="20251012080000 +0800" stop="20251012093000 +0800" channel="369671"><title lang="zh">Special Monster</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012093000 +0800" stop="20251012104000 +0800" channel="369671"><title lang="zh">The God Lei Zhenzi</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012104000 +0800" stop="20251012120000 +0800" channel="369671"><title lang="zh">Atrocious</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012150000 +0800" channel="369671"><title lang="zh">No information available</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012150000 +0800" stop="20251012162000 +0800" channel="369671"><title lang="zh">Fox Demon Legend</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012162000 +0800" stop="20251012171000 +0800" channel="369671"><title lang="zh">Dark Night And Dawn</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012171000 +0800" stop="20251012180000 +0800" channel="369671"><title lang="zh">Dark Night And Dawn</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180000 +0800" stop="20251012193000 +0800" channel="369671"><title lang="zh">Bao Zheng</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012193000 +0800" stop="20251012210000 +0800" channel="369671"><title lang="zh">Green Snake</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012223000 +0800" channel="369671"><title lang="zh">Seven Heroes Beat The Monster</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012223000 +0800" stop="20251013011000 +0800" channel="369671"><title lang="zh">Infernal Storm</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013011000 +0800" stop="20251013024000 +0800" channel="369671"><title lang="zh">Rhapsody In Bathhouse</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013024000 +0800" stop="20251013042000 +0800" channel="369671"><title lang="zh">Island Python</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013042000 +0800" stop="20251013060000 +0800" channel="369671"><title lang="zh">Treasure Hunting Of The Dragon In Shanghai Beach</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013060000 +0800" stop="20251013080000 +0800" channel="369671"><title lang="zh">A Lonely Hero's Journey</title>
+    <desc />
+    <date>2025-10-12</date>
   </programme><channel id="1298">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
-  <programme start="20251010080500 +0800" stop="20251010100000 +0800" channel="1298"><title lang="zh">July Rhapsody</title>
-    <desc>A 40-year-old high school teacher is in midlife crisis, his marriage is on the rocks and he is involved in a taboo romance with a female student who has a crush on him.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010100000 +0800" stop="20251010114500 +0800" channel="1298"><title lang="zh">Death Stranding</title>
-    <desc>The Police and gambling association team up to overhaul underground gambling by auctioning new casino licenses. This unveils the hidden interests and secrets while sparking conflicts between gangs...</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010114500 +0800" stop="20251010134000 +0800" channel="1298"><title lang="zh">Wolf Pack</title>
-    <desc>Specializing in overseas security jobs, The Wolf Pack discovers that terrorists are planning to destroy the country's energy source. Lead by Lao Diao, the pack must move out to stop them!</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010134000 +0800" stop="20251010152000 +0800" channel="1298"><title lang="zh">Undercover Hidden Dragon</title>
-    <desc>When a low-rank triad member is informed by 3 cops that he is an undercover police officer who lost his memory, he is forced to search for the truth when he falls in love with one of the cops.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010152000 +0800" stop="20251010171500 +0800" channel="1298"><title lang="zh">Vanguard</title>
-    <desc>Vanguard, a covert private security, is tasked with protecting an accountant targeted by deadly mercenaries. In the process, they also discover another dangerous conspiracy.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010171500 +0800" stop="20251010190000 +0800" channel="1298"><title lang="zh">Cruel War</title>
-    <desc>Scientist Yan Xin attempts to plant super rubber seeds on a remote island to create a new land. Joined by her ex-husband, they face deadly clashes with a local drug cartel amid rising conflicts.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010210000 +0800" channel="1298"><title lang="zh">Adventure of the King</title>
-    <desc>When Emperor Zheng De fled the palace to avoid an unwanted marriage, he never expected to lose his money &amp;amp; his advisors. Fortunately, the kind inn owner, Phoenix, takes him in out of pity.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210000 +0800" stop="20251010230500 +0800" channel="1298"><title lang="zh">The Monkey King</title>
-    <desc>Donnie Yen, Chow Yun Fat &amp;amp; Aaron Kwok star in this classic-inspired tale of the Monkey King's legendary Journey To The West.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230500 +0800" stop="20251011005000 +0800" channel="1298"><title lang="zh">Red Line</title>
-    <desc>A former professional racer falls into despair after causing his brother's death. He meets Dr. Hui &amp;amp; becomes an ambulance driver. Meanwhile, his friends uncover the truth behind his brother's accident.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011005000 +0800" stop="20251011025500 +0800" channel="1298"><title lang="zh">New Police Story</title>
-    <desc>A sozzled police inspector (Jackie Chan) must pull himself up again after a bungled mission causes his entire team to be wiped out.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011025500 +0800" stop="20251011043500 +0800" channel="1298"><title lang="zh">Life Must Go On</title>
-    <desc>When the midnight gymnasium programme for wayward teenage girls is at risk of closing down due to funding, social worker Yanki puts together a dodgeball team to compete in a match to save it.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043500 +0800" stop="20251011063500 +0800" channel="1298"><title lang="zh">Look Up</title>
-    <desc>Celebrating the 25th anniversary of HK's Handover with an anthology of 4 stories about an autistic young man, a reconciliation, a Chinese opera star &amp;amp; a Nepali youth.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011063500 +0800" stop="20251011080000 +0800" channel="1298"><title lang="zh">Lost Love</title>
-    <desc>Mei tries to get over her young son's death by becoming a foster parent. Her dedication to the children leads her to neglect her husband.  Will the couple be able to salvage their relationship?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011081500 +0800" stop="20251011100500 +0800" channel="1298"><title lang="zh">Romantic Dream</title>
+  <programme start="20251011081500 +0800" stop="20251011100500 +0800" channel="1298"><title lang="zh">Romantic Dream</title>
     <desc>A mechanic bumps into his dream girl for the second time after making his pile. This time, he just may get to be with her, even if itis only in his dreams.</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011100500 +0800" stop="20251011121000 +0800" channel="1298"><title lang="zh">Song of the Assassins</title>
@@ -1198,164 +1075,50 @@
   </programme><programme start="20251012073500 +0800" stop="20251012080000 +0800" channel="1298"><title lang="zh">Legally Declared Dead</title>
     <desc>An insurance agent who finds his clients' son dead in their bathroom begins to suspect that the parents may have something to hide.</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012093500 +0800" stop="20251012115000 +0800" channel="1298"><title lang="zh">Mama's Affair</title>
+    <desc>A Hong Kong drama written &amp;amp; directed by Kearen Pang, former talent manager Mei Fung retired to take care of her husband &amp;amp; son, but decides to return to work to find her value in life.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012115000 +0800" stop="20251012133500 +0800" channel="1298"><title lang="zh">Caught In Time</title>
+    <desc>Based on a string of real robberies and murder cases, a detective engages in a mouse-and-cat game with the 'Eagle Gang', a group of sophisticated, well-trained and ruthless robbers.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012133500 +0800" stop="20251012152500 +0800" channel="1298"><title lang="zh">Crypto Storm</title>
+    <desc>ICAC officer Lok sets up a special team to investigate a corruption case involving a bank's top executive's use of cryptocurrency to manipulate the trading market.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012152500 +0800" stop="20251012173000 +0800" channel="1298"><title lang="zh">The Prosecutor</title>
+    <desc>A young man is wrongly convicted of drug trafficking. A former cop turned prosecutor believes in his innocence and launches an investigation, risking his life and career to find the true perpetrator.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012173000 +0800" stop="20251012191500 +0800" channel="1298"><title lang="zh">77 Heartwarmings</title>
+    <desc>After breaking up with Adam, Eva focuses on her career, but Adam is determined to win her back and makes 77 attempts to do so. The situation worsens when a Thai movie idol courts Eva</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012191500 +0800" stop="20251012210000 +0800" channel="1298"><title lang="zh">May We Chat</title>
+    <desc>Dealing with the controversial issues of youth and sex, this film captures how three young women struggle to find a balance between reality and their ideals.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012223000 +0800" channel="1298"><title lang="zh">Beyond The Sin</title>
+    <desc>Inspector Yan's daughter is found dead, and her classmate Wen is arrested. However, when another killing occurs after Wen's imprisonment, Yan begins to suspect that the true killer is still at large.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012223000 +0800" stop="20251013002000 +0800" channel="1298"><title lang="zh">Tristar</title>
+    <desc>A young priest striving to save lost souls crosses paths with a prostitute seeking refuge in the church to escape her debts, they get entangled in a CID investigation into a prostitution ring.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013002000 +0800" stop="20251013020000 +0800" channel="1298"><title lang="zh">Happy Dragons</title>
+    <desc>Four retired secret agents embark on a quest for the 'Golden Relic' which turns back time and restores their youth. As they strive to rectify past mistakes, they unravel a hidden conspiracy.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013033500 +0800" channel="1298"><title lang="zh">Hell Hole</title>
+    <desc>The movie features three horror stories in different era, revolving around a pregnant woman, a bullied boy who committed suicide, and some company staff who open a box of used clothes.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013033500 +0800" stop="20251013053500 +0800" channel="1298"><title lang="zh">Hero</title>
+    <desc>Set in 2020 during the outbreak of COVID-19, the movie features interconnected stories of three women's lives as they navigate the uncertain future amongst their respective friends and families.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013053500 +0800" stop="20251013071500 +0800" channel="1298"><title lang="zh">I Believe</title>
+    <desc>Chu Chu waits 10 years for her first love, who marries another. Losing faith, she meets a wedding planner and a wealthy man, both offering solace. Torn between them, who will she choose in the end?</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013071500 +0800" stop="20251013080000 +0800" channel="1298"><title lang="zh">Inner Senses</title>
+    <desc>Haunted by recurring visions stemming from past traumas, Yan seeks help from psychiatrist Dr Jim. As she heals, Jim is haunted by the same disturbances when his suppressed memories resurface.</desc>
+    <date>2025-10-12</date>
   </programme><channel id="368550">
-    <display-name lang="Hong Kong">港台电视31</display-name>
+    <display-name lang="香港">港台电视31</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010080000 +0800" stop="20251010080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010080500 +0800" stop="20251010090000 +0800" channel="368550"><title lang="zh">千禧年代</title>
-    <desc>千禧年代 10月10日</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010090000 +0800" stop="20251010093000 +0800" channel="368550"><title lang="zh">鏗鏘集</title>
-    <desc>抗日薪火</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010093000 +0800" stop="20251010100000 +0800" channel="368550"><title lang="zh">習近平的文化情緣</title>
-    <desc>習近平的文化情緣</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010100000 +0800" stop="20251010105000 +0800" channel="368550"><title lang="zh">簡言的夏冬</title>
-    <desc>第三十集</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010105000 +0800" stop="20251010105500 +0800" channel="368550"><title lang="zh">環事覺得你最保 (簡體字幕版)</title>
-    <desc>社區回收網路 - 「綠在區區」回收知多啲</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010105500 +0800" stop="20251010110000 +0800" channel="368550"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>優化車輛牌照及牌證易</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110000 +0800" stop="20251010110500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110500 +0800" stop="20251010111000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010111000 +0800" stop="20251010120000 +0800" channel="368550"><title lang="zh">香江暖流</title>
-    <desc>香江暖流</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010130000 +0800" channel="368550"><title lang="zh">31看世界 - 養貓的人</title>
-    <desc>第五集</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010130500 +0800" channel="368550"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>優化車輛牌照及牌證易</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130500 +0800" stop="20251010131000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010131000 +0800" stop="20251010140000 +0800" channel="368550"><title lang="zh">精靈一點</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010144500 +0800" channel="368550"><title lang="zh">父輩的榮耀</title>
-    <desc>第十九集：死者親屬到顧長山醫院鬧事</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010144500 +0800" stop="20251010153500 +0800" channel="368550"><title lang="zh">父輩的榮耀</title>
-    <desc>第二十集：曉晴跟父親林恒訴苦</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010153500 +0800" stop="20251010163000 +0800" channel="368550"><title lang="zh">港台體壇123</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010163000 +0800" stop="20251010165000 +0800" channel="368550"><title lang="zh">BobieLand</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010165000 +0800" stop="20251010170000 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010170000 +0800" stop="20251010171500 +0800" channel="368550"><title lang="zh">家有灶君</title>
-    <desc>寶寶駕到</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010171500 +0800" stop="20251010173000 +0800" channel="368550"><title lang="zh">如福侍衛隊</title>
-    <desc>擦玻璃風波</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010180000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010180000 +0800" stop="20251010183000 +0800" channel="368550"><title lang="zh">新聞天地</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010183000 +0800" stop="20251010185500 +0800" channel="368550"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010185500 +0800" stop="20251010190000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010195500 +0800" channel="368550"><title lang="zh">六姊妹</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010195500 +0800" stop="20251010200000 +0800" channel="368550"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>「國際牌」自助服務站</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010202500 +0800" channel="368550"><title lang="zh">走進東盟 II</title>
-    <desc>走進東盟 II</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010202500 +0800" stop="20251010203000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010203000 +0800" stop="20251010212500 +0800" channel="368550"><title lang="zh">追風者</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010212500 +0800" stop="20251010213000 +0800" channel="368550"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>「國際牌」自助服務站</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010213000 +0800" stop="20251010220000 +0800" channel="368550"><title lang="zh">《第76屆香港學校朗誦節優勝者演出精華》</title>
-    <desc>第四集</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010220000 +0800" stop="20251010223000 +0800" channel="368550"><title lang="zh">31看世界 - 向新出發</title>
-    <desc>第五集：智造革新</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251010225500 +0800" channel="368550"><title lang="zh">31看世界 - 向新出發</title>
-    <desc>第六集：航向未來</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010225500 +0800" stop="20251010230000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230000 +0800" stop="20251011000000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011003000 +0800" channel="368550"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011003000 +0800" stop="20251011010000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011020000 +0800" channel="368550"><title lang="zh">六姊妹</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020000 +0800" stop="20251011023000 +0800" channel="368550"><title lang="zh">走進東盟 II</title>
-    <desc>走進東盟 II</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011023000 +0800" stop="20251011030000 +0800" channel="368550"><title lang="zh">《第76屆香港學校朗誦節優勝者演出精華》</title>
-    <desc>第四集</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011030000 +0800" stop="20251011033000 +0800" channel="368550"><title lang="zh">迎戰全國運動會(五) - 倒數時刻</title>
-    <desc>第一集 - 並肩前行</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011033000 +0800" stop="20251011043000 +0800" channel="368550"><title lang="zh">追風者</title>
-    <desc>第二十六集： 民眾瘋搶建設庫券血本無歸</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043000 +0800" stop="20251011050000 +0800" channel="368550"><title lang="zh">31看世界 - 向新出發</title>
-    <desc>第五集：智造革新</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011053000 +0800" channel="368550"><title lang="zh">31看世界 - 向新出發</title>
-    <desc>第六集：航向未來</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011053000 +0800" stop="20251011063000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011063000 +0800" stop="20251011065000 +0800" channel="368550"><title lang="zh">BobieLand</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011065000 +0800" stop="20251011070000 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011070000 +0800" stop="20251011071500 +0800" channel="368550"><title lang="zh">家有灶君</title>
-    <desc>寶寶駕到</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011071500 +0800" stop="20251011073000 +0800" channel="368550"><title lang="zh">如福侍衛隊</title>
-    <desc>擦玻璃風波</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011073000 +0800" stop="20251011080000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+  <programme start="20251011080000 +0800" stop="20251011080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
     <desc />
     <date>2025-10-11</date>
   </programme><programme start="20251011080500 +0800" stop="20251011090000 +0800" channel="368550"><title lang="zh">星期六問責</title>
@@ -1496,71 +1259,170 @@
   </programme><programme start="20251012073000 +0800" stop="20251012080000 +0800" channel="368550"><title lang="zh">《第76屆香港學校朗誦節優勝者演出精華》</title>
     <desc>第四集</desc>
     <date>2025-10-11</date>
-  </programme><programme start="20251012080000 +0800" stop="20251013080000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+  </programme><programme start="20251012080000 +0800" stop="20251012080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
     <desc />
     <date>2025-10-12</date>
+  </programme><programme start="20251012080500 +0800" stop="20251012083500 +0800" channel="368550"><title lang="zh">小農夫大作物 新一彈</title>
+    <desc>春天出產的爽脆生菜</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012083500 +0800" stop="20251012084500 +0800" channel="368550"><title lang="zh">海鸚特攻隊</title>
+    <desc>一見「鸚」情</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012084500 +0800" stop="20251012085000 +0800" channel="368550"><title lang="zh">海鸚特攻隊</title>
+    <desc>神秘包裹</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012085000 +0800" stop="20251012090000 +0800" channel="368550"><title lang="zh">海鸚特攻隊</title>
+    <desc>喪屍海鸚</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012090000 +0800" stop="20251012091500 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012091500 +0800" stop="20251012093000 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012093000 +0800" stop="20251012100000 +0800" channel="368550"><title lang="zh">31看世界 - 音樂旅人</title>
+    <desc>什里夫波特 - 文化樞紐</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012100000 +0800" stop="20251012103000 +0800" channel="368550"><title lang="zh">31看世界 - 音樂旅人</title>
+    <desc>新奧爾良 - 紙醉金迷</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012103000 +0800" stop="20251012105500 +0800" channel="368550"><title lang="zh">鏗鏘集</title>
+    <desc>單親</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012105500 +0800" stop="20251012110000 +0800" channel="368550"><title lang="zh">政正關你事 - 入境事務處 - 今日宜出門</title>
+    <desc>今日宜出門</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012110000 +0800" stop="20251012112500 +0800" channel="368550"><title lang="zh">國安法事件簿 III</title>
+    <desc>國安法事件簿 III  - 第四集</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012112500 +0800" stop="20251012121000 +0800" channel="368550"><title lang="zh">風吹半夏</title>
+    <desc>第二十六集</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012121000 +0800" stop="20251012130000 +0800" channel="368550"><title lang="zh">風吹半夏</title>
+    <desc>第二十七集</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012130000 +0800" stop="20251012130500 +0800" channel="368550"><title lang="zh">政正關你事 - 入境事務處 - 今日宜出門</title>
+    <desc>今日宜出門</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012130500 +0800" stop="20251012140000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="368550"><title lang="zh">識多一點點</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012150000 +0800" stop="20251012153000 +0800" channel="368550"><title lang="zh">體壇無界限</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012153000 +0800" stop="20251012170000 +0800" channel="368550"><title lang="zh">演藝盛薈 · 開放舞台 : 港樂 50 周年</title>
+    <desc>演藝盛薈.開放舞台： 港樂50周年 -北京音樂會</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012170000 +0800" stop="20251012173000 +0800" channel="368550"><title lang="zh">貝多芬的鋼琴世界</title>
+    <desc>第四集 : 第九鋼琴奏鳴曲 (查海倫)/ 第十鋼琴奏鳴曲 (趙寧) / 第十一鋼琴奏鳴曲 (黃蔚然)/ 第二十鋼琴奏鳴曲 (陳思慧)</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012173000 +0800" stop="20251012180000 +0800" channel="368550"><title lang="zh">貝多芬的鋼琴世界</title>
+    <desc>第五集 : 第十三鋼琴奏鳴曲 (葉敏姍)/ 第十四鋼琴奏鳴曲 (鄭慧) / 第四鋼琴奏鳴曲 (施敏倫)</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180000 +0800" stop="20251012181500 +0800" channel="368550"><title lang="zh">新聞天地</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012181500 +0800" stop="20251012182000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012182000 +0800" stop="20251012182500 +0800" channel="368550"><title lang="zh">平「語」近人   - 習近平喜歡的典故</title>
+    <desc>第三集：善學者盡其理 善行者究其難</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012182500 +0800" stop="20251012183000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012183000 +0800" stop="20251012190000 +0800" channel="368550"><title lang="zh">馬時亨．獅子山精神</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012190000 +0800" stop="20251012193000 +0800" channel="368550"><title lang="zh">藝坊星期天</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012193000 +0800" stop="20251012195500 +0800" channel="368550"><title lang="zh">香港流行文化節2025: ImagineLand</title>
+    <desc>第五集 : 裸飛蛾     林一峰</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012195500 +0800" stop="20251012200000 +0800" channel="368550"><title lang="zh">政正關你事 - 入境事務處 - 輕鬆領證 E路順風</title>
+    <desc>輕鬆領證 E路順風</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012200000 +0800" stop="20251012203000 +0800" channel="368550"><title lang="zh">迎戰全國運動會(五) - 倒數時刻</title>
+    <desc>第二集 - 同心 · 躍浪</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012203000 +0800" stop="20251012212500 +0800" channel="368550"><title lang="zh">優遊記</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012212500 +0800" stop="20251012213000 +0800" channel="368550"><title lang="zh">紫荊綻放煥新篇</title>
+    <desc>第四集：插上科創翅膀</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012213000 +0800" stop="20251012231500 +0800" channel="368550"><title lang="zh">周末大電影：開國將帥授銜 1955</title>
+    <desc>開國將帥授銜 1955</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012231500 +0800" stop="20251012232000 +0800" channel="368550"><title lang="zh">香港之味</title>
+    <desc>第二集 - 安居香港：生活簡單,則歲月從容</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012232000 +0800" stop="20251012233000 +0800" channel="368550"><title lang="zh">警聲360</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012233000 +0800" stop="20251012235000 +0800" channel="368550"><title lang="zh">迎戰全國運動會二 - 全運風雲</title>
+    <desc>第一集 : 羽毛球</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012235000 +0800" stop="20251012235500 +0800" channel="368550"><title lang="zh">環事覺得你最保 (簡體字幕版)</title>
+    <desc>噪音污染 - AI噪音監測</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012235500 +0800" stop="20251013000000 +0800" channel="368550"><title lang="zh">警聲360</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013000000 +0800" stop="20251013003000 +0800" channel="368550"><title lang="zh">天官賜福  (第一季)</title>
+    <desc>第十一集：沙埋功過</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013003000 +0800" stop="20251013010000 +0800" channel="368550"><title lang="zh">體壇無界限</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013010000 +0800" stop="20251013013000 +0800" channel="368550"><title lang="zh">藝坊星期天</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013013000 +0800" stop="20251013020000 +0800" channel="368550"><title lang="zh">港樂 • 講樂</title>
+    <desc>第112集：古淖文</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013023000 +0800" channel="368550"><title lang="zh">迎戰全國運動會(五) - 倒數時刻</title>
+    <desc>第二集 - 同心 · 躍浪</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013023000 +0800" stop="20251013033000 +0800" channel="368550"><title lang="zh">優遊記</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013033000 +0800" stop="20251013040000 +0800" channel="368550"><title lang="zh">鏗鏘集</title>
+    <desc>單親</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013040000 +0800" stop="20251013043000 +0800" channel="368550"><title lang="zh">國安法事件簿 III</title>
+    <desc>國安法事件簿 III  - 第四集</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013043000 +0800" stop="20251013050000 +0800" channel="368550"><title lang="zh">31看世界 - 音樂旅人</title>
+    <desc>什里夫波特 - 文化樞紐</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013050000 +0800" stop="20251013053000 +0800" channel="368550"><title lang="zh">31看世界 - 音樂旅人</title>
+    <desc>新奧爾良 - 紙醉金迷</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013053000 +0800" stop="20251013063000 +0800" channel="368550"><title lang="zh">識多一點點</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013063000 +0800" stop="20251013070000 +0800" channel="368550"><title lang="zh">香港故事: 創科夢工場 2</title>
+    <desc>余炳全 — 六十歲先嚟搞創科</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013070000 +0800" stop="20251013073000 +0800" channel="368550"><title lang="zh">體壇無界限</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013073000 +0800" stop="20251013080000 +0800" channel="368550"><title lang="zh">天官賜福  (第一季)</title>
+    <desc>第十一集：沙埋功過</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013080000 +0800" stop="20251014080000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2025-10-13</date>
   </programme><channel id="368551">
-    <display-name lang="Hong Kong">港台电视32</display-name>
+    <display-name lang="香港">港台电视32</display-name>
     <icon src="" />
   </channel>
-  <programme start="20251010090000 +0800" stop="20251010150000 +0800" channel="368551"><title lang="zh">立法會大會</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150000 +0800" stop="20251010150500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150500 +0800" stop="20251010151000 +0800" channel="368551"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>優化車輛牌照及牌證易</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010151000 +0800" stop="20251010190000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010190500 +0800" channel="368551"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190500 +0800" stop="20251010210000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210000 +0800" stop="20251010210500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010210500 +0800" stop="20251010213000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010213000 +0800" stop="20251010222400 +0800" channel="368551"><title lang="zh">非凡香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010222400 +0800" stop="20251010223000 +0800" channel="368551"><title lang="zh">警聲360</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251011000000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011000000 +0800" stop="20251011010000 +0800" channel="368551"><title lang="zh">非凡香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011013000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013000 +0800" stop="20251011050000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011053000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011053000 +0800" stop="20251011073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011073000 +0800" stop="20251011073500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011073500 +0800" stop="20251011074000 +0800" channel="368551"><title lang="zh">政正關你事 - 運輸署電子服務</title>
-    <desc>「國際牌」自助服務站</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011074000 +0800" stop="20251011080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011090000 +0800" stop="20251011093000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
+  <programme start="20251011090000 +0800" stop="20251011093000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
     <desc />
     <date>2025-10-11</date>
   </programme><programme start="20251011093000 +0800" stop="20251011130000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
@@ -1608,122 +1470,53 @@
   </programme><programme start="20251012074000 +0800" stop="20251012080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
     <desc>生活．健康．資訊．體育．港式速遞</desc>
     <date>2025-10-11</date>
+  </programme><programme start="20251012133000 +0800" stop="20251012133500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012133500 +0800" stop="20251012134000 +0800" channel="368551"><title lang="zh">政正關你事 - 入境事務處 - 今日宜出門</title>
+    <desc>今日宜出門</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012134000 +0800" stop="20251012145500 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012145500 +0800" stop="20251012160000 +0800" channel="368551"><title lang="zh">FIBA 3x3 世界巡迴賽 2025</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012160000 +0800" stop="20251012164500 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012164500 +0800" stop="20251012190000 +0800" channel="368551"><title lang="zh">FIBA 3x3 世界巡迴賽 2025</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012190000 +0800" stop="20251012201500 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012201500 +0800" stop="20251012210000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012210500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210500 +0800" stop="20251013000000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013000000 +0800" stop="20251013073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013073000 +0800" stop="20251013073500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013073500 +0800" stop="20251013074000 +0800" channel="368551"><title lang="zh">政正關你事 - 入境事務處 - 輕鬆領證 E路順風</title>
+    <desc>輕鬆領證 E路順風</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013074000 +0800" stop="20251013080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2025-10-12</date>
   </programme><channel id="410274">
     <display-name lang="Hong Kong">ViuTV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128105803707716_97" />
   </channel>
-  <programme start="20251010090000 +0800" stop="20251010093000 +0800" channel="410274"><title lang="zh">國識商通 第127集</title>
-    <desc>《國識商通》每集會邀請不同界別的嘉賓，從經濟、社會、文化、教育等不同範疇，了解內地最新發展和機遇，香港如何把握及運用優勢。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010093000 +0800" stop="20251010110000 +0800" channel="410274"><title lang="zh">交易時段</title>
-    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110000 +0800" stop="20251010113000 +0800" channel="410274"><title lang="zh">智富通 第365集</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010113000 +0800" stop="20251010120000 +0800" channel="410274"><title lang="zh">海女日記 第10集 </title>
-    <desc>香港第一面奧運金牌－來自珊珊的滑浪風帆，香港人耳熟能詳的水上活動，但你又有幾熟悉？。寶欣在兩位超孩運動員帶領下體驗滑浪風帆，並分享各運動員多年以來作為全職運動員的生活和辛酸，以及代表香港參與各項國際賽事的經驗。最後，陳晞文對其他年輕滑浪風帆運動員作出寄語。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010123000 +0800" channel="410274"><title lang="zh">午間新聞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010123000 +0800" stop="20251010125500 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1405集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010125500 +0800" stop="20251010130000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1211集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010133000 +0800" channel="410274"><title lang="zh">環保發現號 第60集 </title>
-    <desc>香港是石屎森林，但原來天台也可實現種植農地。今集訪問天台種植的負責教授以及學生農夫，看看他們如何為城市加添一點綠意。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010133000 +0800" stop="20251010134500 +0800" channel="410274"><title lang="zh">貓之旅神 第4集 </title>
-    <desc>《貓之旅神》玩要玩得最新，食要食得最好，住當然要住得最有特色最舒服。Shirley跟Asha為大家入住只有土耳其先會體驗到依山而建的洞穴酒店，遊覧土耳其獨有的風光--精靈煙通，更試吃了放三小時都不會溶的神奇人氣雪糕！最後，兩位女神又點會放過來體驗每個人的BUCKET LIST都會寫低，世界知名的景點：熱氣球呢？究竟會有咩驚驗事情發生？究竟兩位又可唔可以安全咁降落返地球呢？</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010134500 +0800" stop="20251010150000 +0800" channel="410274"><title lang="zh">Believe -為你架起的橋樑</title>
-    <desc>狩山入獄前把證據交給了南雲，可是狩山得知他被調配到越南，很有可能背叛了自己。此外，狩山再次計劃逃獄。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150000 +0800" stop="20251010160000 +0800" channel="410274"><title lang="zh">交易時段</title>
-    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010160000 +0800" stop="20251010163000 +0800" channel="410274"><title lang="zh">機器戰士 - 英雄世紀 第3集 </title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010163000 +0800" stop="20251010170000 +0800" channel="410274"><title lang="zh">遊戲王SEVENS 第79集</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010170000 +0800" stop="20251010173000 +0800" channel="410274"><title lang="zh">捉捉迷你寶 第4集 </title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010180000 +0800" channel="410274"><title lang="zh">杏林在線 第487集</title>
-    <desc>《杏林在線》採訪團隊每星期走訪各醫院的手術室及實驗室，深度探討不同的醫學問題，以及介紹各種醫療新科技，請來專家剖析和真實個案分享。我們的醫學顧問每集亦會為觀眾解答疑難。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010180000 +0800" stop="20251010183000 +0800" channel="410274"><title lang="zh">6點新聞報道</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010183000 +0800" stop="20251010190000 +0800" channel="410274"><title lang="zh">孝心的家各自為生 第130集</title>
-    <desc>李孝心是為家人打工謀生的體力勞動者，搬家工人。故事講述她試圖擺脫家庭的束縛，尋找獨立和幸福。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010193000 +0800" channel="410274"><title lang="zh">7點新聞報道</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010193000 +0800" stop="20251010200000 +0800" channel="410274"><title lang="zh">730 玩返轉 第73集 </title>
-    <desc>《730玩返轉》魚夫人勇闖深圳西麗大學城，發掘校園周邊的隱藏趣味。風信子則繼續鐮倉之旅，帶你品味古都的獨特魅力。攀登教練King則會分享陽朔的攀岩天堂，讓你感受大自然的力量與刺激。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010203000 +0800" channel="410274"><title lang="zh">今晚煮邊科 第334集 -環球「食」Cation </title>
-    <desc>《環球「食」Cation》琉球風情美食之旅！Mabel帶您深入沖繩廚房～「沖繩塔可飯」重現美日混合靈魂料理，自製醬汁的黃金比例；「琉球黑糖紫薯沙翁」，將本地紫薯與黑糖揉成麵糰，炸至金黃啖啖衝擊。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010203000 +0800" stop="20251010213000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 民王R 第7集</title>
-    <desc>泰山等人終於找到了幕後黑手的線索，趕到現場卻人去樓空。他們懷疑叛徒就在他們之中，矛頭更直指冴島。此外，泰山這次與一位臨盆在即的孕婦互換身體，除了得知孕婦在職場被歧視之事，還親身感受到女性分娩之痛。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010213000 +0800" stop="20251010222500 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 民王R 第8集</title>
-    <desc>交換身體事件的幕後黑手終於找到，他就是剛成立並計劃參選的新日本黨成員蓮沼清彥。泰山這次並非與國民交換身體，而是與AI，他能否戰勝難關呢？</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010222500 +0800" stop="20251010223000 +0800" channel="410274"><title lang="zh">Uber Taxi 呈獻: 絕命法官預告篇 第5集</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251010230000 +0800" channel="410274"><title lang="zh">安信兄弟為你呈獻: 夜粥先生幾多點 第10集 </title>
-    <desc>四子今晚將要來一場大戰！來到這個室內Laser Tag 場地，四子將分成兩組，在場內互相廝殺。要攻要守，到底哪隊會勝出？另外，引發兄弟互相猜疑的守護遊戲來到第二回合，贏家可得到可觀獎金，於下個環節使用。到底四子之間的信任和演技能讓他們通過遊戲嗎？</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010230000 +0800" stop="20251010233000 +0800" channel="410274"><title lang="zh">晚吹 - 總有一瓣喺左近 第411集 </title>
-    <desc>雖說童言無忌，但有時內容過於驚嚇亦讓家長難以應對。今集請來藝人孫慧雪分享靈異經歷。有人說小朋友特別容易看到鬼，孫慧雪的仔仔似乎亦能看見常人無法看見的哥哥姊姊，有次更跟空氣玩耍，嚇得她一身冷汗。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233000 +0800" stop="20251010233500 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1212集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233500 +0800" stop="20251011003000 +0800" channel="410274"><title lang="zh">4 MINUTES 第2集</title>
-    <desc>特毆打並拘禁了他的女友小優。出乎意料的是，頓錄下了小優被虐待的畫面，並將上載到網上。格預知到，特將會對頓施襲。因此，格決定救下頓，並帶他去醫院。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011003000 +0800" stop="20251011010000 +0800" channel="410274"><title lang="zh">男韓即地獄?! 第4集 </title>
-    <desc>Alton、阿泰同Giann去到春川，搭乘韓國最長的三岳山湖水纜車，欣賞湖光山色，再去品嚐春川名物石頭烤雞，最後去到九峰山觀景臺咖啡街看日落──如在此合家歡行程上，加了一個「爾虞我詐」的遊戲呢？輸家必須接受韓綜常見的「雞蛋爆頭懲罰」，唯今次是過期臭蛋！邊句真，邊句假？友誼大考驗！</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011010000 +0800" stop="20251011013000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1405集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013000 +0800" stop="20251011020000 +0800" channel="410274"><title lang="zh">深宵新聞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011020000 +0800" stop="20251011030000 +0800" channel="410274"><title lang="zh">民王R 第7集</title>
-    <desc>泰山等人終於找到了幕後黑手的線索，趕到現場卻人去樓空。他們懷疑叛徒就在他們之中，矛頭更直指冴島。此外，泰山這次與一位臨盆在即的孕婦互換身體，除了得知孕婦在職場被歧視之事，還親身感受到女性分娩之痛。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011030000 +0800" stop="20251011040000 +0800" channel="410274"><title lang="zh">民王R 第8集</title>
-    <desc>交換身體事件的幕後黑手終於找到，他就是剛成立並計劃參選的新日本黨成員蓮沼清彥。泰山這次並非與國民交換身體，而是與AI，他能否戰勝難關呢？</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011040000 +0800" stop="20251011042500 +0800" channel="410274"><title lang="zh">晚吹 - 總有一瓣喺左近 第411集 </title>
-    <desc>雖說童言無忌，但有時內容過於驚嚇亦讓家長難以應對。今集請來藝人孫慧雪分享靈異經歷。有人說小朋友特別容易看到鬼，孫慧雪的仔仔似乎亦能看見常人無法看見的哥哥姊姊，有次更跟空氣玩耍，嚇得她一身冷汗。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011042500 +0800" stop="20251011043000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1212集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011043000 +0800" stop="20251011050000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1405集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011050000 +0800" stop="20251011060000 +0800" channel="410274"><title lang="zh">珠簾玉幕 第36集</title>
-    <desc>蘇幕遮用明鏡台擴張要買下珍琅閣刺激崔十九，崔十九終於重振精神。此時尉遲無意帶來秦老頭出城消息，蘇幕遮醒悟到不對，一面讓人給張晉然燕子京送信，一面帶著高手出城去追，卻陷入鄭世元早就設下的陷阱。</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011060000 +0800" stop="20251011080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011080000 +0800" stop="20251011083000 +0800" channel="410274"><title lang="zh">最愛母飯開 </title>
+  <programme start="20251011080000 +0800" stop="20251011083000 +0800" channel="410274"><title lang="zh">最愛母飯開 </title>
     <desc>不諳廚藝的Samantha本任職化妝師，機緣巧合下頂手了一家相熟餐廳，卻遭到母親的反對，因為當時Samantha才剛誕下二兒子、而且她廚藝實在不怎麼樣；然而她未有理會母親勸告，堅持營運餐廳並已漸上軌道，而大兒子上小學表示想帶飯盒亦驅使她學習以聰明的方法用週末準備一星期份量的便當。她在節目中示範了「慢煮西班牙黑毛豬扒兩食－蘋果醋版本及番茄蛋版本」和「自家製雞煲」。她更挑戰其母親一道名菜「雪菜剥皮魚」，多年前她曾煮過一次卻令老公因太難吃而吐了出來，這次再度烹調令兩位主持擔憂不已，因為煮的時候仍然腥味飄飄，最後Samantha能打破宿命煮到放得入口嗎？</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011083000 +0800" stop="20251011090000 +0800" channel="410274"><title lang="zh">老友記實用手冊 第17集</title>
@@ -1819,95 +1612,128 @@
   </programme><programme start="20251012060000 +0800" stop="20251012080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
     <desc />
     <date>2025-10-11</date>
-  </programme><programme start="20251012080000 +0800" stop="20251013080000 +0800" channel="410274"><title lang="zh">估你唔到 </title>
+  </programme><programme start="20251012080000 +0800" stop="20251012083000 +0800" channel="410274"><title lang="zh">估你唔到 </title>
     <desc>有說修讀設計的學生特別注重外表，那麼讀環保的學生又會否打扮得像野人？今集《估你唔到》請來蘇麗珊(Cecilia)和林德信(Alex)來估四位靚女大專生所讀學系。而四位女大專生以醫護人員造型登場，到底她們一身的裝扮跟她們所讀的學系有沒有關係？而Cecilia及Alex則扮演病人來試探四位女生，到底哪一方的「演技」更出色？記得收睇逢星期一至星期五晚《估你唔到》！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012083000 +0800" stop="20251012090000 +0800" channel="410274"><title lang="zh">山旮旯實習生 第10集 </title>
+    <desc>主持到行山起點烏蛟騰接嘉賓、一行人沿行山路徑入梅子林；到達營地後紮營，並到發記士多進行補給；日落時分安頓好之後，嘉賓及主持講感受。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012090000 +0800" stop="20251012093000 +0800" channel="410274"><title lang="zh">雙線運動人生 第13集 </title>
+    <desc>桌球講求專注、心理質素，並且要具備身體協調性，可想像得到一位單手殘疾運動員不但可以駕馭桌球，更經常於國際賽事取得獎項？香港殘疾桌球代表隊成員林啟明Andy，在有限的資源下，一邊任職私人司機，一邊自費出外比賽，為的就是要圓一個帶著使命任的桌球夢。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012093000 +0800" stop="20251012100000 +0800" channel="410274"><title lang="zh">Bandai 呈獻: No.1戰隊五獸者 第22集 </title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012100000 +0800" stop="20251012103000 +0800" channel="410274"><title lang="zh">舔舔脷·講講理 第14集 </title>
+    <desc>巧克力作為大人小朋友都喜愛的食物，發展出各種各樣的口味，但你知道甚麼是原生巧克力嗎？《舔舔脷．講講理》便邀請到製作手工原生巧克力的達人，帶大家破解所有巧克力都不健康的迷思，以及解釋製作手工巧克力時需要注意的地方！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012103000 +0800" stop="20251012110000 +0800" channel="410274"><title lang="zh">親子初度遊 第10集 </title>
+    <desc>沙巴之旅除了享受陽光與海灘，Wingo和大女紀雅這天參加一日團，從多角度觀賞有「神山」之稱的京那巴魯山。在神山山腰的牧場，兩父女還體驗了親身餵奶牛飲奶。動物果然是小朋友最好的朋友，紀雅在牧場遊玩比起其他觀光景點更加投入、活潑，爸爸應記一功！最後一站，爸爸希望在紀雅面前克服畏高，選擇到離地約40米的步道吊橋，以身教教育囡囡勇於踏出第一步，面對各種挑戰！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012110000 +0800" stop="20251012113000 +0800" channel="410274"><title lang="zh">Bandai 呈獻: 幪面超人 ZEZTZ 第5集 </title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012113000 +0800" stop="20251012120000 +0800" channel="410274"><title lang="zh">聲畫合拍 8 第15集 </title>
+    <desc>《筆友》 講述女主角阿婷在一家文具店找尋一枝筆，途中遇上客人阿峰。在兩人的互動中，阿婷開始對自己的生活產生新的思考⋯⋯本集邀請到編劇和演員上來分享故事心得。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012123000 +0800" channel="410274"><title lang="zh">午間新聞</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012123000 +0800" stop="20251012130000 +0800" channel="410274"><title lang="zh">AH佛真‧惜玩 第13集 </title>
+    <desc>近年醉心栽種的謝安琪，以插花藝術繼續帶許廷鏗體驗「隨心隨性」的生活，透過花藝帶出謝安琪的人生哲理；而許廷鏗則帶謝安琪去製作布藝仙人掌，二人繼續暢談彼此對人生的看法。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012130000 +0800" stop="20251012133000 +0800" channel="410274"><title lang="zh">STEM By You 第52集 </title>
+    <desc>動物園你一定去過，但「動物學」又有聽過嗎？所有關於動物的形態、生理構造、生活習性、行為特徵等等，都屬於動物學的研究範圍。一起了解動物學可再如何分類，每類動物的的共同特徵，和牠們的演化故事吧！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012133000 +0800" stop="20251012140000 +0800" channel="410274"><title lang="zh">搵食考快Cert. 第6集 </title>
+    <desc>新一輪考牌，三位主持轉陣，決定嚟個海外生活考Cert.之旅。有咩牌照可以簡單快捷，又周圍都認可？唔知？問吓Dixon囉﹗</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012143000 +0800" channel="410274"><title lang="zh">35+ LOVE 第6集 </title>
+    <desc>楊淇（Kate）收到第二輪男參加者的邀約，二人約會時卻產生不少意料之外的「火花」，到底他們的約會能否順利結束？另一邊廂，趙頌茹（Yu）、趙慧珊（Aka）、陳逸文（YatMan)、李坤潮（Jason）出發去享受美味的海鮮大餐，其中兩人散發出微妙的氛圍，後更雙雙提早離開，進行單獨的行程，不過當男參加者揭示自己的年齡時，卻令女方大為震驚......</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012143000 +0800" stop="20251012152500 +0800" channel="410274"><title lang="zh">恐怖醫學 第225集</title>
+    <desc>用情境劇來表現一些病症的發生，一些大家很少留意的症狀，但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師，進行解說及分析，說明情境劇內發生的事情，可能已經在實際生活中發生了，並教觀眾如何做簡單的自我檢測，內容沒有艱深的醫學報導，戲劇表現生活化。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012152500 +0800" stop="20251012155500 +0800" channel="410274"><title lang="zh">世界之「趣」 第40集</title>
+    <desc>正所謂「世界之大無奇不有」！在這千奇百趣的世界裡，當中集合了許多有趣歷史和文化，不知你又認識幾多呢？就讓「AI導遊」考考你，與大家一起探索世界，成為「世界百科小博士」！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012155500 +0800" stop="20251012162500 +0800" channel="410274"><title lang="zh">光之美少女偶像與你 第25集 </title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012162500 +0800" stop="20251012165500 +0800" channel="410274"><title lang="zh">爆旋陀螺X 第2季 第91集 </title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012165500 +0800" stop="20251012172000 +0800" channel="410274"><title lang="zh">菲夢少女 第1集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012172000 +0800" stop="20251012175000 +0800" channel="410274"><title lang="zh">也文也武同學仔 第14集 </title>
+    <desc>好多學校都會有校園電視台或者創藝課程，但講到認真的程度，估計這一間學校都數一數二。 位於馬鞍山的仁濟醫院董之英紀念中學，這裡有自己不同類型的攝影棚，除此之外他們的足球隊在各個學際比賽中都有得到不錯的成績。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012175000 +0800" stop="20251012180000 +0800" channel="410274"><title lang="zh">警聲360 第40集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180000 +0800" stop="20251012182500 +0800" channel="410274"><title lang="zh">6點新聞報道</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012182500 +0800" stop="20251012183000 +0800" channel="410274"><title lang="zh">香港賽馬會全力支持: 全運總動員 第5集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012183000 +0800" stop="20251012190000 +0800" channel="410274"><title lang="zh">大鳴大放 第914集</title>
+    <desc>《大鳴大放》是一個30分鐘的時事討論節目，識英雄重英雄，請來各界重磅名人，拋出論點，言無不盡，深入討論時事，跨越維港神州，宏觀全世界。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012190000 +0800" stop="20251012213000 +0800" channel="410274"><title lang="zh">NBA中國賽2025 </title>
+    <desc>布魯克林籃網 對 鳳凰城太陽</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012213000 +0800" stop="20251012223000 +0800" channel="410274"><title lang="zh">FWD 富衛保險呈獻: CHILL CLUB 第282集 -CHILL CLUB Japan Special #4 </title>
+    <desc>今集《CHILL CLUB》邀請到日本女團 Juice=Juice 帶來連串舞動舞台，並特別與香港樂隊 PER SE 合作，互相翻唱對方歌曲，擦出驚喜火花。同時，日本著名樂隊 SEKAI NO OWARI 亦會登場，演繹多首動人作品，帶觀眾走進充滿故事感嘅音樂世界。節目內亦會為大家揭曉「CHILL CLUB推介榜」本週 Top 10！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012223000 +0800" stop="20251012233000 +0800" channel="410274"><title lang="zh">瀛知有密 第8集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012233000 +0800" stop="20251013000000 +0800" channel="410274"><title lang="zh">新聞報道</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013000000 +0800" stop="20251013010000 +0800" channel="410274"><title lang="zh">戀愛Staycation 第7集 </title>
+    <desc>符合彼此擇偶條件的 Vicky 和嘉宏，他們的相處會有怎樣的火花？Vicky 會安排怎樣的約會行程？而再次陷入三角關係的 Henry，面對 Yan Yan 的猛烈攻勢和 Kylie 的害羞邀請，他會如何抉擇？</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013010000 +0800" stop="20251013013000 +0800" channel="410274"><title lang="zh">究食狩獵王 第11集 </title>
+    <desc>小 Gi 和保錡犽終於迎來兩星期來第一次「假期」，製作組為此邀請了中醫師徐澤昌博士及營養師Grace，為兩位獵人進行身體檢查及小遊戲，讓他們在不知不覺間…走入圈套！當兩位獵人休息過後，就要面對最終考驗—中西營養問答比賽！比賽分為三個回合，最高分者更有機會得到現金獎！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013013000 +0800" stop="20251013020000 +0800" channel="410274"><title lang="zh">學神出沒注意 第4集 </title>
+    <desc>今集《學神出沒注意》終於輪到駕駛經驗超豐富的Sarika及旨呈挑戰學大巴！節目組當然安排了幾個考驗試試兩位高超身手！二人駕駛技術果然有料子，鬥快挑戰大帽山連續彎路、鬥快於極窄納米車位泊S位L位，二人毫不怯場，互不相讓！通過測試二人第一次上大巴，「老」司機頓變白紙！自認車神的旨呈不但流後更初嚐死火滋味；第一次揸棍波的Sarika尖叫聲不斷，更發生連環不幸死火事件！節目組也不禁為車上的師傅捏一把冷汗！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013020000 +0800" stop="20251013023000 +0800" channel="410274"><title lang="zh">搵食考快Cert. 第6集 </title>
+    <desc>新一輪考牌，三位主持轉陣，決定嚟個海外生活考Cert.之旅。有咩牌照可以簡單快捷，又周圍都認可？唔知？問吓Dixon囉﹗</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013023000 +0800" stop="20251013030000 +0800" channel="410274"><title lang="zh">手尋藝術 第6集 </title>
+    <desc>金工藝術家李家樑 (Chris) 鍾情蘭花，喜歡到不想看見它們凋謝，遂以古老的鑄造法，將剎那的美麗變成永恆。他還親自教授主持墨魚骨鑄造法，從中分享靈感如何從自然中誕生。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013030000 +0800" stop="20251013033000 +0800" channel="410274"><title lang="zh">山旮旯實習生 第10集 </title>
+    <desc>主持到行山起點烏蛟騰接嘉賓、一行人沿行山路徑入梅子林；到達營地後紮營，並到發記士多進行補給；日落時分安頓好之後，嘉賓及主持講感受。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013033000 +0800" stop="20251013040000 +0800" channel="410274"><title lang="zh">全運港將 第9集 -男子配劍 </title>
+    <desc>相對於重劍及花劍，配劍的比賽速度、節奏最快，基本上沒有時間思考，睇睇大師兄羅浩天點樣作賽前部署。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013040000 +0800" stop="20251013043000 +0800" channel="410274"><title lang="zh">聲畫合拍 8 第15集 </title>
+    <desc>《筆友》 講述女主角阿婷在一家文具店找尋一枝筆，途中遇上客人阿峰。在兩人的互動中，阿婷開始對自己的生活產生新的思考⋯⋯本集邀請到編劇和演員上來分享故事心得。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013043000 +0800" stop="20251013050000 +0800" channel="410274"><title lang="zh">STEM By You 第52集 </title>
+    <desc>動物園你一定去過，但「動物學」又有聽過嗎？所有關於動物的形態、生理構造、生活習性、行為特徵等等，都屬於動物學的研究範圍。一起了解動物學可再如何分類，每類動物的的共同特徵，和牠們的演化故事吧！</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013050000 +0800" stop="20251013053000 +0800" channel="410274"><title lang="zh">雙線運動人生 第13集 </title>
+    <desc>桌球講求專注、心理質素，並且要具備身體協調性，可想像得到一位單手殘疾運動員不但可以駕馭桌球，更經常於國際賽事取得獎項？香港殘疾桌球代表隊成員林啟明Andy，在有限的資源下，一邊任職私人司機，一邊自費出外比賽，為的就是要圓一個帶著使命任的桌球夢。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013053000 +0800" stop="20251013060000 +0800" channel="410274"><title lang="zh">設計新態度 第15集 </title>
+    <desc>一間家傳戶曉嘅香港粵菜老字號開展年輕線品牌，設計師會為餐廳裝潢加入點樣嘅元素？今集主持訪問餐廳設計師同負責人，深入了解裝潢背後嘅故事。</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013060000 +0800" stop="20251013080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
+    <desc />
     <date>2025-10-12</date>
   </programme><channel id="410273">
     <display-name lang="Hong Kong">ViuTVsix</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128104023226759_53" />
   </channel>
-  <programme start="20251010090000 +0800" stop="20251010093000 +0800" channel="410273"><title lang="zh">Nature Cat S4 第5集</title>
-    <desc>An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010093000 +0800" stop="20251010100000 +0800" channel="410273"><title lang="zh">Carl the Collector</title>
-    <desc>Meet Carl, a warm-hearted young autistic racoon, who loves to collect things! Carl and his friends live in Fuzzytown, where they play and explore together, discovering what makes each of them unique.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010100000 +0800" stop="20251010110000 +0800" channel="410273"><title lang="zh">超凡餅藝家 第6集</title>
-    <desc>The Big Bake is a larger-than-life baking competition series with themed episodes. In each episode, three professional baking teams have five hours to design, bake and decorate a grand-scale cake creation based on a particular theme. These bakers need to think big and bold, blowing up their designs to gigantic proportions and thinking outside the (bakery) box. In the end, the most ambitious, eye-p</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010110000 +0800" stop="20251010120000 +0800" channel="410273"><title lang="zh">激活腦友記 第5集</title>
-    <desc>Sandi Toksvig hosts, as celebs compete in a unique challenge using memory hacks and techniques, to fill up on facts and become experts in diverse subjects in just a matter of weeks. Can it be done? Gok Wan learns the periodic table. Valerie Singleton studies UK grime artists. And Joey Essex swats up on William the Conqueror. Whose memory comes out on top?</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010120000 +0800" stop="20251010123000 +0800" channel="410273"><title lang="zh">英超故事25/26 第18集 </title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010123000 +0800" stop="20251010130000 +0800" channel="410273"><title lang="zh">今週ATP 2025 第38集</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010130000 +0800" stop="20251010133000 +0800" channel="410273"><title lang="zh">NHK Newsline</title>
-    <desc>NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010133000 +0800" stop="20251010140000 +0800" channel="410273"><title lang="zh">Jamie一鍋料理 第5集</title>
-    <desc>Jamie’s One-Pan Wonders is the ultimate solutions-based guide to brilliantly easy meals perfect for now, offering a delicious range of dishes all cooked in just ONE pan or tray. Each recipe uses only a handful of ingredients, the pan does all the hard work… and there's hardly any washing up.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010140000 +0800" stop="20251010150000 +0800" channel="410273"><title lang="zh">英倫地鐵探知館 第6集</title>
-    <desc>Railway historian Tim Dunn teams up again with the London Transport Museum’s Siddy Holloway to explore more unbelievable parts of London’s tube network. And this year, there’s even more secrets to uncover.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010150000 +0800" stop="20251010153000 +0800" channel="410273"><title lang="zh">Al Jazeera News Live</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010153000 +0800" stop="20251010160000 +0800" channel="410273"><title lang="zh">英倫運河日誌 第18集</title>
-    <desc>Robbie Cumming offers a personal take on life aboard his narrowboat home the ‘Naughty Lass’. The waterways explorer discovers the landscapes, towns and villages of the Midlands. He sets out on a challenging journey through summer, autumn and winter 2023/24 which takes him from Braunston, Northamptonshire through Birmingham’s maze of canals before heading south along the Grand Union Canal.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010160000 +0800" stop="20251010163000 +0800" channel="410273"><title lang="zh">DW News</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010163000 +0800" stop="20251010170000 +0800" channel="410273"><title lang="zh">Nature Cat S4 第6集</title>
-    <desc>An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010170000 +0800" stop="20251010173000 +0800" channel="410273"><title lang="zh">Carl the Collector</title>
-    <desc>Meet Carl, a warm-hearted young autistic racoon, who loves to collect things! Carl and his friends live in Fuzzytown, where they play and explore together, discovering what makes each of them unique.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010173000 +0800" stop="20251010180000 +0800" channel="410273"><title lang="zh">Louie &amp; Yoko Build 第14集</title>
-    <desc>Louie has swapped his pencil case for a toolbox and with the help of Yoko, they build what their friends need. Whether it’s a bridge, a ski lift, a wind turbine or a rocket; it’s no problem! With the magic toolbox, there is no limit to what Louie and Yoko can build. And better still, Louie and Yoko show you how to do it.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010180000 +0800" stop="20251010183000 +0800" channel="410273"><title lang="zh">DW Evening News</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010183000 +0800" stop="20251010190000 +0800" channel="410273"><title lang="zh">Lupin's Tales S2 第21集</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010190000 +0800" stop="20251010191500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
-    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010191500 +0800" stop="20251010193000 +0800" channel="410273"><title lang="zh">Angry Birds: Summer Madness S2 第12集</title>
-    <desc>Sparks and feathers fly when young teens Red, Stella, Chuck, Bomb, and the rest of our favorite Angry Birds spend a crazy summer at Camp Splinterwood!</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010193000 +0800" stop="20251010200000 +0800" channel="410273"><title lang="zh">尋味新西蘭 第4集</title>
-    <desc>A New Zealand Food Story, follows Chef Ban Bayly as he collaborates with local suppliers, exploring their products and sharing their unique narratives. The series delves into the dynamic world of food producers, uncovering the captivating stories woven into each ingredient. Chef Bayly explores the impressive food production capabilities of New Zealand, showcasing its abundant resources and diverse</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010200000 +0800" stop="20251010223000 +0800" channel="410273"><title lang="zh">NBA中國賽2025 </title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251010223000 +0800" stop="20251010233000 +0800" channel="410273"><title lang="zh">爸媽又戀嚟 第8集</title>
-    <desc>Hosted by Davina McCall, My Mum Your Dad is a dating show full of heart and humour where single parents, nominated by their grown-up kids, spend two weeks in a stunning countryside retreat to give love a second chance. Once again the grown-up kids are entrusted with the fate of their single parents as they search for love in the retreat. Watching along, there will be some new twists along the way </desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010233000 +0800" stop="20251010234500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
-    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251010234500 +0800" stop="20251011004000 +0800" channel="410273"><title lang="zh">驚人日常 </title>
-    <desc>The Shocking Truth about…’ takes an investigative look at what really matters to the people of Britain. With incredible revelations ranging from the very food that we eat, to the homes that we live in. Industry insiders and whistleblowers can no longer sit in silence, and they’ve come forward to tell the truth.They’ll reveal some of the biggest scandals that are affecting us today. We’ll discover </desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011004000 +0800" stop="20251011013500 +0800" channel="410273"><title lang="zh">改裝特工隊 第11集</title>
-    <desc>Tool Club is the brand-new Channel 4 series where an ensemble cast of expert DIY-ers give the nation the tools, equipment and confidence to do it for themselves. On board the Tool Bus (our unique mobile studio/workshop on wheels) they travel to a different location across the country each week. Unlike other DIY shows, the Tool Club won’t be doing all the work but will instead be teaching the publi</desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011013500 +0800" stop="20251011023000 +0800" channel="410273"><title lang="zh">爸媽又戀嚟 第8集</title>
-    <desc>Hosted by Davina McCall, My Mum Your Dad is a dating show full of heart and humour where single parents, nominated by their grown-up kids, spend two weeks in a stunning countryside retreat to give love a second chance. Once again the grown-up kids are entrusted with the fate of their single parents as they search for love in the retreat. Watching along, there will be some new twists along the way </desc>
-    <date>2025-10-10</date>
-  </programme><programme start="20251011023000 +0800" stop="20251011080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
-    <desc />
-    <date>2025-10-10</date>
-  </programme><programme start="20251011090000 +0800" stop="20251011093000 +0800" channel="410273"><title lang="zh">Nature Cat S4 第6集</title>
+  <programme start="20251011090000 +0800" stop="20251011093000 +0800" channel="410273"><title lang="zh">Nature Cat S4 第6集</title>
     <desc>An adventurous house cat goes on crazy trips and adventures with his friends to learn all about animals and nature.</desc>
     <date>2025-10-11</date>
   </programme><programme start="20251011093000 +0800" stop="20251011100000 +0800" channel="410273"><title lang="zh">Carl the Collector</title>
@@ -1985,4 +1811,82 @@
   </programme><programme start="20251012022500 +0800" stop="20251012080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
     <desc />
     <date>2025-10-11</date>
+  </programme><programme start="20251012090000 +0800" stop="20251012093000 +0800" channel="410273"><title lang="zh">探索塔斯之旅 第4集</title>
+    <desc>Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover th</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012093000 +0800" stop="20251012100000 +0800" channel="410273"><title lang="zh">北國三人行 第10集</title>
+    <desc>PEOPLE OF THE NORTH, the series that takes us to weather-beaten fishing villages and spectacular locations in Scandinavia. Join our Norwegian presenter Arne Hjeltnes together with Swedish TV celebrity Chef Frida Ronge and the Award-Winning Distiller Stig Bareksten as they take us on a journey through the North. Our hosts dive deep into the culture of Scandinavia, as they meet the people who make t</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012100000 +0800" stop="20251012110000 +0800" channel="410273"><title lang="zh">誰是大話王？ 第10集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012110000 +0800" stop="20251012120000 +0800" channel="410273"><title lang="zh">拯救廚房大作戰 第3集</title>
+    <desc>Gordon Ramsay visits struggling restaurants across America and spends one week trying to help them become successful.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012120000 +0800" stop="20251012130000 +0800" channel="410273"><title lang="zh">湖底密碼 第3集 </title>
+    <desc>Could there be an upside to the quagga mussel invasion in the Great Lakes? While many fish species decline, promising projects aim to restore cisco and revive “river-run” whitefish.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012130000 +0800" stop="20251012133000 +0800" channel="410273"><title lang="zh">北國三人行 第10集</title>
+    <desc>PEOPLE OF THE NORTH, the series that takes us to weather-beaten fishing villages and spectacular locations in Scandinavia. Join our Norwegian presenter Arne Hjeltnes together with Swedish TV celebrity Chef Frida Ronge and the Award-Winning Distiller Stig Bareksten as they take us on a journey through the North. Our hosts dive deep into the culture of Scandinavia, as they meet the people who make t</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012133000 +0800" stop="20251012140000 +0800" channel="410273"><title lang="zh">Weekly Re</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="410273"><title lang="zh">ATP 25 精華 第21集 </title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012150000 +0800" stop="20251012160000 +0800" channel="410273"><title lang="zh">歐洲鐵路深度遊 第4集</title>
+    <desc>Michael Portillo embarks on a new series of railway adventures exploring Europe’s most beautiful and historic regions.    Croatia, Bosnia and Herzegovina, Norway, Denmark and Switzerland, Normandy and Brittany are his destinations as from the Alps to the Adriatic, the Atlantic to the Baltic, Michael uncovers how nature and history have shaped life in some of the most enchanting settings on the con</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012160000 +0800" stop="20251012161500 +0800" channel="410273"><title lang="zh">Lana Longbeard 第19集</title>
+    <desc>Lana is a super feisty, forward-thinking, and passionate 12-year-old girl, and the heir to her father’s adventuring ship, the Mighty Windbreaker. Along with her Viking dad and his diverse crew of rogues (a dwarf, an orc, a barbarian, and a cyclops), she sails across the Ten Realms, dreaming of becoming one of the greatest adventurers of all time. But first, she must overcome some challenging obsta</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012161500 +0800" stop="20251012163000 +0800" channel="410273"><title lang="zh">Lana Longbeard 第20集</title>
+    <desc>Lana is a super feisty, forward-thinking, and passionate 12-year-old girl, and the heir to her father’s adventuring ship, the Mighty Windbreaker. Along with her Viking dad and his diverse crew of rogues (a dwarf, an orc, a barbarian, and a cyclops), she sails across the Ten Realms, dreaming of becoming one of the greatest adventurers of all time. But first, she must overcome some challenging obsta</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012163000 +0800" stop="20251012170000 +0800" channel="410273"><title lang="zh">Tea Town Teddy Bears</title>
+    <desc>Ginger, Earl Grey and Boba are tea-party-loving teddy bears who have adventures with their friends in Tea Town. Ginger creates fashions and invitations, Earl Grey does the baking and tea-making and Boba makes things beautiful. Everyone is invited!</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012170000 +0800" stop="20251012171500 +0800" channel="410273"><title lang="zh">Aesop's Theater 第1集</title>
+    <desc>Aesop is a friendly wolf who happens to be the leader of a travelling theater group. Aesop writes and directs the plays, which are performed as they travel from town to town. Among the members of his company are a would-be writer fox called Presy, some mischievous pigs and a tough little rabbit called Libbit. At first, they do not always get along that well, since they have to live together in a c</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012171500 +0800" stop="20251012173000 +0800" channel="410273"><title lang="zh">Aesop's Theater 第2集</title>
+    <desc>Aesop is a friendly wolf who happens to be the leader of a travelling theater group. Aesop writes and directs the plays, which are performed as they travel from town to town. Among the members of his company are a would-be writer fox called Presy, some mischievous pigs and a tough little rabbit called Libbit. At first, they do not always get along that well, since they have to live together in a c</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012173000 +0800" stop="20251012180000 +0800" channel="410273"><title lang="zh">Zig &amp; Sharko S4 第14集</title>
+    <desc>Zig and Sharko are back on their island, but no holiday in sight for the mischievous hyena and the muscly shark! Marina just found a magic pair of slides, which gives her legs incredible powers. She’s more than thrilled! As the mermaid discovers the new possibilities two legs can offer, she’s increasingly harder to catch, and to protect.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012180000 +0800" stop="20251012190000 +0800" channel="410273"><title lang="zh">置你想家居 第4集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012190000 +0800" stop="20251012191500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
+    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012191500 +0800" stop="20251012193000 +0800" channel="410273"><title lang="zh">荷里活娛樂快遞 第251集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251012193000 +0800" stop="20251012200000 +0800" channel="410273"><title lang="zh">探索塔斯之旅 第5集</title>
+    <desc>Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover th</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012200000 +0800" stop="20251012210000 +0800" channel="410273"><title lang="zh">空中浩劫 第4集</title>
+    <desc>Every time a plane crashes, the world takes notice. And so do the experts whose job it is to figure out what happened. MAYDAY uncovers the truth behind the most legendary aviation disasters, and every episode features eyewitness accounts, captivating reenactments, state-of-the-art CGI, and interviews with the investigators who ultimately determined what went wrong.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012210000 +0800" stop="20251012232500 +0800" channel="410273"><title lang="zh">冇數講</title>
+    <desc>Danny Roman, a skilled police negotiator, anxious to clear himself of false accusations, takes a group of people hostage in an office building to gain the time he needs to find the truth. Chris Sabian, the Negotiator, comes in to try and defuse the situation and bring Roman in.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012232500 +0800" stop="20251012234000 +0800" channel="410273"><title lang="zh">ViuTV News</title>
+    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251012234000 +0800" stop="20251013003000 +0800" channel="410273"><title lang="zh">誰是大話王？ 第11集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013003000 +0800" stop="20251013013000 +0800" channel="410273"><title lang="zh">湖底密碼 第3集 </title>
+    <desc>Could there be an upside to the quagga mussel invasion in the Great Lakes? While many fish species decline, promising projects aim to restore cisco and revive “river-run” whitefish.</desc>
+    <date>2025-10-12</date>
+  </programme><programme start="20251013013000 +0800" stop="20251013022500 +0800" channel="410273"><title lang="zh">置你想家居 第4集</title>
+    <desc />
+    <date>2025-10-12</date>
+  </programme><programme start="20251013022500 +0800" stop="20251013080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
+    <desc />
+    <date>2025-10-12</date>
   </programme></tv>
