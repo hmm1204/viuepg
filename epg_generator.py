@@ -20,7 +20,7 @@ CHANNEL_IDS = [
     '400479',  # TNT Sports 3 HD
     '400478',  # TNT Sports 4 HD
     '491609',  # CHC影迷影院
-    '458167',  # CHC家庭影院
+    '491572',  # CHC家庭影院
     '457802',  # CHC动作电影
     '410286',  # Now爆谷星影台
     '410285',  # Now爆谷台
@@ -306,4 +306,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
