@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20260119044353"><channel id="400477">
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com/yourname/reponame" date="20260120043737"><channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119083000 +0800" stop="20260119113000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
-    <desc>Coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119113000 +0800" stop="20260119133000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
-    <desc>Further coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133000 +0800" stop="20260119153000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
-    <desc>Contionued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153000 +0800" stop="20260119180000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
-    <desc>Further coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119213000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119233000 +0800" channel="400477"><title lang="zh">Snooker Masters</title>
-    <desc>Action from the final.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233000 +0800" stop="20260120000000 +0800" channel="400477"><title lang="zh">The WRC Magazine</title>
-    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120000000 +0800" stop="20260120003000 +0800" channel="400477"><title lang="zh">Premier League Stories</title>
-    <desc>A profile of Henrik Larsson.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120020000 +0800" channel="400477"><title lang="zh">Premier League</title>
-    <desc>Nottingham Forest v Arsenal.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120020000 +0800" stop="20260120053000 +0800" channel="400477"><title lang="zh">Live: Ultimate Pool</title>
-    <desc>Coverage of Group Three of the Women's Champions League, as leading eight-ball players battle it out.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120053000 +0800" stop="20260120060000 +0800" channel="400477"><title lang="zh">Isuzu UTE A-League Highlights</title>
-    <desc>Action from the 13th round of fixtures.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120060000 +0800" stop="20260120063000 +0800" channel="400477"><title lang="zh">Ninja A-League Women Highlights</title>
-    <desc>Action from the 12th round of fixtures.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120063000 +0800" stop="20260120070000 +0800" channel="400477"><title lang="zh">The WRC Magazine</title>
-    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120070000 +0800" stop="20260120073000 +0800" channel="400477"><title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from the competition.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120073000 +0800" stop="20260120080000 +0800" channel="400477"><title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
-    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120080000 +0800" stop="20260120083000 +0800" channel="400477"><title lang="zh">The Breakdown</title>
+  <programme start="20260120080000 +0800" stop="20260120083000 +0800" channel="400477"><title lang="zh">The Breakdown</title>
     <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120083000 +0800" stop="20260120113000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
@@ -120,89 +75,53 @@
   </programme><programme start="20260121074500 +0800" stop="20260121080000 +0800" channel="400477"><title lang="zh">Kenny Allstar's Number 1's</title>
     <desc>Host Kenny Allstar talks to former West Ham striker Michail Antonio.</desc>
     <date>2026-01-20</date>
-  </programme><programme start="20260121080000 +0800" stop="20260122080000 +0800" channel="400477"><title lang="zh">The Monuments</title>
+  </programme><programme start="20260121080000 +0800" stop="20260121083000 +0800" channel="400477"><title lang="zh">The Monuments</title>
     <desc>A dive into the unparalleled prestige and dangers of the Hahnenkamm race.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121083000 +0800" stop="20260121113000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
+    <desc>Coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121113000 +0800" stop="20260121133000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121150000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121180000 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121211500 +0800" channel="400477"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121211500 +0800" stop="20260122011500 +0800" channel="400477"><title lang="zh">Live International T20 Cricket</title>
+    <desc>India v New Zealand. Coverage of the first match of the five-game series, held at Vidarbha Cricket Association Stadium in Jamtha.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122011500 +0800" stop="20260122013000 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>Action from the third one-day international between India and New Zealand.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122013000 +0800" stop="20260122020000 +0800" channel="400477"><title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from the latest matches.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020000 +0800" stop="20260122023000 +0800" channel="400477"><title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122023000 +0800" stop="20260122030000 +0800" channel="400477"><title lang="zh">Match Officials Mic'd Up</title>
+    <desc>PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122030000 +0800" stop="20260122063000 +0800" channel="400477"><title lang="zh">Live UEFA Champions League (?)</title>
+    <desc>).</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122063000 +0800" stop="20260122070000 +0800" channel="400477"><title lang="zh">Live: UEFA Champions League Goals Show Xtra (?)</title>
+    <desc>).</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070000 +0800" stop="20260122080000 +0800" channel="400477"><title lang="zh">Australian Open</title>
+    <desc>Highlights from day four at Melbourne Park.</desc>
     <date>2026-01-21</date>
   </programme><channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119080000 +0800" stop="20260119090000 +0800" channel="400480"><title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Arsenal Women v Aston Villa Women.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119090000 +0800" stop="20260119100000 +0800" channel="400480"><title lang="zh">Serie A</title>
-    <desc>AC Milan v Lecce.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119120000 +0800" channel="400480"><title lang="zh">Snooker Masters</title>
-    <desc>Action from the final.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119120000 +0800" stop="20260119130000 +0800" channel="400480"><title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119140000 +0800" channel="400480"><title lang="zh">WRC Review</title>
-    <desc>A look back at Rally Greece and the latest action from the 2025 World Rally Championship.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140000 +0800" stop="20260119143000 +0800" channel="400480"><title lang="zh">Premier League Stories</title>
-    <desc>A profile of Henrik Larsson.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119143000 +0800" stop="20260119150000 +0800" channel="400480"><title lang="zh">Premier League - The Big Interview</title>
-    <desc>An in-depth interview with Spanish midfielder Nico Gonzalez.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119163000 +0800" channel="400480"><title lang="zh">Premier League</title>
-    <desc>Nottingham Forest v Arsenal.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163000 +0800" stop="20260119173000 +0800" channel="400480"><title lang="zh">Serie A</title>
-    <desc>Cagliari v Juventus.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173000 +0800" stop="20260119183000 +0800" channel="400480"><title lang="zh">Serie A</title>
-    <desc>AC Milan v Lecce.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119183000 +0800" stop="20260119190000 +0800" channel="400480"><title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from the competition.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119193000 +0800" channel="400480"><title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
-    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119193000 +0800" stop="20260119203000 +0800" channel="400480"><title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Newcastle United v West Ham United.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119203000 +0800" stop="20260119213000 +0800" channel="400480"><title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Arsenal Women v Aston Villa Women.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119223000 +0800" channel="400480"><title lang="zh">One Day International Cricket</title>
-    <desc>India v New Zealand. Action from the third and final ODI in the series from Holkar Stadium in Indore.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119223000 +0800" stop="20260119230000 +0800" channel="400480"><title lang="zh">UEFA Champions League - Classics</title>
-    <desc>We revisit the 2014/15 UEFA Champions League quarter-final first leg between PSG and Barcelona at the Parc des Princes. PSG had been unbeaten at home in Europe for nine years.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119230000 +0800" stop="20260119233000 +0800" channel="400480"><title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from the competition.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233000 +0800" stop="20260120000000 +0800" channel="400480"><title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
-    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120000000 +0800" stop="20260120010000 +0800" channel="400480"><title lang="zh">Serie A</title>
-    <desc>Cagliari v Juventus.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010000 +0800" stop="20260120020000 +0800" channel="400480"><title lang="zh">Serie A</title>
-    <desc>AC Milan v Lecce.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120020000 +0800" stop="20260120033000 +0800" channel="400480"><title lang="zh">Australian Open</title>
-    <desc>Highlights from day two at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120033000 +0800" stop="20260120040000 +0800" channel="400480"><title lang="zh">The WRC Magazine</title>
-    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120040000 +0800" stop="20260120050000 +0800" channel="400480"><title lang="zh">WRC Review</title>
-    <desc>A l"])self.__next_f.push([1,"ook back at Rally Estonia, which served as the eighth round of the season.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120050000 +0800" stop="20260120060000 +0800" channel="400480"><title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of the 2025 Blue Fin Tuna Championship.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120060000 +0800" stop="20260120080000 +0800" channel="400480"><title lang="zh">Snooker Masters</title>
-    <desc>Action from the final.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120080000 +0800" stop="20260120090000 +0800" channel="400480"><title lang="zh">Isuzu UTE A-League</title>
+  <programme start="20260120080000 +0800" stop="20260120090000 +0800" channel="400480"><title lang="zh">Isuzu UTE A-League</title>
     <desc>Melbourne City v Auckland FC.</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120090000 +0800" stop="20260120100000 +0800" channel="400480"><title lang="zh">Isuzu UTE A-League</title>
@@ -265,62 +184,110 @@
   </programme><programme start="20260121073000 +0800" stop="20260121080000 +0800" channel="400480"><title lang="zh">Isuzu UTE A-League Highlights</title>
     <desc>Action from the 13th round of fixtures.</desc>
     <date>2026-01-20</date>
-  </programme><programme start="20260121080000 +0800" stop="20260122080000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+  </programme><programme start="20260121080000 +0800" stop="20260121083000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
     <desc>Bodo/Glimt v Manchester City.</desc>
     <date>2026-01-21</date>
+  </programme><programme start="20260121083000 +0800" stop="20260121090000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Kairat Almaty v Club Brugge.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121090000 +0800" stop="20260121093000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Tottenham Hotspur v Borussia Dortmund.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121093000 +0800" stop="20260121100000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Real Madrid v Monaco.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100000 +0800" stop="20260121103000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Sporting Lisbon v Paris Saint-Germain.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121103000 +0800" stop="20260121110000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Villarreal v Ajax.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121113000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Olympiacos v Bayer Leverkusen.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121113000 +0800" stop="20260121120000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>FC Copenhagen v Napoli.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121120000 +0800" stop="20260121123000 +0800" channel="400480"><title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the 12th round of fixtures.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121123000 +0800" stop="20260121130000 +0800" channel="400480"><title lang="zh">Ski Jumping World Cup</title>
+    <desc>Action from the Women's HS102 event in Zao, Japan.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121133000 +0800" channel="400480"><title lang="zh">Women's Alpine Skiing World Cup</title>
+    <desc>Action from run one of the Giant Slalom in Kronplatz, Italy.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121140000 +0800" channel="400480"><title lang="zh">Women's Alpine Skiing World Cup</title>
+    <desc>Action from run two of the Giant Slalom in Kronplatz, Italy.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121150000 +0800" channel="400480"><title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Tuesday's fixtures, including Tottenham Hotspur v Borussia Dortmund, Inter Milan v Arsenal, and Bodo/Glimt v Manchester City.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121160000 +0800" channel="400480"><title lang="zh">Premier League Review</title>
+    <desc>A look back at the latest matches, including Nottingham Forest v Arsenal, Manchester United v Manchester City, and Tottenham Hotspur v West Ham United.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121180000 +0800" channel="400480"><title lang="zh">Live: A-League Women</title>
+    <desc>Newcastle Jets Women v Adelaide United Women (Kick-off 8.00am). Coverage of the match from No. 2 Sportsground in Newcastle, Australia.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121183000 +0800" channel="400480"><title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the 13th round of fixtures.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183000 +0800" stop="20260121193000 +0800" channel="400480"><title lang="zh">One Day International Cricket</title>
+    <desc>India v New Zealand. Action from the third and final ODI in the series from Holkar Stadium in Indore.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121193000 +0800" stop="20260121200000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Tottenham Hotspur v Borussia Dortmund.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121203000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Bodo/Glimt v Manchester City.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121203000 +0800" stop="20260121210000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Real Madrid v Monaco.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210000 +0800" stop="20260121213000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Kairat Almaty v Club Brugge.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121220000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Sporting Lisbon v Paris Saint-Germain.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121220000 +0800" stop="20260121223000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Villarreal v Ajax.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121223000 +0800" stop="20260121230000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Olympiacos v Bayer Leverkusen.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121230000 +0800" stop="20260121233000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>FC Copenhagen v Napoli.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121233000 +0800" stop="20260122000000 +0800" channel="400480"><title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122000000 +0800" stop="20260122003000 +0800" channel="400480"><title lang="zh">The WRC Magazine</title>
+    <desc>The latest news and action from Rallye Monte-Carlo.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122013000 +0800" channel="400480"><title lang="zh">Longines FEI Jumping World Cup</title>
+    <desc>Action from the Western European League qualifier in Leipzig, Germany.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122013000 +0800" stop="20260122030000 +0800" channel="400480"><title lang="zh">Australian Open</title>
+    <desc>Highlights from day four at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122030000 +0800" stop="20260122063000 +0800" channel="400480"><title lang="zh">Live UEFA Champions League</title>
+    <desc>Newcastle United v PSV Eindhoven (Kick-off 8.00pm). Coverage of the league phase match from St. James' Park. The Magpies find themselves in 12th place in the 36-team league table and will be desperate for a win here to give themselves some chance of finishing in the top eight. They travel to current European Champions Paris Saint-Germain on the final day of the league phase so will be hoping to ea</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122063000 +0800" stop="20260122070000 +0800" channel="400480"><title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>A chance to see this evening's goals.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070000 +0800" stop="20260122080000 +0800" channel="400480"><title lang="zh">Premier League Review</title>
+    <desc>A look back at the latest matches, including Nottingham Forest v Arsenal, Manchester United v Manchester City, and Tottenham Hotspur v West Ham United.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122080000 +0800" stop="20260123080000 +0800" channel="400480"><title lang="zh">UEFA Champions League</title>
+    <desc>Marseille v Liverpool.</desc>
+    <date>2026-01-22</date>
   </programme><channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119083000 +0800" stop="20260119113000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
-    <desc>Coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119113000 +0800" stop="20260119133000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
-    <desc>Further coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133000 +0800" stop="20260119150000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
-    <desc>Contionued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119180000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
-    <desc>Further coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119213000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119223000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Melbourne City v Auckland FC.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119223000 +0800" stop="20260119233000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Perth Glory v Brisbane Roar.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233000 +0800" stop="20260120003000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Western Sydney Wanderers v Newcastle Jets.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120013000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Central Coast Mariners v Macarthur FC.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120013000 +0800" stop="20260120023000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Adelaide United v Melbourne Victory.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120023000 +0800" stop="20260120033000 +0800" channel="400479"><title lang="zh">Isuzu UTE A-League</title>
-    <desc>Sydney FC v Wellington Phoenix.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120033000 +0800" stop="20260120043000 +0800" channel="400479"><title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Newcastle United v West Ham United.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120043000 +0800" stop="20260120053000 +0800" channel="400479"><title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Arsenal Women v Aston Villa Women.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120053000 +0800" stop="20260120063000 +0800" channel="400479"><title lang="zh">One Day International Cricket</title>
-    <desc>India v New Zealand. Action from the third and final ODI in the series from Holkar Stadium in Indore.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120063000 +0800" stop="20260120070000 +0800" channel="400479"><title lang="zh">The Breakdown</title>
-    <desc>Darren Fletcher is joined by Steven Gerrard, Ally McCoist, Steve McManaman and Joleon Lescott to discuss England and Scotland's chances at the 2026 FIFA World Cup.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120070000 +0800" stop="20260120080000 +0800" channel="400479"><title lang="zh">Australian Open</title>
-    <desc>Highlights from day two at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120083000 +0800" stop="20260120113000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+  <programme start="20260120083000 +0800" stop="20260120113000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
     <desc>Coverage of day three of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120113000 +0800" stop="20260120133000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
@@ -356,68 +323,50 @@
   </programme><programme start="20260121070000 +0800" stop="20260121080000 +0800" channel="400479"><title lang="zh">Australian Open</title>
     <desc>Highlights from day three at Melbourne Park.</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121083000 +0800" stop="20260121113000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+    <desc>Coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121113000 +0800" stop="20260121133000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121150000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121180000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+    <desc>Further coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121213000 +0800" channel="400479"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the year, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121230000 +0800" channel="400479"><title lang="zh">Ultimate Pool</title>
+    <desc>Action from Group 3 of the Women's Champions League.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121230000 +0800" stop="20260122010000 +0800" channel="400479"><title lang="zh">Snooker Masters</title>
+    <desc>Action from the final.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122010000 +0800" stop="20260122020000 +0800" channel="400479"><title lang="zh">Premier League Review</title>
+    <desc>A look back at the latest matches, including Nottingham Forest v Arsenal, Manchester United v Manchester City, and Tottenham Hotspur v West Ham United.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020000 +0800" stop="20260122030000 +0800" channel="400479"><title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>A round-up of all the goals from Tuesday's fixtures, including Tottenham Hotspur v Borussia Dortmund, Inter Milan v Arsenal, and Bodo/Glimt v Manchester City.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122030000 +0800" stop="20260122063000 +0800" channel="400479"><title lang="zh">Live UEFA Champions League</title>
+    <desc>Chelsea v Pafos (Kick-off 8.00pm). Coverage of the league phase match from Stamford Bridge. The hosts are currently 13th in the table with 10 points and may need to win both of their remaining games to finish in the top eight. Their previous ga"])self.__next_f.push([1,"me in this competition ended in a 2-1 loss to Atalanta which dented their hopes of making into straight into the </desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122063000 +0800" stop="20260122070000 +0800" channel="400479"><title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>A chance to see this evening's goals.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070000 +0800" stop="20260122073000 +0800" channel="400479"><title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Red Star's Marko Arnautovic takes a fencing lesson, while Argentine forward Santiago Castro discusses Bologna's unique pre-match ritual.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122073000 +0800" stop="20260122080000 +0800" channel="400479"><title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v New Zealand. Action from the first T20 in the five-match series from Vidarbha Cricket Association Stadium in Jamtha, India.</desc>
+    <date>2026-01-21</date>
   </programme><channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119083000 +0800" stop="20260119113000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119113000 +0800" stop="20260119133000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133000 +0800" stop="20260119160000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160000 +0800" stop="20260119180000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119210000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
-    <desc>Continued coverage of day two of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119213000 +0800" channel="400478"><title lang="zh">Premier League Stories</title>
-    <desc>A profile of Henrik Larsson.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119223000 +0800" channel="400478"><title lang="zh">The Edge</title>
-    <desc>James Anderson and Ebony Rainford-Brent join Craig Doyle to look back at the opening Test of the Ashes at Optus Stadium in Perth.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119223000 +0800" stop="20260119233000 +0800" channel="400478"><title lang="zh">The Edge</title>
-    <desc>Highlights and analysis from the Second Ashes Test).</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233000 +0800" stop="20260120003000 +0800" channel="400478"><title lang="zh">The Edge</title>
-    <desc>"])self.__next_f.push([1,"Highlights and analysis from the Third Ashes Test.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120013000 +0800" channel="400478"><title lang="zh">The Edge</title>
-    <desc>Highlights and analysis from the fourth Ashes Test).</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120013000 +0800" stop="20260120020000 +0800" channel="400478"><title lang="zh">The Breakdown</title>
-    <desc>Behind the scenes at Gallagher PREM side Bristol Bears.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120020000 +0800" stop="20260120023000 +0800" channel="400478"><title lang="zh">Men's Alpine Skiing World Cup</title>
-    <desc>Action from the Downhill event in Wengen, Switzerland.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120023000 +0800" stop="20260120030000 +0800" channel="400478"><title lang="zh">Men's Alpine Skiing World Cup</title>
-    <desc>Action from run one of the Slalom in Wengen, Switzerland.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120030000 +0800" stop="20260120033000 +0800" channel="400478"><title lang="zh">Men's Alpine Skiing World Cup</title>
-    <desc>Action from run two of the Slalom in Wengen, Switzerland.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120033000 +0800" stop="20260120040000 +0800" channel="400478"><title lang="zh">Women's Alpine Skiing World Cup</title>
-    <desc>Action from the Downhill event in Tarvisio, Italy.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120040000 +0800" stop="20260120053000 +0800" channel="400478"><title lang="zh">Australian Open</title>
-    <desc>Highlights from day two at Melbourne Park.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120053000 +0800" stop="20260120063000 +0800" channel="400478"><title lang="zh">Roll The Tape</title>
-    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120063000 +0800" stop="20260120073000 +0800" channel="400478"><title lang="zh">The Edge</title>
-    <desc>Highlights and analysis from the fifth Ashes Test).</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120073000 +0800" stop="20260120080000 +0800" channel="400478"><title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120083000 +0800" stop="20260120113000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+  <programme start="20260120083000 +0800" stop="20260120113000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
     <desc>Continued coverage of day three of the opening Grand Slam event of the season, featuring first-round matches at Melbourne Park.</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120113000 +0800" stop="20260120133000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
@@ -480,56 +429,56 @@
   </programme><programme start="20260121073000 +0800" stop="20260121080000 +0800" channel="400478"><title lang="zh">AO Originals</title>
     <desc>A closer look at the newest stars of the tennis court - including Coco  Gauff, Carlos Alcaraz, Iga Swiatek and Jannik Sinner - and their ambition to make their mark on the game.</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121083000 +0800" stop="20260121113000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121113000 +0800" stop="20260121133000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121160000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121180000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121213000 +0800" channel="400478"><title lang="zh">Live: Australian Open</title>
+    <desc>Continued coverage of day four of the opening Grand Slam event of the season, featuring second-round matches at Melbourne Park.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121223000 +0800" channel="400478"><title lang="zh">Serie A</title>
+    <desc>Cagliari v Juventus.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121223000 +0800" stop="20260121233000 +0800" channel="400478"><title lang="zh">Serie A</title>
+    <desc>AC Milan v Lecce.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121233000 +0800" stop="20260122003000 +0800" channel="400478"><title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Newcastle United v West Ham United.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122013000 +0800" channel="400478"><title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Arsenal Women v Aston Villa Women.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122013000 +0800" stop="20260122014500 +0800" channel="400478"><title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>Host Kenny Allstar talks to former West Ham striker Michail Antonio.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122014500 +0800" stop="20260122034500 +0800" channel="400478"><title lang="zh">Live UEFA Champions League</title>
+    <desc>Galatasaray v Atletico Madrid (Kick-off 5.45pm). Coverage of the league phase match from Rams Park. The visitors are well positioned in the table currently with 12 points and are occupying eighth place which would see them reach the last 16. The hosts are a bit further back in 18th place with nine points and need a victory here to give themselves a chance of finishing in the top eight.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122034500 +0800" stop="20260122070000 +0800" channel="400478"><title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>A chance to see this evening's goals.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070000 +0800" stop="20260122073000 +0800" channel="400478"><title lang="zh">UEFA Champions League</title>
+    <desc>Galatasaray v Atletico Madrid.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122073000 +0800" stop="20260122080000 +0800" channel="400478"><title lang="zh">UEFA Champions League</title>
+    <desc>Qarabag v Eintracht Frankfurt.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122080000 +0800" stop="20260123080000 +0800" channel="400478"><title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from the latest matches.</desc>
+    <date>2026-01-22</date>
   </programme><channel id="410286">
     <display-name lang="Hong Kong">Now爆谷星影台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123759567284_49" />
   </channel>
-  <programme start="20260119084000 +0800" stop="20260119103000 +0800" channel="410286"><title lang="zh">決戰紫禁之巔</title>
-    <desc>大內密探龍龍九奉命追捕鬼王七盜, 發現他是武當掌門凌雲鶴之化身, 在途中結識劍神西門吹雪。西門吹雪救了葉子青而相戀, 劍聖葉孤城向西門吹雪挑戰, 於九月十五日紫禁之巔比劍, 爭奪世上劍法第一, 御妹金燕子傾慕葉孤城, 欲阻止是次比劍。當中龍龍九識破此乃是刺殺皇上之陰謀...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119103000 +0800" stop="20260119122000 +0800" channel="410286"><title lang="zh">殺手之王</title>
-    <desc>一名老人請了世界第一殺手(殺手之王)刺殺日本財閥, 原因是中日戰爭時他曾令他家破人亡。日本財閥死於殺手之王槍下, 財閥生前設立復仇基金, 誰能查出並殺死幕後主腦與殺手之王的人, 就能得到一億元基金。世界最出名的殺手都虎視眈眈, 連財閥的孫子塚本英二都率領世界第二號殺手灰狼和殺手團加入。角逐者中, 只有一對名不經傳的拍檔鱷佬和小富。小富渴望賺錢回鄉建屋, 騙子鱷佬以計謀借小富身手合力角逐復仇基金...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119122000 +0800" stop="20260119135500 +0800" channel="410286"><title lang="zh">人嚇鬼</title>
-    <desc>新少佳為佳聲劇團台柱紅小生, 盛氣凌人, 班中上下人皆討厭他, 尤以小武何貴更常聯同各兄弟扮鬼作弄他。怎料扮假鬼卻遇上真鬼, 戲班果真鬧鬼, 潮州鬼雖無惡意, 卻暗裡常作弄各人, 戲班老衣箱聲叔憑經驗扮演包公審鬼, 得知潮州鬼生前被分屍斬死, 從此變作孤魂野鬼, 聲叔欲尋找其全部骸骨, 擇地安葬, 誰料卻找錯另外一副惡鬼之骨, 惡鬼不時現身騷擾並傷害各人...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119135500 +0800" stop="20260119153500 +0800" channel="410286"><title lang="zh">最佳拍檔之女皇密令</title>
-    <desc>King Kong受一名自稱英國特工的邦先生所托, 英女皇伊利莎二世回港盜取被竊的皇冠寶石。與此同時, 隸屬秘密組織總部的湯哥倫士已到港調查由邦先生領導之國際犯罪集團。King Kong為邦先生順利完成任務後, 再被港督傳召協助湯奪回寶石及捉拿邦等人。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153500 +0800" stop="20260119171000 +0800" channel="410286"><title lang="zh">別戀</title>
-    <desc>只對事業認真, 而對愛情總是抱著遊戲的心態的年青建築師Rick巡視工地, 無意中發現一張女作家「洛靜兒」的新書海報, 失神間Rick被車撞倒。Rick康復出院後, 腦海中竟不斷出現靜兒的影像, 為了查明真相, Rick決定接近靜兒...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119171000 +0800" stop="20260119192000 +0800" channel="410286"><title lang="zh">風雲雄霸天下</title>
-    <desc>天下會幫主雄霸欲得天下, 請神算泥菩薩批算, 泥菩薩預言他的前半生: 「金鱗豈是池中物, 一遇風雲便化龍。」於是雄霸下令找兩名孩童收為徒弟, 他們生辰八字要與批示相符, 以助雄霸大業。他們就是聶風和步驚雲, 但實際上二人都與雄霸有不共戴天之仇...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119192000 +0800" stop="20260119210000 +0800" channel="410286"><title lang="zh">現代豪俠傳</title>
-    <desc>一次核爆後, 水源因輻射污染而不能飲用, 擁有淨水系統的黑武士控制了整個城市的經濟。東東自誕下女兒, 放棄當女俠；陳三則從事義務工作, 為人群盡一分力；而陳七繼續為金錢而活。陳七被黑武士利用, 陰差陽錯下累死東東的丈夫。東東丈夫死後, 變成盲目的報仇, 令黑武士有機可乘...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119224500 +0800" channel="410286"><title lang="zh">歌影雙棲天后: 江湖龍虎鬥</title>
-    <desc>鄧光榮及周潤發是沙煲兄弟, 一起打天下, 最後成為澳門黑社會大阿哥, 但經常與謝賢為首的另一帮黑勢力發生利害衝突。一次, 謝安排借刀殺人計, 引鄧到泰國與軍火商交易, 但鄧在槍戰橫飛之際, 卻無一點懼意, 遂獲得軍火商之賞識及信任, 交易成功。鄧在泰國愛上歌星甄妮, 更帶她一起返回澳門。周潤發重逢兒時好友夏文汐, 與之相戀, 在夏相勸之下, 周欲退出江湖, 過一些安穩舒適的家庭生活, 但遭鄧强烈反對, 兩兄弟在不愉快氣氛下分手。周與夏婚後遷到香港居住, 開了一間超級巿塲, 過着平淡生活。鄧與謝終展開正面衝突, 為了不想連累甄妮, 鄧向她提出分手。鄧與手下去接收由泰國運到之軍火時, 遭謝埋伏, 手下被殺, 鄧身中槍傷, 幸甄及時駕車趕到, 救他離開現塲, 但甄亦傷中要害, 不支死去...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119224500 +0800" stop="20260120010500 +0800" channel="410286"><title lang="zh">跛豪</title>
-    <desc>1962年, 一個廣東潮州汕頭青年吳國豪, 逃到香港石硤尾打工謀生, 因被老闆欺凌, 於是走向黑道歪路, 卻遇上當地的客家黑幫, 吳國豪只好帶領幾個同鄉青年, 投靠潮州同鄉的黑幫大哥肥波。在幾場血戰後, 吳國豪獲肥波信任, 並且確立了他在黑幫中的地位。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010500 +0800" stop="20260120024000 +0800" channel="410286"><title lang="zh">人嚇鬼</title>
-    <desc>新少佳為佳聲劇團台柱紅小生, 盛氣凌人, 班中上下人皆討厭他, 尤以小武何貴更常聯同各兄弟扮鬼作弄他。怎料扮假鬼卻遇上真鬼, 戲班果真鬧鬼, 潮州鬼雖無惡意, 卻暗裡常作弄各人, 戲班老衣箱聲叔憑經驗扮演包公審鬼, 得知潮州鬼生前被分屍斬死, 從此變作孤魂野鬼, 聲叔欲尋找其全部骸骨, 擇地安葬, 誰料卻找錯另外一副惡鬼之骨, 惡鬼不時現身騷擾並傷害各人...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120024000 +0800" stop="20260120025500 +0800" channel="410286"><title lang="zh">影人映語 </title>
-    <desc>榮獲第四十二屆香港電影金像獎「終身成就獎」的洪金寶縱橫影壇逾半世紀, 他的身影遍布幕前幕後, 無論是造就經典動作場面的武術指導, 抑或籌劃整部電影的導演, 甚至是講故事的演員, 他總能輕鬆駕馭, 製作出一部部膾炙人口的作品。今集影人映語請來大哥洪金寶和大家分享他在行內的多重身份, 以及多年以來洪家班的「痛苦史」。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120025500 +0800" stop="20260120043500 +0800" channel="410286"><title lang="zh">最佳拍檔之女皇密令</title>
-    <desc>King Kong受一名自稱英國特工的邦先生所托, 英女皇伊利莎二世回港盜取被竊的皇冠寶石。與此同時, 隸屬秘密組織總部的湯哥倫士已到港調查由邦先生領導之國際犯罪集團。King Kong為邦先生順利完成任務後, 再被港督傳召協助湯奪回寶石及捉拿邦等人。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120043500 +0800" stop="20260120061000 +0800" channel="410286"><title lang="zh">夜驚魂</title>
-    <desc>市內發生連串命案, 猛龍與辣厘王奉命追查, 發現死者皆被刀及白色魚網絲襪所殺, 但苦無破案線索。龍心儀的夜間節目主持人Sissy, 接連遭神秘人騷擾, 疑是變態殺手所為, 借故保護Sissy為名親近為實。某夜, 變態殺手又再出動殺人, Sissy不甘終日活在恐懼中, 自告奮勇穿上白色魚網絲襪, 逗引兇手現身, 可是猛龍、辣厘王走失, Sissy變成變態殺手的囊中物...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120061000 +0800" stop="20260120074000 +0800" channel="410286"><title lang="zh">開心鬼救開心鬼</title>
-    <desc>開心鬼的「今世」康森貴, 快樂地生活在人間, 並結識了女友安妮, 但不知安妮的前生, 乃是誤殺楊元帥的村姑小尼。康任教於安妮父親任校長的學校, 班內有四男生: 文、武、英、傑, 活潑精靈, 常與康對立。康之情敵乃安妮之表哥趙公子, 本處於下風, 幸得康的「前世」朱秀才鬼魂幫助, 才奪回安妮, 但朱因要投胎轉世, 便與康告別, 而康的超能力亦告消失。另一方面, 文、武、英、傑為了追求四大名校花: 梅、蘭、菊、竹, 被整蠱至流落荒郊, 並駭然發現楊元帥之遺骸, 更把盔甲帶回宿舍...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120074000 +0800" stop="20260120080000 +0800" channel="410286"><title lang="zh">屍家重地</title>
-    <desc>本故事開始在香港離島, 一條偏僻漁村一年一度的祭祖典禮上。該村村民並沒有任何生產, 但各人卻過着富裕的生活, 引起該村多事的警長懷疑, 元懷疑該村財富是販毒得來, 遂與兩名手下等追查。而跟隨一劇團來到該村做大戲的花旦在一名臨死男子手中得到一張藏寶圖, 兩人找來在團中當教師的, 三人展開一幕幕驚險的尋寶旅途。元與手下三人見吳等三人行蹤有異, 遂展開跟蹤, 結果被他們發現該村一個不為外人所知的秘密...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120091500 +0800" stop="20260120110500 +0800" channel="410286"><title lang="zh">A 計劃續集</title>
+  <programme start="20260120091500 +0800" stop="20260120110500 +0800" channel="410286"><title lang="zh">A 計劃續集</title>
     <desc>馬如龍因搗破海盜巢穴有功, 被委派治理港島治安, 因而與三區總幫辦鎮三環結怨, 遭陷害入獄。鎮其實是清廷鷹犬, 對付白影紅, 瑩瑩, 珊珊等革命黨。龍被逼逃獄, 阻止革命黨非法暗殺鎮, 堅持以法懲奸...</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120110500 +0800" stop="20260120124000 +0800" channel="410286"><title lang="zh">逃學英雄傳</title>
@@ -571,47 +520,56 @@
   </programme><programme start="20260121072000 +0800" stop="20260121080000 +0800" channel="410286"><title lang="zh">新英雄本色</title>
     <desc>蝦初出茅廬即為名震江湖的俊立功, 而俊為蝦洗脫殺姦夫的罪名, 兩人成生死之交。俊遭陷害, 被迫亡命天涯, 其女友更被殘害, 幕後主事者竟是其大哥。蝦得知, 決助俊報仇...</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121090500 +0800" stop="20260121092000 +0800" channel="410286"><title lang="zh">影人映語 </title>
+    <desc>上一集洪金寶暢談了自己在影壇逾半個世紀擔任武術指導、導演及演員的心跡。今集聚焦在大哥的師徒生涯, 大談于占元師父的人生哲理、以及後來自己培育打仔、打女的心路歷程, 並審視現時香港動作電影的困境。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121092000 +0800" stop="20260121110000 +0800" channel="410286"><title lang="zh">東方禿鷹</title>
+    <desc>「東方禿鷹」乃美國國防部1987年第一號秘密軍事行動代號, 行動目的為潛回越南, 摧毀一批美國於越戰撤軍時未及毁滅的軍火。因為此乃秘密行動, 行動執行者林中校只能於聯邦監獄中挑選一批華裔重犯, 以居留權及重酬利誘之；行動前對他們亦只稍加訓練, 便匆匆組成一支雜牌軍。行動中各成員須強渡關山, 向死神挑戰；彼此從互不信任至互相扶持、生死與共, 最後有幾人能得以全身而退...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121124000 +0800" channel="410286"><title lang="zh">情聖</title>
+    <desc>程勝為人熱心, 為女騙徒圓抵債, 圓要他扮作金山大少, 向富商訛騙金錢。可惜陰差陽錯, 原來富商亦是冒充的, 以為可詐取金山大少的財富還債。大家雖空歡喜一場, 但願意聯手對付惡霸債主...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121124000 +0800" stop="20260121142500 +0800" channel="410286"><title lang="zh">黑俠II</title>
+    <desc>由宙斯領導的神秘軍事組織, 利用遺傳學細胞變種技術, 把326改造成變種殺人武器, 企圖轉售往地下犯罪組織, 從中獲利。326不欲被宙斯操縱, 秘密逃離組織, 並易名「黑俠」。黑俠必須在變種過程完成前復原, 否則性命不保。他嘗試聯絡世界上知名的生物遺傳學家, 希望找到復原辦法。同時又被冷面殺手008追殺。最後, 黑俠找到唯一生還的女遺傳學家陳博士幫忙, 可是卻被突如其來的變種人騷亂破壞。黑俠為了救回被變種人擄去的阿仔, 身份曝光。變種人主腦發現他的行蹤, 企圖捧他為摔角明星, 更將老虎的DNA注入黑俠體內, 令他進入瘋狂狀態。此時, 變種人主腦研製了一個DNA炸彈, 準備在摔角大賽上, 把所有觀眾變成半人不獸的怪物...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121142500 +0800" stop="20260121161000 +0800" channel="410286"><title lang="zh">新最佳拍檔</title>
+    <desc>白手襪盜走兵馬俑, 新最佳拍檔阿弟及阿姐卻搶走秦王劍, 更加害於最佳拍檔King Kong及光頭神探, 為洗脫罪名, 新舊最佳拍檔四人協助警方對付白手襪。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121161000 +0800" stop="20260121175000 +0800" channel="410286"><title lang="zh">魔翡翠</title>
+    <desc>沈昆因一件古玉, 惹來蘇聯特工卡羅夫的追殺。好友獵鷹 (劉德華) 往營救不果, 而古物意外落在小彬彬手上。原來古玉乃能言翡翠, 且有各種神奇力量, 翡翠求彬不要洩露它的存在, 與彬成為好友。此時卡羅夫追尋古物而至, 獵鷹被嫁禍入獄, 彬彬亦被卡捉住。萬分危情之際, 幸獵鷹得逃脫並與姊率眾人趕至, 原來古玉乃......</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121175000 +0800" stop="20260121192000 +0800" channel="410286"><title lang="zh">為你鍾情</title>
+    <desc>的士高唱片騎師陳福水, 自命風流, 與任職車房的好友沙皮及表弟海胆, 組成 '求愛敢死隊'。某日, 在巴士上陳福水遇見海胆的鄰居阿珠的好同學余麗珍, 驚為天人, 便展開熱烈追求, 最後衝破種種阻障, 獲得珠的垂青。但得芳心後。福水便故熊復萌。將珍置諸腦後...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121192000 +0800" stop="20260121210000 +0800" channel="410286"><title lang="zh">殭屍叔叔</title>
+    <desc>和尚與道士比鄰而居, 因性格各異成為鬥氣冤家。一皇族成員因中屍毒死亡, 由皇子及法師護送上京, 由皇上定斷。法師乃道士師弟, 路經道士家, 向師兄借糯米以備不時之需。當晚, 雷雨交加, 死屍因中雷擊變成屍精, 四出殺人, 皇子及親信僥倖逃離現場, 往道士家求救。道士與和尚讓兩名徒弟留下作應急, 因皇子也已中屍毒。二人趕至現場, 見法師因中屍毒太深而自行了斷, 其他被殺的人全部失蹤, 原來眾屍皆成殭屍...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210000 +0800" stop="20260121224500 +0800" channel="410286"><title lang="zh">歌影雙棲天后: 行運超人</title>
+    <desc>葉孤紅做事頭頭碰著黑, 從小到大無人問津, 幸好孤紅個性開朗, 對一切噩運也一笑置之。孤紅將大部份時間寄託於各種風水, 卻無助於自己的霉運。在命運驅使上, 孤紅遇上著名風水術數家賴料布, 而這段姻緣還可化解孤紅一直以來厄運, 豈料橫裡殺出另一個堪輿高手斷蟹從中作梗...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121224500 +0800" stop="20260122003000 +0800" channel="410286"><title lang="zh">監獄風雲</title>
+    <desc>年輕廣告設計師盧家耀因誤殺流氓而被判入獄三年。由於耀生性衝動、耿直, 入獄不久即開罪了獄警及有社團背景人仕, 於獄中常遭各方刁難, 幸得另一囚犯鐘天正經常提點。正在獄中雖抱著「忍一時風平浪靜, 退一步海闊天空」之宗旨做人, 但卻因保護耀而屢被捲入鬥爭漩渦, 最終與奸險獄警督察雄哥結怨。究竟正和耀如何才得以平安地離開監獄......</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122020500 +0800" channel="410286"><title lang="zh">天若有情II之天長地久</title>
+    <desc>小倩逼於生計偷渡來港, 在首次出賣肉體前, 捲入黑幫仇殺, 得飛車黨阿富(郭富城飾)所救。富生於富有而破碎的家庭, 為人鬱鬱寡歡, 但被倩積極樂觀性格所啟發, 正當墮入愛河之際, 倩離開富免他受黑幫禍及, 富卻無條件付出生命...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020500 +0800" stop="20260122035000 +0800" channel="410286"><title lang="zh">咖喱辣椒</title>
+    <desc>咖喱和辣椒從小就是一對好兄弟, 後來又一起加入了警隊, 兩人情同手足, 在工作生活上都是彼此的好搭檔。祖兒到警局為咖喱和辣椒做專訪, 兩人同時愛上了漂亮的祖兒相繼展開攻勢, 但穩重的咖喱更得祖兒垂青。兩人為此心存芥蒂, 工作時也心緒不寧。在採訪中, 兩人無意中查到一筆軍火走私的線索, 欲罷不能, 同時, 咖喱、辣椒因錯誤估計線報, 導致線人被殺, 他們的好友小十仔更因身份暴露死於非命。他們為此感到十分沮喪, 於是兩人放下心中芥蒂, 深入敵船, 再次合理偵破案件, 最終將匪徒一網打盡。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122035000 +0800" stop="20260122053500 +0800" channel="410286"><title lang="zh">新最佳拍檔</title>
+    <desc>白手襪盜走兵馬俑, 新最佳拍檔阿弟及阿姐卻搶走秦王劍, 更加害於最佳拍檔King Kong及光頭神探, 為洗脫罪名, 新舊最佳拍檔四人協助警方對付白手襪。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122053500 +0800" stop="20260122071500 +0800" channel="410286"><title lang="zh">殭屍叔叔</title>
+    <desc>和尚與道士比鄰而居, 因性格各異成為鬥氣冤家。一皇族成員因中屍毒死亡, 由皇子及法師護送上京, 由皇上定斷。法師乃道士師弟, 路經道士家, 向師兄借糯米以備不時之需。當晚, 雷雨交加, 死屍因中雷擊變成屍精, 四出殺人, 皇子及親信僥倖逃離現場, 往道士家求救。道士與和尚讓兩名徒弟留下作應急, 因皇子也已中屍毒。二人趕至現場, 見法師因中屍毒太深而自行了斷, 其他被殺的人全部失蹤, 原來眾屍皆成殭屍...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122071500 +0800" stop="20260122080000 +0800" channel="410286"><title lang="zh">阿金</title>
+    <desc>金到香港後做了替身演員, 一次童家班的童哥等人遭到伏擊而不能工作, 童便讓阿金一試擔當動作指導的職務, 阿金漸成了當紅女武師。阿金跟Sam結婚後到深圳為阿 Sam 打理卡拉 OK 的生意, 可惜這種生活並不適合她, Sam見異思遷, 阿金於是重投電影戲棚, 再度演出危險的動作鏡頭...</desc>
+    <date>2026-01-21</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96" />
   </channel>
-  <programme start="20260119093000 +0800" stop="20260119111500 +0800" channel="410285"><title lang="zh">屍蹤</title>
-    <desc>地產經紀正泰喜歡用客戶給他的鎖匙, 暗中窺探陌生人的生活。表面光鮮的人氣網紅韓索拉令他十分著迷, 他偷窺了對方一段時間後, 決定偷偷潛入索拉的住所, 入屋後竟然發現她的屍體!嚇得立即逃離現場的正泰, 之後接連收到恐嚇信件。負責調查的重案組警探吳英珠調查後發現, 所有的證據都指向正泰是兇手, 他如何為自己洗脫嫌疑?</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119111500 +0800" stop="20260119131000 +0800" channel="410285"><title lang="zh">我談的那場戀愛</title>
-    <desc>「愛情, 只要你相信, 就是真。」城中知名婦科醫生余笑琴雖被騙巨款, 最後仍堅稱自己只是談了一場戀愛。喪夫數年的笑琴在交友軟件邂逅網騙集團的李偉祖, 所偽裝的中年喪妻的法籍石油工程師。笑琴沉醉於網上情緣, 而祖在為笑琴製造浪漫的過程中, 亦找到樂趣與滿足。兩個本來不討喜的人, 因為這場由欺騙開始的網戀, 一點點地改變。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119131000 +0800" stop="20260119150000 +0800" channel="410285"><title lang="zh">奪命金</title>
-    <desc>銀行職員Teresa(何韻詩飾)、黑幫中人三腳豹(劉青雲飾)及警隊督察張正方(任賢齊飾), 因一宗離奇劫案而串連起來。到底處身泡沫時代, 沖擊不絕, 人在金錢與原則之間應如何自處?一場股災, 一袋現金, 引發這時代的終極矛盾。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119180000 +0800" channel="410285"><title lang="zh">長津湖</title>
-    <desc>1950年冬天, 冰天雪地的長津湖區域, 一場美國與中國煉獄般的血戰即將拉開序幕。中美雙方分別派遣最為精銳的王牌部隊出戰 - 中國人民志願軍第9兵團、美軍陸戰第1師, 步兵第7師。兩支部隊在戰役中多次展開驚心動魄的殊死較量, 中方在面臨極端嚴寒、食不果腹、以及巨大武器差距等諸多艱險條件時, 依舊毫無懼色、頑強抗戰、視死如歸, 最終成功炸毀水門橋, 並取得了抗美援朝戰爭中最為關鍵的一場決定性勝利。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119200000 +0800" channel="410285"><title lang="zh">天下無賊</title>
-    <desc>以偷竊及詐騙為生的扒手情侶王薄和王麗, 因王麗厭倦此種生活意欲隱退, 兩人因此反目。在火車上兩人巧遇贛直農民傻根帶著六萬元儲蓄回鄉, 王麗決意保護他。豈料火車上另一偷竊集團決意染指這筆鉅款。雙方在狹窄的車廂中展開一幕幕的暗戰。然而車中竟然臥虎藏龍......</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119200000 +0800" stop="20260119220000 +0800" channel="410285"><title lang="zh">刺心切骨</title>
-    <desc>劍擊冠軍子涵在比賽中失控刺死對手入獄, 母親決心隱瞞母子關係, 與小兒子子滐開展新生活, 假釋出獄後的子涵卻像鬼魅般徘徊不去, 逐步入侵他們的生活。同為劍擊好手的弟弟一邊渴望哥哥的關懷和指導, 一邊掙扎是否相信哥哥說血案只是場意外......當摯親是別人口中的惡魔, 你還會愛他嗎?</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119220000 +0800" stop="20260120000000 +0800" channel="410285"><title lang="zh">百變靚靚: 門徒</title>
-    <desc>阿力用了八年時間混到壟斷海洛英市場的「莊家」身旁, 全心要搜集完整販毒的全部資料, 可是「莊家」行事非常小心。後來「莊家」萌生退休之意, 將生意交給阿力接管。阿力繼承了「莊家」的位置, 一邊當毒販, 一邊繼續追蹤販毒線的源頭。然而, 他已經分不清自己的真正身份......</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120000000 +0800" stop="20260120014500 +0800" channel="410285"><title lang="zh">六樓后座</title>
-    <desc>Candy、Karena、Wing、Jean-Leo和美顏寶。 偶然遇上一年租約的超荀盤, 決定租下這六樓后座。 六人愛玩truth or dare, 全部放下面具, 在此后座沒有秘密。新年新氣象, 六人揚言一年後要做到定下的目標, 誰做不到就食屎, 包租婆作證。最後兩個月, Karena 步向成功, 其他人才體會事情的可怕和認真。起舞吧!一支可歌可泣可笑可愛的青春之舞,  我們nothing to lose...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120014500 +0800" stop="20260120032000 +0800" channel="410285"><title lang="zh">販賣．愛</title>
-    <desc>私生女Tiffany自小跟母親相依為命。大學成績一向不差, 靠做兼職自食其力的她, 在好友慫恿下玩上 「交友Apps」, 最終不敵誘惑, 為解決金錢問題, 選擇了出賣色相。不料踏出了第一步, 卻無法回頭。正當她對出賣尊嚴已日漸麻木時, 一個熱情、滿有理想的青年 Rex闖進她生命中, 令她反思生命價值。可是這時的她已有市有價, 更從零售轉為批發, 專屬「長期飯票」一人, 二人更在不知不覺間滋長出一份微妙的感情。終於, 一次意外事件, 令Tiffany決心與過去生活畫上句號。 她向「長期飯票」坦白欲重過新生, 獲「長期飯票」首肯放生她。然而, 正當她以為可與Rex重新開始時, 她卻要為過去輕率的選擇付上代價...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120032000 +0800" stop="20260120051000 +0800" channel="410285"><title lang="zh">網戰特攻隊</title>
-    <desc>記者林商鎮揭發某間大型企業的醜聞, 卻被網民認為是假新聞而遭停職。某天他接獲吹哨人洩露的情報, 發現企業收取利益操控網上輿論風向。林商鎮決定捍衛自己的名聲, 開始調查此事......</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120051000 +0800" stop="20260120070000 +0800" channel="410285"><title lang="zh">風暴</title>
-    <desc>警隊精英呂明哲為逮捕犯罪集團頭目曹楠處心積慮, 幾欲到手之際竟被兒時好友、慣犯陶成邦攪局。陶為贏回對其品行徹底失望的女友燕冰, 求呂為其過往捏造臥底身份, 並助其破案, 最後甚至不惜出賣同夥。風暴過後, 二人卻驚覺更陷渾沌......</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120070000 +0800" stop="20260120080000 +0800" channel="410285"><title lang="zh">重案行動之連環兇殺</title>
-    <desc>香港出現神秘的自殺事件,死者在手機視訊直播下自焚而死, 而在場唯一的目擊者(教師)卻堅稱自己在當時失去記憶, 並否認與自殺事件有關。 警察重案組接手調查,事件表證都指向教師是自編自導自演的教唆他人自殺的真兇。由於自殺的影片流出, 造成民眾恐慌, 警隊高層亦希望在證據確鑿之下盡快結案, 以釋公眾疑慮。 但唯獨督察黃一聰在盤問後覺得事有蹺蹊...</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120082500 +0800" stop="20260120103000 +0800" channel="410285"><title lang="zh">總理之夫</title>
+  <programme start="20260120082500 +0800" stop="20260120103000 +0800" channel="410285"><title lang="zh">總理之夫</title>
     <desc>改編自日本得獎人氣作家原田舞葉暢銷20萬本的同名小說, 溫柔馴良、醉心研究雀鳥的鳥類學家相馬日和(田中圭 飾), 隨著才貌雙全的妻子凛子(中谷美紀 飾)當選為內閣總理大臣, 他也在一夜之間搖身一變成為日本史上首位「第一先生」!平凡的婚姻生活也產生劇變, 包括被傳媒追訪、被粉絲包圍, 更被監視著一舉一動。既要應付貼身管制他的單親媽媽超強公關(貫地谷栞 飾), 又要與凛子的小鮮肉型男秘書(工藤阿須加 飾)打交道。一天, 凜子因累倒而終於爆出懷孕喜訊, 另一邊廂面慈心狠的政界巨頭原久郎(岸部一德 飾)竟拿著日和與女同事伊藤(松井愛莉 飾)挽手的照片威脅他......當凜子面對產子及競選失敗雙重危機, 廿四孝老公日和如何能排除萬難, 用堅定不移的愛, 支持愛妻在家事與國事之間作出最終抉擇?</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120103000 +0800" stop="20260120121000 +0800" channel="410285"><title lang="zh">困獸</title>
@@ -656,83 +614,50 @@
   </programme><programme start="20260121064000 +0800" stop="20260121080000 +0800" channel="410285"><title lang="zh">飛砂風中轉</title>
     <desc>當今社會追求文明和諧, 環境追求經濟至上主義, 昔日洪門捨生赴義, 與虜拚命的精神早已變質又不合時宜, 各堂口大佬也追求安穩過渡, 但三合會絕不能群龍無首, 「和義盛」坐館火水(方中信飾)卸任在即, 即惹來久違了的黑幫戰國風暴。火水力薦親信火腩(陳小春飾)為繼承人, 同時間曾因替幫會賣命而入獄、「和義盛」開山祖師後人燕子文(鄭伊健飾)亦刑滿重獲自由, 更被視為另一新幫主熱門人選...</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121081500 +0800" stop="20260121094000 +0800" channel="410285"><title lang="zh">異山怪談</title>
+    <desc>越野單車隊隊長民俊和隊員前往表妹賢智父親的森林小屋, 打算在雉岳山上練車及拍片, 而她的父親多年前曾在這座山神秘失踨。深夜一道紅光突然朝他們襲來, 賢智竟被無形的引力帶走。其他隊員良培、秀雅及以撒陸續遇到靈異事件, 他們在地下室發現了一個神秘實驗室, 入面怪異的錄影片段, 讓他們更加不知所措, 事情變得更越來越失控......</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121094000 +0800" stop="20260121112000 +0800" channel="410285"><title lang="zh">鬼馬狂想曲</title>
+    <desc>1969年香港, 701私家偵探社社長(劉青雲飾)與兩名下屬傑(古天樂飾)和雞泡(陳小春飾)調查案件, 查案時三人不小心撞進一間古董店打破了店內不少古董, 刻薄孤寒的社長逼傑與雞泡負責, 傑又使計令雞泡一力承擔買下所有古董碎片, 沒想到雞泡從大堆古董碎片中找到一隻斷了柄的神燈, 雞泡擦了擦神燈但毫無反應。 與此同時, 雞泡接到姨媽的來電, 知道就讀史丹福大學航天科技火箭工程的表妹林亞珍因讀書過度失去聯絡, 至今下落不明, 雞泡因為擔心便向社長請假探姨媽。當雞泡離開後, 社長和傑先後摩擦過神燈, 最後當垃圾般隨手扔出街。沒想到此時, 一個冬菇頭、戴著厚眼鏡, 穿著女巫法術袍的神仙哈米波波(張柏芝飾)從神燈冒出......</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121112000 +0800" stop="20260121133500 +0800" channel="410285"><title lang="zh">看我今天怎麼說</title>
+    <desc>三位赤誠的聾人青年: 子信來自聾人家庭, 雖然生活滿是障礙, 卻用手語活出自信。素恩小時候植入了「人工耳蝸」, 艱辛學習及採用口語, 努力地去做個「正常人」。Alan也用人工耳蝸, 口語能力跟素恩相若, 亦懂得手語, 是子信的莫逆之交；他認為聾人應盡力與不同人溝通, 開拓世界。友情把三人連上, 撞得彼此遍體鱗傷, 卻引領著大家去探索自我。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133500 +0800" stop="20260121154000 +0800" channel="410285"><title lang="zh">秘密之丘</title>
+    <desc>「家人是什麼意思?對我來說, 這仍然是一個謎。」踏入敏感成長階段的12歲少女明恩為工人職業的家人感到難堪, 她不斷撒謊以掩蓋自己真實的家庭狀況。然而, 當她寫作時, 卻不受現實限制。明恩在作品中傾注了自己的感情, 為自己構建了一個與眾不同的世界。然而, 一位新同學的寫作, 動搖了她的自信, 令她嘗試了解自己的家庭背景。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121154000 +0800" stop="20260121175500 +0800" channel="410285"><title lang="zh">北京遇上西雅圖之不二情書</title>
+    <desc>焦姣自小隨父親移居澳門, 長大後成為在賭場打滾的賭場公關, 雖然生活不如意, 但對人生仍充滿希望；Daniel是洛杉磯的一位地產經紀, 他的機靈圓滑令他在華人買房熱潮中大賺一筆, 卻滿足不了內心的空虛。二人身處異地, 素未謀面, 竟因一本《84 Charing Cross Road》意外地開始通信, 掀起澳門與洛杉磯兩地的感動相遇。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121175500 +0800" stop="20260121200000 +0800" channel="410285"><title lang="zh">無間對決</title>
+    <desc>破案率奇高的廣域搜查隊隊長朴强允 (趙震雄 飾), 不但可以收取特別資金用作調查案件, 更過著奢華生活, 住豪宅、穿名牌西裝、揸名車, 財產來源不明。出身警察世家, 講求原則的警察新人崔民載 (崔宇植 飾) 被安排成為朴的隊員, 暗中調查朴的資金來源。  犯毒集團籌備推出新型毒品, 朴用激進搜查方式接近犯罪組織主腦, 警察紀律受到質疑。在調查過程中, 朴發現崔是負責監視自己的警察, 而崔也逐漸發現隱藏在朴背後警察組織的秘密。執法犯法是否一線之差......</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121223000 +0800" channel="410285"><title lang="zh">哪吒之魔童鬧海</title>
+    <desc>天劫之後, 哪吒、敖丙的靈魂雖保住了, 但肉身很快會魂飛魄散。太乙真人打算用七色寶蓮給二人重塑肉身。但是在重塑肉身的過程中卻遇到重重困難, 哪吒、敖丙的命運將走向何方?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121223000 +0800" stop="20260122001500 +0800" channel="410285"><title lang="zh">百變靚靚: 我愛HK開心萬歲</title>
+    <desc>這是一個關於屋邨的故事, 也是一個關於香港精神的故事。屋邨是香港人的集體回憶, 也是香港奮鬥精神的象徵。吳順在屋邨長大, 是土生土長的香港屋邨仔, 但他已十多年未有踏足成長地。今天, 他回到屋邨探望久別未見面的父親, 不是因為懷念, 是因為他的事業受到挫折, 需要舉家搬回屋邨。吳順乃廠佬一名, 成家後已多年未有回家探望老父, 這次回家, 全因吳順在東莞的廠房, 因工潮而倒閉。吳順與順嫂, 育有三個仔女。大仔吳明乃食環署職員、二女吳芝則是終日發明星夢的少女、三女吳京則是一個武力高強的強悍少女。吳順一家要重新出發, 順嫂與仔女嬌生慣養, 從未住屋邨。回到屋邨遇上各式各樣的不便。這段時間, 吳順被迫重新住回公屋, 才想起自己當日是如何成長。迫在一個小小的單位, 與家人共對, 也迫使他面對自己一直忽視的種種家庭問題。他一直沒發現自己在食環署工作的兒子吳明, 原來是如此羞於承認自己的工作。還有吳順的</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122001500 +0800" stop="20260122020000 +0800" channel="410285"><title lang="zh">七月返歸</title>
+    <desc>自幼有陰陽眼、不斷受朋輩排擠的向榮, 某日收到母親自殺不遂入院的消息, 被迫從加拿大返回香港, 並回到舊居暫住。回到兒時熟悉的地方, 再一次見到鬼的向榮發現, 這裡氣氛詭異、怪事連連, 似乎正發生驚人的變化!居於同層的街坊鍾伯與鍾婆亦行為怪異。夜半, 樓上七樓總傳來古怪聲響, 迫使向榮到上層一探究竟。一連串疑幻疑真的離奇事件相繼發生, 令他陷入崩潰邊緣......七樓的死亡傳說彷彿家喻戶曉, 疑似有陰陽眼的鄰居小孩不斷求救, 所有事都向他步步進逼。面對此地他方的種種怪事, 到底是向榮看清了真相, 還是真相只存在他一個人眼中?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020000 +0800" stop="20260122042500 +0800" channel="410285"><title lang="zh">焚城 (加長版)</title>
+    <desc>一場意外引發輻射洩漏, 全港命運危在旦夕。為應付這場毀滅性災難, 專家范偉立加入由署理行政長官Cecilia主持的緊急危機應變小組。700萬人家園隨時毀於一旦, 消防隊臨危受命深入輻射區, 拼死阻止輻射擴散全港。面對前所未見的末日浩劫, 香港會否一夜滅城?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122042500 +0800" stop="20260122060500 +0800" channel="410285"><title lang="zh">焚城的誕生</title>
+    <desc>《焚城》是香港首部以輻射災難為題材, 由曾獲得兩屆金像獎最佳攝影潘耀明執導, 並得到2025年第43屆香港電影金像獎5項提名。本紀錄片分別透過導演潘耀明及一眾台前幕後的工作人員的分享和經歷, 記錄和講述這部電影作品的誕生過程。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122060500 +0800" stop="20260122075000 +0800" channel="410285"><title lang="zh">煎釀叁寶</title>
+    <desc>著名武俠小說家龍飛雁, 憑著舊作品的版權改篇費, 早已生活無憂。故將所有精神寄託在女兒Sophia身上。Sophia已踏入適婚年齡卻嫁杏無期, 唯她仍屢敗屢戰, 兼暗戀花花公子老闆Frankie。因一次小意外Frankie決定搬到Sophia家暫住...</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122075000 +0800" stop="20260122080000 +0800" channel="410285"><title lang="zh">滿江紅</title>
+    <desc>南宋紹興年間, 岳飛死後四年, 秦檜率兵與金國會談。會談前夜, 金國使者死在宰相駐地, 所攜密信也不翼而飛。小兵張大與親兵營副統領孫均機緣巧合被裹挾進這巨大陰謀之中, 宰相秦檜命兩人限一個時辰之內找到兇手。伴隨危機四伏的深入調查, 宰相府總管何立、副總管武義淳、舞姬瑤琴等人捲入局中, 案件的背後似乎隱藏著一場更大的陰謀。局中有局、人心叵測, 一夜之間風雲變幻, 各方勢力暗流湧動...</desc>
+    <date>2026-01-21</date>
   </programme><channel id="369671">
     <display-name lang="馬來西亞">iQIYI HD</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119080000 +0800" stop="20260119090000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119090000 +0800" stop="20260119100000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119110000 +0800" channel="369671"><title lang="zh">The Punishment</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119110000 +0800" stop="20260119120000 +0800" channel="369671"><title lang="zh">The Punishment</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119120000 +0800" stop="20260119130000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119140000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140000 +0800" stop="20260119150000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119160000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160000 +0800" stop="20260119170000 +0800" channel="369671"><title lang="zh">A Moment But Forever</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170000 +0800" stop="20260119180000 +0800" channel="369671"><title lang="zh">A Moment But Forever</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119190000 +0800" channel="369671"><title lang="zh">The Punishment</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119200000 +0800" channel="369671"><title lang="zh">The Punishment</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119200000 +0800" stop="20260119210000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119220000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119220000 +0800" stop="20260119225000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119225000 +0800" stop="20260119234000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119234000 +0800" stop="20260120012000 +0800" channel="369671"><title lang="zh">The Punishment</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120012000 +0800" stop="20260120024000 +0800" channel="369671"><title lang="zh">Extras For Chasing The Dragon</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120024000 +0800" stop="20260120033000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120033000 +0800" stop="20260120042000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120042000 +0800" stop="20260120051000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120051000 +0800" stop="20260120060000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120060000 +0800" stop="20260120070000 +0800" channel="369671"><title lang="zh">Always on the Move</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120070000 +0800" stop="20260120080000 +0800" channel="369671"><title lang="zh">Always on the Move</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120080000 +0800" stop="20260120090000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
+  <programme start="20260120080000 +0800" stop="20260120090000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
     <desc />
     <date>2026-01-20</date>
   </programme><programme start="20260120090000 +0800" stop="20260120100000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
@@ -804,50 +729,83 @@
   </programme><programme start="20260121070000 +0800" stop="20260121080000 +0800" channel="369671"><title lang="zh">Always on the Move</title>
     <desc />
     <date>2026-01-20</date>
+  </programme><programme start="20260121080000 +0800" stop="20260121090000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121090000 +0800" stop="20260121100000 +0800" channel="369671"><title lang="zh">Fangs of Fortune</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100000 +0800" stop="20260121110000 +0800" channel="369671"><title lang="zh">The Punishment</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121120000 +0800" channel="369671"><title lang="zh">The Punishment</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121120000 +0800" stop="20260121130000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121140000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121150000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121160000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121170000 +0800" channel="369671"><title lang="zh">A Moment But Forever</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170000 +0800" stop="20260121180000 +0800" channel="369671"><title lang="zh">A Moment But Forever</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121190000 +0800" channel="369671"><title lang="zh">The Punishment</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190000 +0800" stop="20260121200000 +0800" channel="369671"><title lang="zh">The Punishment</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121210000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210000 +0800" stop="20260121220000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121220000 +0800" stop="20260121225000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121225000 +0800" stop="20260121234000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121234000 +0800" stop="20260122012000 +0800" channel="369671"><title lang="zh">The Punishment</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122012000 +0800" stop="20260122024000 +0800" channel="369671"><title lang="zh">Peak Confrontation</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122024000 +0800" stop="20260122033000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122033000 +0800" stop="20260122042000 +0800" channel="369671"><title lang="zh">In the Name of the Brother</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122042000 +0800" stop="20260122051000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122051000 +0800" stop="20260122060000 +0800" channel="369671"><title lang="zh">The Unclouded Soul</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122060000 +0800" stop="20260122070000 +0800" channel="369671"><title lang="zh">Fighting for Love</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070000 +0800" stop="20260122080000 +0800" channel="369671"><title lang="zh">Fighting for Love</title>
+    <desc />
+    <date>2026-01-21</date>
   </programme><channel id="1298">
     <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
-  <programme start="20260119081000 +0800" stop="20260119100000 +0800" channel="1298"><title lang="zh">American Girl</title>
-    <desc>During the SARS outbreak in 2003, a teenage girl struggle to adjust to life in Taipei after returning from LA, due to her mother's sickness &amp;amp; her younger sister's misdiagnoses with SARS.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119113000 +0800" channel="1298"><title lang="zh">Young Ip Man Crisis Time</title>
-    <desc>Set in 1917, young Ip Man pursues his studies in Hong Kong. The whole school is held hostage during the day of an English speech competition.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119113000 +0800" stop="20260119130500 +0800" channel="1298"><title lang="zh">Oversteer</title>
-    <desc>Feng defies his father and leaves home to pursue his dream of becoming an auto mechanic. Along the way, he unexpectedly finds himself drawn into the thrilling world of car racing.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130500 +0800" stop="20260119153000 +0800" channel="1298"><title lang="zh">Cesium Fallout</title>
-    <desc>Hong Kong's survival is at risk due to a radiation leak. A fire brigade is assigned to stop cesium fallout by entering the radiation zone. Facing this unprecedented disaster, can they save the city?</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153000 +0800" stop="20260119171500 +0800" channel="1298"><title lang="zh">Life Must Go On</title>
-    <desc>When the midnight gymnasium programme for wayward teenage girls is at risk of closing down due to funding, social worker Yanki puts together a dodgeball team to compete in a match to save it.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119171500 +0800" stop="20260119185000 +0800" channel="1298"><title lang="zh">Unleashed</title>
-    <desc>As business at his boxing studio begins to falter, Kit Fok, an unbeaten underground fighter, must take on a final match against an intimidating adversary to keep it alive.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119185000 +0800" stop="20260119210000 +0800" channel="1298"><title lang="zh">Over My Dead Body</title>
-    <desc>When an unidentified corpse is found at a residential unit, the residents fear that its presence will turn their home into an ill-fated house, leading to a chaotic endeavor to remove the body.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119230000 +0800" channel="1298"><title lang="zh">The Comeback</title>
-    <desc>Uncle Hua is a retired special agent who owns an antique shop on an old street. When the street is forcibly demolished by the local gang one day, Uncle Hua's hidden identity is accidentally revealed.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119230000 +0800" stop="20260120010500 +0800" channel="1298"><title lang="zh">Look Up</title>
-    <desc>Celebrating the 25th anniversary of HK's Handover with an anthology of 4 stories about an autistic young man, a reconciliation, a Chinese opera star &amp;amp; a Nepali youth.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010500 +0800" stop="20260120031000 +0800" channel="1298"><title lang="zh">The Monkey King 2</title>
-    <desc>Aaron Kwok plays the Monkey King alongside Gong Li's White Bone Spirit in this powerful sequel to the 2014 box office hit.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120031000 +0800" stop="20260120051500 +0800" channel="1298"><title lang="zh">Endgame</title>
-    <desc>A remake from the Japanese movie Key of Life, Andy Lau, Xiao Yang and Wan Qian stars in this action comedy about the switched identities of an unsuccessful actor &amp;amp; a professional assassin.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120051500 +0800" stop="20260120074000 +0800" channel="1298"><title lang="zh">A Guilty Conscience</title>
-    <desc>The highest grossing Chinese movie in Hong Kong history, the story tells of a barrister who swears to prove his client's innocence, going against one of the most powerful families in Hong Kong.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120074000 +0800" stop="20260120080000 +0800" channel="1298"><title lang="zh">Inexternal</title>
-    <desc>Ming falls into coma and is transported to a fantasy realm where old Master Turtle teaches him ancient boxing skill to defeat an evil boss. Meanwhile, Ming's mother finds a way to save her son.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120091500 +0800" stop="20260120113500 +0800" channel="1298"><title lang="zh">The Grandmaster</title>
+  <programme start="20260120091500 +0800" stop="20260120113500 +0800" channel="1298"><title lang="zh">The Grandmaster</title>
     <desc>Directed by Wong Kar Wai, this epic action film begins in Foshan when Ip Man defending southern fighting styles against a master of the North, Gong Er, with whom he forms an emotional bond.</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120113500 +0800" stop="20260120134000 +0800" channel="1298"><title lang="zh">I'm Livin' it</title>
@@ -883,152 +841,53 @@
   </programme><programme start="20260121063500 +0800" stop="20260121080000 +0800" channel="1298"><title lang="zh">Stand Up Story</title>
     <desc>Mancer cares for his intellectually challenged father Wah. When Mancer finds solace in stand-up comedy, he turns his life's hardships into comedic gold, from school ridicule to pandemic woes.</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121083000 +0800" stop="20260121102000 +0800" channel="1298"><title lang="zh">Crypto Storm</title>
+    <desc>ICAC officer Lok sets up a special team to investigate a corruption case involving a bank's top executive's use of cryptocurrency to manipulate the trading market.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121102000 +0800" stop="20260121115000 +0800" channel="1298"><title lang="zh">Detrimental</title>
+    <desc>You Ji Ren is a visually impaired factory worker living in an island. After a hurricane cut them off from the outside world, a monster suddenly appears, turning whoever sees it into black shadows.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121115000 +0800" stop="20260121140000 +0800" channel="1298"><title lang="zh">Shock Wave 2</title>
+    <desc>A series of bomb threats is causing fear in Hong Kong. An ex-bomb disposal officer becomes prime suspect after a terrorist attack &amp;amp; becomes a fugitive to prove his innocence.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121153500 +0800" channel="1298"><title lang="zh">Burning Blood</title>
+    <desc>A police betrayal has resulted in the death of a narcotics squad member during the arrest of a drug lord. As other team members uncover the truth, they are torn between loyalty and betrayal.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121153500 +0800" stop="20260121171500 +0800" channel="1298"><title lang="zh">The Fate of Reunion</title>
+    <desc>Starring Gillian Chung, Henry Prince Mak, Lin You Wei &amp;amp; more, the story follows a Green Snake spirit who gained enlightenment under the guidance of Dao Qing &amp;amp; she gradually falls for him.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121171500 +0800" stop="20260121191000 +0800" channel="1298"><title lang="zh">Ready o/r Knot</title>
+    <desc>A couple who first meet at a wedding &amp;amp; have been together for five years, question the institution of marriage from opposing viewpoints. Should marriage always be the 'next step.'?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121191000 +0800" stop="20260121210000 +0800" channel="1298"><title lang="zh">Saving General Yang</title>
+    <desc>Ekin Cheng, Vic Chow, Raymond Lam &amp;amp; Wu Chun, star in this tale that depicts how the seven sons of General Yang set out to rescue their father from an army of thousands.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210000 +0800" stop="20260121224500 +0800" channel="1298"><title lang="zh">Ultimate Malevolence</title>
+    <desc>Featuring three stories about two high school friends, a magician and a lost man, the movie reveals the most terrifying and ugly side of human nature, where life and death are just a thought away!</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121224500 +0800" stop="20260122001500 +0800" channel="1298"><title lang="zh">Oversteer</title>
+    <desc>Feng defies his father and leaves home to pursue his dream of becoming an auto mechanic. Along the way, he unexpectedly finds himself drawn into the thrilling world of car racing.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122001500 +0800" stop="20260122020000 +0800" channel="1298"><title lang="zh">Sky on Fire</title>
+    <desc>Directed by Ringo Lam, Daniel Wu stars as a security chief embroiled in a battle to protect a cure for deadly disease from falling into the wrong hands. Joseph Chang &amp;amp; Zhang Ruo Yun co-star.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020000 +0800" stop="20260122034500 +0800" channel="1298"><title lang="zh">The Italian Recipe</title>
+    <desc>Celebrity Peng travels to Rome for the shooting of a reality show and encounters an ordinary girl, Man Man, who dreams of becoming a great chef after migrating to Italy.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122034500 +0800" stop="20260122052000 +0800" channel="1298"><title lang="zh">Z Storm</title>
+    <desc>An ICAC investigator uncovers the huge fraud scheme of an organized corrupt group involving the government's $15 billion 'Care Fund'. He must fight against them to keep Hong Kong corruption free.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122052000 +0800" stop="20260122072500 +0800" channel="1298"><title lang="zh">Break Up Club</title>
+    <desc>Jaycee Chan plays a 20-something slacker who discovers a magical website that may help reunite him and his girlfriend but at what cost?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122072500 +0800" stop="20260122080000 +0800" channel="1298"><title lang="zh">Go For Broke</title>
+    <desc>With his family destroyed by drug dealers, Zhang Yao teams up with detective An to take down the drug lords. As the revenge plot unfolds, do they share a common foe or harbour personal agendas?</desc>
+    <date>2026-01-21</date>
   </programme><channel id="368550">
     <display-name lang="Hong Kong">港台电视31</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119080000 +0800" stop="20260119080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119080500 +0800" stop="20260119100000 +0800" channel="368550"><title lang="zh">千禧年代</title>
-    <desc>千禧年代 1月19日</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119105500 +0800" channel="368550"><title lang="zh">我們的當打之年</title>
-    <desc>第三十二集：杜秉文與袁歌分手</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119105500 +0800" stop="20260119110000 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title>
-    <desc>為人民服務 - 路政署 - 昂船洲大橋結構安全檢查工作</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119110000 +0800" stop="20260119110500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119110500 +0800" stop="20260119111000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119111000 +0800" stop="20260119120000 +0800" channel="368550"><title lang="zh">香江暖流</title>
-    <desc>香江暖流</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119120000 +0800" stop="20260119130000 +0800" channel="368550"><title lang="zh">習近平經濟思想系列講讀</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119130500 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title>
-    <desc>為人民服務 - 路政署 - 昂船洲大橋結構安全檢查工作</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130500 +0800" stop="20260119131000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119131000 +0800" stop="20260119140000 +0800" channel="368550"><title lang="zh">精靈一點</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140000 +0800" stop="20260119144500 +0800" channel="368550"><title lang="zh">南來北往</title>
-    <desc>第三十九集：汪新試圖說服賈金龍自首</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119144500 +0800" stop="20260119153500 +0800" channel="368550"><title lang="zh">姊妹們的犯太歲</title>
-    <desc>第一集：三姊妹被預言犯太歲</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153500 +0800" stop="20260119163000 +0800" channel="368550"><title lang="zh">港台體壇123</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163000 +0800" stop="20260119165000 +0800" channel="368550"><title lang="zh">BobieLand</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119165000 +0800" stop="20260119165500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119165500 +0800" stop="20260119170500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170500 +0800" stop="20260119173000 +0800" channel="368550"><title lang="zh">紅粉緋緋與彼得叻叻豬</title>
-    <desc>(A) 精彩雪橇之旅 (B) 雪花精靈</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173000 +0800" stop="20260119180000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc>第一千零七十六集</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119183000 +0800" channel="368550"><title lang="zh">新聞天地</title>
-    <desc>20260119</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119183000 +0800" stop="20260119185500 +0800" channel="368550"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119185500 +0800" stop="20260119190000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119195000 +0800" channel="368550"><title lang="zh">時光正好</title>
-    <desc>第八集：于海在酒吧買醉</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119195000 +0800" stop="20260119195500 +0800" channel="368550"><title lang="zh">悅讀憲法</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119195500 +0800" stop="20260119200000 +0800" channel="368550"><title lang="zh">政正關你事</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119200000 +0800" stop="20260119202500 +0800" channel="368550"><title lang="zh">睇得見。聽得到</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119202500 +0800" stop="20260119203000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119203000 +0800" stop="20260119212500 +0800" channel="368550"><title lang="zh">我是刑警</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119212500 +0800" stop="20260119213000 +0800" channel="368550"><title lang="zh">政正關你事</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119220000 +0800" channel="368550"><title lang="zh">香港故事 - 尾巴會說話</title>
-    <desc>百變小鸚</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119220000 +0800" stop="20260119225500 +0800" channel="368550"><title lang="zh">31看世界 - 深夜潛行</title>
-    <desc>深夜潛行</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119225500 +0800" stop="20260119230000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119230000 +0800" stop="20260120000000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120000000 +0800" stop="20260120003000 +0800" channel="368550"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120010000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc>第一千零七十六集</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010000 +0800" stop="20260120020000 +0800" channel="368550"><title lang="zh">時光正好</title>
-    <desc>第八集：于海在酒吧買醉</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120020000 +0800" stop="20260120023000 +0800" channel="368550"><title lang="zh">睇得見。聽得到</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120023000 +0800" stop="20260120030000 +0800" channel="368550"><title lang="zh">香港故事 - 尾巴會說話</title>
-    <desc>百變小鸚</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120030000 +0800" stop="20260120033000 +0800" channel="368550"><title lang="zh">體壇無界限</title>
-    <desc>第三十集</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120033000 +0800" stop="20260120043000 +0800" channel="368550"><title lang="zh">我是刑警</title>
-    <desc>第二十六集：爆炸案嫌疑人被鎖定</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120043000 +0800" stop="20260120053000 +0800" channel="368550"><title lang="zh">31看世界 - 深夜潛行</title>
-    <desc>深夜潛行</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120053000 +0800" stop="20260120063000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120063000 +0800" stop="20260120065000 +0800" channel="368550"><title lang="zh">BobieLand</title>
-    <desc>第一百三十三集 - 學懂離別</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120065000 +0800" stop="20260120065500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120065500 +0800" stop="20260120070500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120070500 +0800" stop="20260120073000 +0800" channel="368550"><title lang="zh">紅粉緋緋與彼得叻叻豬</title>
-    <desc>(A) 精彩雪橇之旅 (B) 雪花精靈</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120073000 +0800" stop="20260120080000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
-    <desc>第一千零七十六集</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120080000 +0800" stop="20260120080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+  <programme start="20260120080000 +0800" stop="20260120080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
     <desc />
     <date>2026-01-20</date>
   </programme><programme start="20260120080500 +0800" stop="20260120100000 +0800" channel="368550"><title lang="zh">千禧年代</title>
@@ -1166,146 +1025,152 @@
   </programme><programme start="20260121073000 +0800" stop="20260121080000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
     <desc>第一千零七十七集</desc>
     <date>2026-01-20</date>
-  </programme><programme start="20260121080000 +0800" stop="20260122080000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+  </programme><programme start="20260121080000 +0800" stop="20260121080500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
     <desc />
     <date>2026-01-21</date>
+  </programme><programme start="20260121080500 +0800" stop="20260121100000 +0800" channel="368550"><title lang="zh">千禧年代</title>
+    <desc>千禧年代 1月21日</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100000 +0800" stop="20260121105500 +0800" channel="368550"><title lang="zh">我們的當打之年</title>
+    <desc>第三十四集：谷嶠與熊啟明分手</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121105500 +0800" stop="20260121110000 +0800" channel="368550"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121110500 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110500 +0800" stop="20260121111000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121111000 +0800" stop="20260121120000 +0800" channel="368550"><title lang="zh">香江暖流</title>
+    <desc>香江暖流</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121120000 +0800" stop="20260121130000 +0800" channel="368550"><title lang="zh">31看世界 - 淨零排放新時代</title>
+    <desc>家居供暖</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121130500 +0800" channel="368550"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130500 +0800" stop="20260121131000 +0800" channel="368550"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121131000 +0800" stop="20260121140000 +0800" channel="368550"><title lang="zh">精靈一點</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121144500 +0800" channel="368550"><title lang="zh">姊妹們的犯太歲</title>
+    <desc>第四集：接連而至的厄運</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121144500 +0800" stop="20260121153500 +0800" channel="368550"><title lang="zh">姊妹們的犯太歲</title>
+    <desc>第五集：愛情、債務與誘惑的三重奏</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121153500 +0800" stop="20260121163000 +0800" channel="368550"><title lang="zh">港台體壇123</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121163000 +0800" stop="20260121165000 +0800" channel="368550"><title lang="zh">BobieLand</title>
+    <desc>第一百三十五集 - 學懂離別</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121165000 +0800" stop="20260121165500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121165500 +0800" stop="20260121170500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170500 +0800" stop="20260121173000 +0800" channel="368550"><title lang="zh">紅粉緋緋與彼得叻叻豬</title>
+    <desc>(A) 紅粉慶典機 (B) 秘密雕塑</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121173000 +0800" stop="20260121180000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
+    <desc>第一千零七十八集</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121183000 +0800" channel="368550"><title lang="zh">新聞天地</title>
+    <desc>20260121</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183000 +0800" stop="20260121185500 +0800" channel="368550"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121185500 +0800" stop="20260121190000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190000 +0800" stop="20260121195500 +0800" channel="368550"><title lang="zh">時光正好</title>
+    <desc>第十集：老賈勸李臨和夢安生二胎</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121195500 +0800" stop="20260121200000 +0800" channel="368550"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121202500 +0800" channel="368550"><title lang="zh">議政四方</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121202500 +0800" stop="20260121203000 +0800" channel="368550"><title lang="zh">香港電台天氣簡報</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121203000 +0800" stop="20260121212500 +0800" channel="368550"><title lang="zh">我是刑警</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121212500 +0800" stop="20260121213000 +0800" channel="368550"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121220000 +0800" channel="368550"><title lang="zh">醫生與你</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121220000 +0800" stop="20260121225500 +0800" channel="368550"><title lang="zh">31看世界 - 無極飛行</title>
+    <desc>蘇格蘭 - 巴士飛機</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121225500 +0800" stop="20260121230000 +0800" channel="368550"><title lang="zh">警聲360</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121230000 +0800" stop="20260122000000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122000000 +0800" stop="20260122003000 +0800" channel="368550"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122010000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
+    <desc>第一千零七十八集</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122010000 +0800" stop="20260122020000 +0800" channel="368550"><title lang="zh">時光正好</title>
+    <desc>第十集：老賈勸李臨和夢安生二胎</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122020000 +0800" stop="20260122023000 +0800" channel="368550"><title lang="zh">議政四方</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122023000 +0800" stop="20260122030000 +0800" channel="368550"><title lang="zh">醫生與你</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122030000 +0800" stop="20260122033000 +0800" channel="368550"><title lang="zh">證義搜查線之騙局拼圖 (普通話)</title>
+    <desc>第二集 (市场操纵)</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122033000 +0800" stop="20260122043000 +0800" channel="368550"><title lang="zh">我是刑警</title>
+    <desc>第二十八集：秦川被邀偵查清江兩案</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122043000 +0800" stop="20260122053000 +0800" channel="368550"><title lang="zh">31看世界 - 無極飛行</title>
+    <desc>蘇格蘭 - 巴士飛機</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122053000 +0800" stop="20260122063000 +0800" channel="368550"><title lang="zh">學人沙龍</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122063000 +0800" stop="20260122065000 +0800" channel="368550"><title lang="zh">BobieLand</title>
+    <desc>第一百三十五集 - 學懂離別</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122065000 +0800" stop="20260122065500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122065500 +0800" stop="20260122070500 +0800" channel="368550"><title lang="zh">奇趣100 FUN</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122070500 +0800" stop="20260122073000 +0800" channel="368550"><title lang="zh">紅粉緋緋與彼得叻叻豬</title>
+    <desc>(A) 紅粉慶典機 (B) 秘密雕塑</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122073000 +0800" stop="20260122080000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title>
+    <desc>第一千零七十八集</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122080000 +0800" stop="20260123080000 +0800" channel="368550"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-22</date>
   </programme><channel id="368551">
     <display-name lang="Hong Kong">港台电视32</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260119080500 +0800" stop="20260119100000 +0800" channel="368551"><title lang="zh">千禧年代</title>
-    <desc>千禧年代 1月19日</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119122000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119122000 +0800" stop="20260119122500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119122500 +0800" stop="20260119123000 +0800" channel="368551"><title lang="zh">政正關你事 - 為人民服務</title>
-    <desc>為人民服務 - 路政署 - 昂船洲大橋結構安全檢查工作</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119123000 +0800" stop="20260119130000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119130700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130700 +0800" stop="20260119133000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133000 +0800" stop="20260119133700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133700 +0800" stop="20260119140000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140000 +0800" stop="20260119140700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140700 +0800" stop="20260119143000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119143000 +0800" stop="20260119143700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119143700 +0800" stop="20260119150000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119150700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150700 +0800" stop="20260119153000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153000 +0800" stop="20260119153700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153700 +0800" stop="20260119160000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160000 +0800" stop="20260119160700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160700 +0800" stop="20260119163000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163000 +0800" stop="20260119163700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163700 +0800" stop="20260119170000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170000 +0800" stop="20260119170700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170700 +0800" stop="20260119173000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173000 +0800" stop="20260119173700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
-    <desc>新聞簡報</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173700 +0800" stop="20260119180000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119183000 +0800" channel="368551"><title lang="zh">新聞天地</title>
-    <desc>20260119</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119183000 +0800" stop="20260119190000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119190500 +0800" channel="368551"><title lang="zh">香港電台天氣簡報</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190500 +0800" stop="20260119203000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119203000 +0800" stop="20260119210000 +0800" channel="368551"><title lang="zh">第十七屆香港盃外交知識競賽參訪團</title>
-    <desc>第十七屆香港盃外交知識競賽參訪團山東篇 — 曲阜、泰安</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119210500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210500 +0800" stop="20260119213000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119220000 +0800" channel="368551"><title lang="zh">鏗鏘集</title>
-    <desc>高消費旅遊</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119220000 +0800" stop="20260119223000 +0800" channel="368551"><title lang="zh">走進東盟</title>
-    <desc>走進東盟</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119223000 +0800" stop="20260120000000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120000000 +0800" stop="20260120003000 +0800" channel="368551"><title lang="zh">鏗鏘集</title>
-    <desc>高消費旅遊</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120010000 +0800" channel="368551"><title lang="zh">走進東盟</title>
-    <desc>走進東盟</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010000 +0800" stop="20260120013000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120013000 +0800" stop="20260120050000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120050000 +0800" stop="20260120053000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120053000 +0800" stop="20260120073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120073000 +0800" stop="20260120073500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120073500 +0800" stop="20260120074000 +0800" channel="368551"><title lang="zh">政正關你事</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120074000 +0800" stop="20260120080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc>生活．健康．資訊．體育．港式速遞</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120080500 +0800" stop="20260120100000 +0800" channel="368551"><title lang="zh">千禧年代</title>
+  <programme start="20260120080500 +0800" stop="20260120100000 +0800" channel="368551"><title lang="zh">千禧年代</title>
     <desc>千禧年代 1月20日</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120100000 +0800" stop="20260120122000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
@@ -1440,119 +1305,158 @@
   </programme><programme start="20260121074000 +0800" stop="20260121080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
     <desc>生活．健康．資訊．體育．港式速遞</desc>
     <date>2026-01-20</date>
+  </programme><programme start="20260121080500 +0800" stop="20260121100000 +0800" channel="368551"><title lang="zh">千禧年代</title>
+    <desc>千禧年代 1月21日</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100000 +0800" stop="20260121100500 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100500 +0800" stop="20260121103000 +0800" channel="368551"><title lang="zh">議政四方</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121103000 +0800" stop="20260121110000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121122000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121122000 +0800" stop="20260121122500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121122500 +0800" stop="20260121123000 +0800" channel="368551"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121123000 +0800" stop="20260121130000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121130700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130700 +0800" stop="20260121133000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121133700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133700 +0800" stop="20260121140000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121140700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140700 +0800" stop="20260121143000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121143000 +0800" stop="20260121143700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121143700 +0800" stop="20260121150000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121150700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150700 +0800" stop="20260121153000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121153000 +0800" stop="20260121153700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121153700 +0800" stop="20260121160000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121160700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160700 +0800" stop="20260121163000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121163000 +0800" stop="20260121163700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121163700 +0800" stop="20260121170000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170000 +0800" stop="20260121170700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170700 +0800" stop="20260121173000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121173000 +0800" stop="20260121173700 +0800" channel="368551"><title lang="zh">新聞簡報</title>
+    <desc>新聞簡報</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121173700 +0800" stop="20260121180000 +0800" channel="368551"><title lang="zh">立法會大會</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121183000 +0800" channel="368551"><title lang="zh">新聞天地</title>
+    <desc>20260121</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183000 +0800" stop="20260121183500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183500 +0800" stop="20260121184000 +0800" channel="368551"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121184000 +0800" stop="20260121190000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190000 +0800" stop="20260121190500 +0800" channel="368551"><title lang="zh">香港電台天氣簡報</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190500 +0800" stop="20260121203000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121203000 +0800" stop="20260121210000 +0800" channel="368551"><title lang="zh">議政四方</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210000 +0800" stop="20260121210500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121210500 +0800" stop="20260121213000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121220000 +0800" channel="368551"><title lang="zh">藝坊</title>
+    <desc>藝坊#3</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121220000 +0800" stop="20260121223000 +0800" channel="368551"><title lang="zh">睇得見。聽得到（英文版）</title>
+    <desc>喵喵日和</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121223000 +0800" stop="20260122000000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122000000 +0800" stop="20260122003000 +0800" channel="368551"><title lang="zh">藝坊</title>
+    <desc>藝坊#3</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122010000 +0800" channel="368551"><title lang="zh">睇得見。聽得到（英文版）</title>
+    <desc>喵喵日和</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122010000 +0800" stop="20260122013000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122013000 +0800" stop="20260122050000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122050000 +0800" stop="20260122053000 +0800" channel="368551"><title lang="zh">凝聚香港</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122053000 +0800" stop="20260122073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122073000 +0800" stop="20260122073500 +0800" channel="368551"><title lang="zh">盛事傳城</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122073500 +0800" stop="20260122074000 +0800" channel="368551"><title lang="zh">政正關你事</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122074000 +0800" stop="20260122080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc>生活．健康．資訊．體育．港式速遞</desc>
+    <date>2026-01-21</date>
   </programme><channel id="410274">
     <display-name lang="Hong Kong">ViuTV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128105803707716_97" />
   </channel>
-  <programme start="20260119090000 +0800" stop="20260119093000 +0800" channel="410274"><title lang="zh">菁新力量 第3集 </title>
-    <desc>憑著一部智能調酒機，陳嘉樂不只贏得兩項創科大獎，更成功躋身《福布斯》亞洲30歲以下精英榜。今集主持除了親身體驗調酒機的玩味與便利，亦會了解這位年輕創業家背後的故事。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119093000 +0800" stop="20260119110000 +0800" channel="410274"><title lang="zh">交易時段</title>
-    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119110000 +0800" stop="20260119113000 +0800" channel="410274"><title lang="zh">智富通 第426集</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119113000 +0800" stop="20260119120000 +0800" channel="410274"><title lang="zh">同AI開片 第9集 </title>
-    <desc>阿GI自細熱愛打機，主持決定為她打造最強遊戲體驗；「去人性化」扮演遊戲角色，一嘗真人打機滋味。最終當提及打機回憶，阿GI突然崩潰，原來哥哥已不在人世。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119120000 +0800" stop="20260119123000 +0800" channel="410274"><title lang="zh">午間新聞</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119123000 +0800" stop="20260119125500 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1464集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119125500 +0800" stop="20260119130000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1279集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119133000 +0800" channel="410274"><title lang="zh">舉高雙手3 第25集</title>
-    <desc>過去兩季嘅「舉高雙手」積極搜羅本地嘅表演藝術，為觀眾帶來既 Trendy又刺激嘅視覺享受。來到全新一輯嘅「舉高雙手 3」，將嘗試扭轉過往嘅思維，發掘一啲著重靜態、與大自然融合，或是非常貼近社區嘅地道音樂同文化藝術。過去秉承著「敢問、敢學、敢玩」嘅新世代藝術家信條，與一班默默耕耘嘅本地新文化精英大搞”We Connect”，了解喺香港從事表演藝術或非主流文化事業嘅人，佢地嘅付出、熱誠同埋辛酸史。主持與受訪嘉賓促膝詳談、一邊試新嘢同搞 Crossover，過程中擦出咗大量火花，更為自己帶來不少全新的創作意念同埋內涵！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119133000 +0800" stop="20260119140000 +0800" channel="410274"><title lang="zh">730 玩返轉 第130集</title>
-    <desc>《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119140000 +0800" stop="20260119150000 +0800" channel="410274"><title lang="zh">飛黃騰達 第6集 </title>
-    <desc>第一回合，參賽者被分成兩組，各自調研大會指定的公司，擬定投資策略，透過直播辯論由觀眾評分定輸贏。田野調查要合作，但兩隊組員從一開始就缺乏互信、相互猜疑。Jayden沒想到，最大挑戰居然是一向沉實的Stone。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119160000 +0800" channel="410274"><title lang="zh">交易時段</title>
-    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160000 +0800" stop="20260119163000 +0800" channel="410274"><title lang="zh">芭比之魔法在身邊 第14集</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163000 +0800" stop="20260119170000 +0800" channel="410274"><title lang="zh">百變校巴 第9集 </title>
-    <desc>講述了人工智慧的校巴卟卟與小朋友們前往火星，體驗新奇有趣的火星生活。小朋友們在火星收集蘑菇孢子，還在火星煮拉麵；他們見識到了不一樣的火星環境，如成分特殊的火星冰雪、脆弱的火星雲朵等。可是，火星自然環境過於特殊，小朋友們遇上了各種各樣的挑戰。這時，百變校巴就會立即出現，運用海量知識庫，和小朋友們共同解決問題，同時引導他們正確地認識和瞭解火星。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170000 +0800" stop="20260119173000 +0800" channel="410274"><title lang="zh">無敵鹿戰隊 第三季 第5集 </title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173000 +0800" stop="20260119180000 +0800" channel="410274"><title lang="zh">全運港將 第22集</title>
-    <desc>四年一度的「全運會」，今年踏入第十五屆，將於2025年11月9號至21號，在廣東、香港和澳門三地舉行，全國各地的頂尖運動員將會雲集粵港澳三地，競逐各項賽事的殊榮。我地每一集都會介紹唔同項目的香港運動員代表，了解佢地平時的訓練，同埋備戰全運會的最新情況，一齊為全運港將打氣!</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119183000 +0800" channel="410274"><title lang="zh">6點新聞報道</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119183000 +0800" stop="20260119190000 +0800" channel="410274"><title lang="zh">熨斗家族 第42集</title>
-    <desc>一部以三代人在清廉洗衣店工作的家庭黑色喜劇。講述家人之間溫暖的感情和激烈的矛盾，是一部重新回顧現代社會「家庭」所具有的意義的作品。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119193000 +0800" channel="410274"><title lang="zh">7點新聞報道</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119193000 +0800" stop="20260119200000 +0800" channel="410274"><title lang="zh">730 玩返轉 第131集</title>
-    <desc>《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119200000 +0800" stop="20260119203000 +0800" channel="410274"><title lang="zh">細事都被你看透 第25集</title>
-    <desc>「網上起人底！係彰顯正義定陷人於不義？」「關愛座冇人座，你坐咗係咪錯？」網上熱話無奇不有，而且浮現了奇異現象；事件即使雞毛蒜皮，談論總是樂此不疲，題材趣怪貼地，回應自然舖天蓋地，隨時比大新聞更轟動。全新訪談節目，將會透過不同藝人、專家及講者，從多角度分析每日最hit話題，娛樂民生，衣食住行，無所不談。話題看似事不關己，實際影響其實殺到埋身！未雨绸缪，不再食花生，捍衛立場，舌劍唇槍，一於「小題大做」！濕碎嘢，認真傾，集大成，看世情。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119203000 +0800" stop="20260119213000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 鬼宮 第12集</title>
-    <desc>王把盲廳的所有盲眼神算都關起來審問，以查明餓鬼的真實身份。與此同時，汝里發現是八尺鬼殺死了她的外婆。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119213000 +0800" stop="20260119223000 +0800" channel="410274"><title lang="zh">協商的技術 第6集</title>
-    <desc>洙諾聽到了車浩鎮難以將快遞王賣給任何公司的原因，以及他起訴DC遊戲盜竊而不是抄襲的原因。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119223000 +0800" stop="20260119230000 +0800" channel="410274"><title lang="zh">無痕旅遊模式 第11集</title>
-    <desc>旅行是消費、消遣、同時亦是「消耗」。旅遊是環境殺手之一，「報復性旅遊」真正報復的，就是我們的地球！是次節目《無痕旅遊模式》秉持一份負責任的旅行態度，強調旅行者的每個決定都要盡力減低對環境負擔，務求以對地球不留痕跡的方式出遊。將「永續旅遊」以充滿驚喜、新奇及刺激的方式實踐！透過旅行，打開與大自然對話；召喚出保衛地球之靈魂；引導眾生回歸旅遊正途，一切──由《無痕旅遊模式》開始。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119230000 +0800" stop="20260119233000 +0800" channel="410274"><title lang="zh">晚吹 </title>
-    <desc>都市女性，每日面對社會、經濟、感情等形形色色的不公平，令怨氣愈積愈多。節目為她們提供出口，由主持陪伴解開心結，勉勵大家適時抒發情緒，To be happy girl in the happy world。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233000 +0800" stop="20260119233500 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1280集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119233500 +0800" stop="20260120003000 +0800" channel="410274"><title lang="zh">最好的教師 第3集</title>
-    <desc>「殺死九條里奈」——3年D班的黑板上寫著要殺死九條的威脅字句，學校裡一片嘩然。大家議論紛紛，到底誰才是罪魁禍。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120003000 +0800" stop="20260120010000 +0800" channel="410274"><title lang="zh">阿女又戀嚟 第11集 </title>
-    <desc>所謂「相見好，同住難」，經過兩次單獨約會後，製作組決定安排一個三日兩夜的 Dating Camp 給12名單身男女！朝夕相對下， 4對關係錯綜複雜的「三人行」組合會否開始壁壘分明？入營第一日，參加者以「嬲」字組合分為4組鬥智鬥力。當情敵正面交鋒，他們會為保護女神挺身而出嗎？晚上，8名男生更為女生們準備了才藝表演，可卻險變成告白大會？另一邊廂，家長們繼續直擊囡囡不在家的3天，感情如何大升溫！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120010000 +0800" stop="20260120013000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1464集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120013000 +0800" stop="20260120023000 +0800" channel="410274"><title lang="zh">頭腦共助 第19集</title>
-    <desc>這讓河路和明世的家人更加親近，至少明世是這麼認為的。然而，河路令明世經歷他必須經歷的事情的唯一目的仍然存在。與此同時，他無意中發現了證明明世違法的重要證據。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120023000 +0800" stop="20260120030000 +0800" channel="410274"><title lang="zh">深宵新聞</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120030000 +0800" stop="20260120040000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 鬼宮 第12集</title>
-    <desc>王把盲廳的所有盲眼神算都關起來審問，以查明餓鬼的真實身份。與此同時，汝里發現是八尺鬼殺死了她的外婆。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120040000 +0800" stop="20260120042500 +0800" channel="410274"><title lang="zh">晚吹 </title>
-    <desc>都市女性，每日面對社會、經濟、感情等形形色色的不公平，令怨氣愈積愈多。節目為她們提供出口，由主持陪伴解開心結，勉勵大家適時抒發情緒，To be happy girl in the happy world。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120042500 +0800" stop="20260120043000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1280集</title>
-    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120043000 +0800" stop="20260120050000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1464集</title>
-    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120050000 +0800" stop="20260120060000 +0800" channel="410274"><title lang="zh">惜花芷 第7集</title>
-    <desc>藏拙十五年，花芷原以為自己可以做一個最合格的世家千金安穩一輩子，可當花家大廈將傾，她不得不展露鋒芒出面撐起這個風雨飄搖的家，拋頭露臉是常態，打馬飛奔也常有，過不去了甚至帶著弟妹背著棺材以絕戶相逼，不好惹的名聲傳遍京城，她做好了家族一朝反目戳她刀子的心理建設，也做好了孤獨終老的準備，獨獨沒想到會有人在出征前盔甲著身向她許終身。</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120060000 +0800" stop="20260120080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120090000 +0800" stop="20260120093000 +0800" channel="410274"><title lang="zh">設計新態度 第29集 </title>
+  <programme start="20260120090000 +0800" stop="20260120093000 +0800" channel="410274"><title lang="zh">設計新態度 第29集 </title>
     <desc>今集主持訪問知名設計家Moon.noon和香氣品牌負責人，看看藝術又如何融合香氣感官，帶來不一樣的體驗。</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120093000 +0800" stop="20260120110000 +0800" channel="410274"><title lang="zh">交易時段</title>
@@ -1660,98 +1564,119 @@
   </programme><programme start="20260121060000 +0800" stop="20260121080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
     <desc />
     <date>2026-01-20</date>
+  </programme><programme start="20260121090000 +0800" stop="20260121093000 +0800" channel="410274"><title lang="zh">環保發現號 第71集 </title>
+    <desc>為植物留下標本，除了可以更方便研究人員研究物種，還對環境有什麼作用？今集主持繼續訪問相關研究人員，親身體驗一下製作植物標本的過程。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121093000 +0800" stop="20260121110000 +0800" channel="410274"><title lang="zh">交易時段</title>
+    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121113000 +0800" channel="410274"><title lang="zh">智富通 第428集</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121113000 +0800" stop="20260121120000 +0800" channel="410274"><title lang="zh">同AI開片 第12集 </title>
+    <desc>George憑《那年盛夏我們綻放如花》被網民封為最廢男主角，為一雪前恥，決定改劇情贏得Yoyo美人歸，利用AI打造最浪漫時刻，泡製「零接觸」但拳拳到肉的螢幕初吻！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121120000 +0800" stop="20260121123000 +0800" channel="410274"><title lang="zh">午間新聞</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121123000 +0800" stop="20260121125500 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1466集</title>
+    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121125500 +0800" stop="20260121130000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1281集</title>
+    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121133000 +0800" channel="410274"><title lang="zh">給香港的情書 第4集 -水墨畫家CatrabbitSky貓兔子 </title>
+    <desc>Sue是一位多才多藝的水墨畫家與書法師。畢業於玩具設計及水墨畫專業，她豐富的美術背景使她作品具獨特風格，傳統與創新兼具。多年來，她曾參展並獲得佳績，並在香港開班教授水墨畫和中國書法。Sue Yuen將會帶大家去到她在香港教授學生的地方，同時亦是貓兔子的秘密工作室。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121140000 +0800" channel="410274"><title lang="zh">730 玩返轉 第132集</title>
+    <desc>《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121150000 +0800" channel="410274"><title lang="zh">飛黃騰達 第8集 </title>
+    <desc>大會指定研究的藥物公司被一致看好，Jayden卻受父親的過去影響，不相信藥物公司的高層。Jayden堅持要挖出公司的黑材料，一意孤行得罪了組員，還挑戰了大會的底線。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121160000 +0800" channel="410274"><title lang="zh">交易時段</title>
+    <desc>緊貼市場走勢，為你提供全面訊息，分析港股焦點新聞消息。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121163000 +0800" channel="410274"><title lang="zh">芭比之魔法在身邊 第16集</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121163000 +0800" stop="20260121170000 +0800" channel="410274"><title lang="zh">百變校巴 第11集 </title>
+    <desc>講述了人工智慧的校巴卟卟與小朋友們前往火星，體驗新奇有趣的火星生活。小朋友們在火星收集蘑菇孢子，還在火星煮拉麵；他們見識到了不一樣的火星環境，如成分特殊的火星冰雪、脆弱的火星雲朵等。可是，火星自然環境過於特殊，小朋友們遇上了各種各樣的挑戰。這時，百變校巴就會立即出現，運用海量知識庫，和小朋友們共同解決問題，同時引導他們正確地認識和瞭解火星。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170000 +0800" stop="20260121173000 +0800" channel="410274"><title lang="zh">無敵鹿戰隊 第三季 第7集 </title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121173000 +0800" stop="20260121180000 +0800" channel="410274"><title lang="zh">雙線運動人生 第24集 </title>
+    <desc>黃詠琪，前香港羽毛球奧運代表隊成員，退役後創辦羽毛球會，致力培養新一代球手。最近復出參賽，積極推廣戶外羽毛球運動，用實際行動鼓勵大眾走出室內，享受陽光下的羽球樂趣，展現不滅的熱情與傳承精神。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121183000 +0800" channel="410274"><title lang="zh">6點新聞報道</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183000 +0800" stop="20260121190000 +0800" channel="410274"><title lang="zh">熨斗家族 第44集</title>
+    <desc>一部以三代人在清廉洗衣店工作的家庭黑色喜劇。講述家人之間溫暖的感情和激烈的矛盾，是一部重新回顧現代社會「家庭」所具有的意義的作品。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190000 +0800" stop="20260121193000 +0800" channel="410274"><title lang="zh">7點新聞報道</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121193000 +0800" stop="20260121200000 +0800" channel="410274"><title lang="zh">730 玩返轉 第133集</title>
+    <desc>《730玩返轉》每晚為你帶來世界各地最新、最實用的旅遊情報，更有當地特色文化體驗、旅遊優惠資訊、以及旅遊達人的獨家分享。節目更與各地旅遊 KOL合作，希望為熱愛旅遊的香港人激發旅遊靈感，一起展開下一段未知的旅程啦！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121203000 +0800" channel="410274"><title lang="zh">細事都被你看透 第27集</title>
+    <desc>「網上起人底！係彰顯正義定陷人於不義？」「關愛座冇人座，你坐咗係咪錯？」網上熱話無奇不有，而且浮現了奇異現象；事件即使雞毛蒜皮，談論總是樂此不疲，題材趣怪貼地，回應自然舖天蓋地，隨時比大新聞更轟動。全新訪談節目，將會透過不同藝人、專家及講者，從多角度分析每日最hit話題，娛樂民生，衣食住行，無所不談。話題看似事不關己，實際影響其實殺到埋身！未雨绸缪，不再食花生，捍衛立場，舌劍唇槍，一於「小題大做」！濕碎嘢，認真傾，集大成，看世情。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121203000 +0800" stop="20260121213000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 鬼宮 第14集</title>
+    <desc>汝里告訴君王，他們需要查明八尺鬼的身份，要消除它的怨恨，才能送他它離開。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121213000 +0800" stop="20260121223000 +0800" channel="410274"><title lang="zh">協商的技術 第8集</title>
+    <desc>宋主席命令洙諾拯救 WIND，這間公司原本應該上市，但由於業績不佳而未能上市。如果 WIND 不上市，山人的股價可能會跌破 10萬韓元。洙諾和他的團隊飛往日本會見 SHIMIZU。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121223000 +0800" stop="20260121230000 +0800" channel="410274"><title lang="zh">無痕旅遊模式 第13集</title>
+    <desc>旅行是消費、消遣、同時亦是「消耗」。旅遊是環境殺手之一，「報復性旅遊」真正報復的，就是我們的地球！是次節目《無痕旅遊模式》秉持一份負責任的旅行態度，強調旅行者的每個決定都要盡力減低對環境負擔，務求以對地球不留痕跡的方式出遊。將「永續旅遊」以充滿驚喜、新奇及刺激的方式實踐！透過旅行，打開與大自然對話；召喚出保衛地球之靈魂；引導眾生回歸旅遊正途，一切──由《無痕旅遊模式》開始。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121230000 +0800" stop="20260121233000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 晚吹 - 空肚講宵夜 第306集 </title>
+    <desc>每次遇上「塞」大家都一定好頭痕。出外去廁所最怕遇上「塞」，BabyJohn分享塞廁所可怕經歷。阿祖分享剝牙用甚麼塞住最止血？Hailey分享塞行李大法！想知更多記得，記得留意今集內容！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121233000 +0800" stop="20260121233500 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1282集</title>
+    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121233500 +0800" stop="20260122003000 +0800" channel="410274"><title lang="zh">最好的教師 第5集</title>
+    <desc>第二學期開始了，在學生準備迎考的同時，文化祭將在一個月後舉辦。九條突然任命瑞奈為活動負責人，瑞奈本來就沒有參加文化祭的打算，所以她對這個提議感到驚訝。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122003000 +0800" stop="20260122010000 +0800" channel="410274"><title lang="zh">阿女又戀嚟 第13集 </title>
+    <desc>今集輪到 Lily 和 Cathy 在緣分天橋上碰運氣，憑歌詞記認算是一種浪漫，究竟她們和心中所選的男仔有沒有緣份呢？一班仔仔女女出 Camp 之後，彼此的感情發展出很多插曲，Joe 因為 Lily 約了Andrew出來「攤牌」；另一邊的 Indome 和 Sunson 亦為咗 Coco 而大方聯手出擊，製造難忘回憶給她。四個組合，感情不斷升溫，究竟女女們如何面對呢？</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122010000 +0800" stop="20260122013000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1466集</title>
+    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122013000 +0800" stop="20260122023000 +0800" channel="410274"><title lang="zh">頭腦共助 第21集</title>
+    <desc>河路一不小心就會變成殺人兇手，這一點他比誰都清楚。黃東宇邀請河路和明世一起玩他設計的遊戲。如果河路和明世輸了，他們的家人將會喪命。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122023000 +0800" stop="20260122030000 +0800" channel="410274"><title lang="zh">深宵新聞</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122030000 +0800" stop="20260122040000 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 鬼宮 第14集</title>
+    <desc>汝里告訴君王，他們需要查明八尺鬼的身份，要消除它的怨恨，才能送他它離開。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122040000 +0800" stop="20260122042500 +0800" channel="410274"><title lang="zh">德國寶入伙專家呈獻: 晚吹 - 空肚講宵夜 第306集 </title>
+    <desc>每次遇上「塞」大家都一定好頭痕。出外去廁所最怕遇上「塞」，BabyJohn分享塞廁所可怕經歷。阿祖分享剝牙用甚麼塞住最止血？Hailey分享塞行李大法！想知更多記得，記得留意今集內容！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122042500 +0800" stop="20260122043000 +0800" channel="410274"><title lang="zh">3 分鐘熱度 第1282集</title>
+    <desc>娛樂資訊節目《3分鐘熱度》是ViuTV一個自家製作，集娛樂圈消息及熱話的精華式娛樂資訊節目，以明快節奏、幽默角度報道本港及海外演藝界最新動態，快而準追蹤娛樂圈消息。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122043000 +0800" stop="20260122050000 +0800" channel="410274"><title lang="zh">FWD富衛保險呈獻: CHILL CLUB 推介 第1466集</title>
+    <desc>一首歌背後嘅故事、花咗好多心機嘅MV、歌手同幕後音樂人嘅心血… 《CHILL CLUB 推介》星期一至五晚一於全部都推介俾你！</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122050000 +0800" stop="20260122060000 +0800" channel="410274"><title lang="zh">惜花芷 第9集</title>
+    <desc>藏拙十五年，花芷原以為自己可以做一個最合格的世家千金安穩一輩子，可當花家大廈將傾，她不得不展露鋒芒出面撐起這個風雨飄搖的家，拋頭露臉是常態，打馬飛奔也常有，過不去了甚至帶著弟妹背著棺材以絕戶相逼，不好惹的名聲傳遍京城，她做好了家族一朝反目戳她刀子的心理建設，也做好了孤獨終老的準備，獨獨沒想到會有人在出征前盔甲著身向她許終身。</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122060000 +0800" stop="20260122080000 +0800" channel="410274"><title lang="zh">早晨新聞</title>
+    <desc />
+    <date>2026-01-21</date>
   </programme><channel id="410273">
     <display-name lang="Hong Kong">ViuTVsix</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128104023226759_53" />
   </channel>
-  <programme start="20260119090000 +0800" stop="20260119093000 +0800" channel="410273"><title lang="zh">探索塔斯之旅 第10集</title>
-    <desc>Left Off The Map will celebrate the very best of Tasmania and shed some light on many of the untold stories, the quirky characters and exciting ideas that have never been heard across the shores of the island. Hosted by passionate Tasmanian Foodie Ben Milbourne along with truffle farmer Henry Terry and local restaurateur Bianca Welsh, the show will scour the corners of the apple isle to uncover th</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119093000 +0800" stop="20260119100000 +0800" channel="410273"><title lang="zh">扭轉味蕾 第18集</title>
-    <desc>A Nashville Hot Chicken served as a Bloody Mary? A grilled cheese sandwich dessert? French Onion Soup but it's a pretzel? Chefs around America today are coming up with amazing twists on our favorite classic dishes. A panel of charismatic celebrity chefs and culinary influencers reveal where you can find the zaniest, where in the heck did they come up with that? Delicious spins on familiar dishes.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119100000 +0800" stop="20260119110000 +0800" channel="410273"><title lang="zh">絕地生還 </title>
-    <desc>Will the heroes rise? Will the snakes take over? All will be revealed but there’s no doubt this season will see some of the biggest blindsides and moves in Australian Survivor history.Returning to the beautiful and rugged Savusavu in Fiji, these All Stars will have to fight harder than ever before to battle it out to the end. In the final Tribal Council, the Jury will make the decision on who will</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119110000 +0800" stop="20260119120000 +0800" channel="410273"><title lang="zh">空中浩劫 第3集</title>
-    <desc>Mayday: Air Disaster investigates legendary aviation disasters to find out what went wrong and why. Based on cockpit voice recorders, accident reports, and eyewitness accounts, every episode also features interviews, state-of-the-art CGI, and gripping reenactments.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119120000 +0800" stop="20260119130000 +0800" channel="410273"><title lang="zh">世一鐵路導賞團 第6集</title>
-    <desc>Narrated by Bill Nighy these are no ordinary railway journeys, these are some of the most scenic railway journeys in the world. From Scotland to Namibia, California to Italy, the series travels breathtakingly beautiful lines. Along the way we’ll stop to meet those who live and work alongside these wonderful tracks.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119130000 +0800" stop="20260119150000 +0800" channel="410273"><title lang="zh">戀戰特務王</title>
-    <desc>Tom Cruise and Cameron Diaz star in this action-packed thrill-ride that will keep you on the edge of your seat. When a small-town girl named June (Diaz) meets a mysterious stranger (Cruise), she thinks she's found the man of her dreams. But not only does she discover that he's a fugitive super-spy, she’s thrust into a scary cat-and-mouse chase that spans the globe!</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119150000 +0800" stop="20260119153000 +0800" channel="410273"><title lang="zh">Al Jazeera News Live</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119153000 +0800" stop="20260119160000 +0800" channel="410273"><title lang="zh">尋味新西蘭 第7集</title>
-    <desc>A New Zealand Food Story 2 follows Ben and his team at Ahi Restaurant, which has now been open for 18 months.  It’s been a tough time with some long Covid lockdowns, but Ahi is now one of the top award-winning restaurants located in Auckland’s Commercial Bay.  Ben’s passion for finding the best New Zealand produce has only become greater, so he sets off once again to travel the country and meet th</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119160000 +0800" stop="20260119163000 +0800" channel="410273"><title lang="zh">DW News</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119163000 +0800" stop="20260119170000 +0800" channel="410273"><title lang="zh">Wool Wool Town 第1集</title>
-    <desc>Wool Wool Town is a series with the theme of protecting environment and the visual style of children’s picture books. The story follows Finn the fox, Jo the zebra, Ella the elephant and Kevin the baby crocodile living in the Wool Wool Town, where their lives are often disturbed by Ding-Dong (rubbish from the human world). The Wool Wool Town buddies could always manage to transform these objects in</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119170000 +0800" stop="20260119171500 +0800" channel="410273"><title lang="zh">The Fixies S5 第15集</title>
-    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119171500 +0800" stop="20260119173000 +0800" channel="410273"><title lang="zh">The Fixies S5 第16集</title>
-    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119173000 +0800" stop="20260119174500 +0800" channel="410273"><title lang="zh">The Adventures of Paddington S3 第13集</title>
-    <desc>In Season 3, Paddington’s world is getting a lot bigger! He is bursting out of the confines of Windsor Gardens and going on bigger and more exciting adventures, both physically and metaphorically! The Brown Family is going on a seaside beach holiday, inviting viewers on amazing adventures through magical realism and imagination via wonderful new locations like dinosaur island, and the inside a bla</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119174500 +0800" stop="20260119180000 +0800" channel="410273"><title lang="zh">The Adventures of Paddington S3 第14集</title>
-    <desc>In Season 3, Paddington’s world is getting a lot bigger! He is bursting out of the confines of Windsor Gardens and going on bigger and more exciting adventures, both physically and metaphorically! The Brown Family is going on a seaside beach holiday, inviting viewers on amazing adventures through magical realism and imagination via wonderful new locations like dinosaur island, and the inside a bla</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119180000 +0800" stop="20260119183000 +0800" channel="410273"><title lang="zh">DW Evening News</title>
-    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119183000 +0800" stop="20260119190000 +0800" channel="410273"><title lang="zh">The Game Catchers S2 第16集</title>
-    <desc>The Game Catchers are a team of five friends on an interstellar journey to explore fantastic planets, with the aim of learning about and playing new games. The discovered games are collected into a database to make sure they are never lost.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119190000 +0800" stop="20260119191500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
-    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119191500 +0800" stop="20260119193000 +0800" channel="410273"><title lang="zh">Nefertine on the Nile 第41集</title>
-    <desc>Nefertine is an eight-year-old girl endowed with inexhaustible curiosity and great courage who lives in ancient Egypt. She aspires to be the first female scribe in the history of Egypt and notes in her papyrus-diary the exciting adventures that see her as the protagonist. Occasionally her situation gets out of hand, but luckily her trusted friend Piramses is always ready to give her a hand. The tw</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119193000 +0800" stop="20260119200000 +0800" channel="410273"><title lang="zh">Jamie Oliver: 季節料理 第13集</title>
-    <desc>Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration o</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119200000 +0800" stop="20260119204500 +0800" channel="410273"><title lang="zh">夢想家居大改造 澳洲篇 第23集</title>
-    <desc>Dream Home is set to take the renovation genre to new heights as six pairs of everyday Aussies battle it out room by room, transforming tired suburban family homes into astonishing new dream homes.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119204500 +0800" stop="20260119210000 +0800" channel="410273"><title lang="zh">荷里活娛樂快遞 第277集</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260119210000 +0800" stop="20260119220000 +0800" channel="410273"><title lang="zh">世紀大謎團 第8集 </title>
-    <desc>Five years after John F. Kennedy is killed by gunshot, his brother Robert meets the same fate. An assassin’s bullet again changes the course of history, and the latest clues in the case are riddled with inconsistencies. Who is really behind the killing of Robert Kennedy, and why?</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119220000 +0800" stop="20260119230000 +0800" channel="410273"><title lang="zh">Case File 96: The Real Bling Ring: Hollywood Heist 第1集</title>
-    <desc>The Real Bling Ring: Hollywood Heist, is a classic ‘only in Hollywood’ tale with a tantalising mix of celebrity and social media at its core that led to one of the most notorious crime stories in history.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119230000 +0800" stop="20260119231500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
-    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260119231500 +0800" stop="20260120001500 +0800" channel="410273"><title lang="zh">食得唔駛驚 第6集</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120001500 +0800" stop="20260120004500 +0800" channel="410273"><title lang="zh">扭轉味蕾 第18集</title>
-    <desc>A Nashville Hot Chicken served as a Bloody Mary? A grilled cheese sandwich dessert? French Onion Soup but it's a pretzel? Chefs around America today are coming up with amazing twists on our favorite classic dishes. A panel of charismatic celebrity chefs and culinary influencers reveal where you can find the zaniest, where in the heck did they come up with that? Delicious spins on familiar dishes.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120004500 +0800" stop="20260120014500 +0800" channel="410273"><title lang="zh">空中浩劫 第3集</title>
-    <desc>Mayday: Air Disaster investigates legendary aviation disasters to find out what went wrong and why. Based on cockpit voice recorders, accident reports, and eyewitness accounts, every episode also features interviews, state-of-the-art CGI, and gripping reenactments.</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120014500 +0800" stop="20260120021500 +0800" channel="410273"><title lang="zh">尋味新西蘭 第7集</title>
-    <desc>A New Zealand Food Story 2 follows Ben and his team at Ahi Restaurant, which has now been open for 18 months.  It’s been a tough time with some long Covid lockdowns, but Ahi is now one of the top award-winning restaurants located in Auckland’s Commercial Bay.  Ben’s passion for finding the best New Zealand produce has only become greater, so he sets off once again to travel the country and meet th</desc>
-    <date>2026-01-19</date>
-  </programme><programme start="20260120021500 +0800" stop="20260120080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
-    <desc />
-    <date>2026-01-19</date>
-  </programme><programme start="20260120090000 +0800" stop="20260120093000 +0800" channel="410273"><title lang="zh">Wool Wool Town 第1集</title>
+  <programme start="20260120090000 +0800" stop="20260120093000 +0800" channel="410273"><title lang="zh">Wool Wool Town 第1集</title>
     <desc>Wool Wool Town is a series with the theme of protecting environment and the visual style of children’s picture books. The story follows Finn the fox, Jo the zebra, Ella the elephant and Kevin the baby crocodile living in the Wool Wool Town, where their lives are often disturbed by Ding-Dong (rubbish from the human world). The Wool Wool Town buddies could always manage to transform these objects in</desc>
     <date>2026-01-20</date>
   </programme><programme start="20260120093000 +0800" stop="20260120094500 +0800" channel="410273"><title lang="zh">The Fixies S5 第15集</title>
@@ -1841,4 +1766,94 @@
   </programme><programme start="20260121021500 +0800" stop="20260121080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
     <desc />
     <date>2026-01-20</date>
+  </programme><programme start="20260121090000 +0800" stop="20260121093000 +0800" channel="410273"><title lang="zh">Wool Wool Town 第2集</title>
+    <desc>Wool Wool Town is a series with the theme of protecting environment and the visual style of children’s picture books. The story follows Finn the fox, Jo the zebra, Ella the elephant and Kevin the baby crocodile living in the Wool Wool Town, where their lives are often disturbed by Ding-Dong (rubbish from the human world). The Wool Wool Town buddies could always manage to transform these objects in</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121093000 +0800" stop="20260121094500 +0800" channel="410273"><title lang="zh">The Fixies S5 第17集</title>
+    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121094500 +0800" stop="20260121100000 +0800" channel="410273"><title lang="zh">The Fixies S5 第18集</title>
+    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121100000 +0800" stop="20260121110000 +0800" channel="410273"><title lang="zh">百萬歌詞記憶王 第7集</title>
+    <desc>Niecy Nash hosts the all new version of the popular game show, challenging contestants’ musical memory, as they get one song closer to winning $1 million if they don’t forget the lyrics.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121110000 +0800" stop="20260121120000 +0800" channel="410273"><title lang="zh">謎離檔案室 第3集 </title>
+    <desc>For thousands of years, mankind has erected countless incredible buildings, but there are a select few that appear to be more than just impressive feats of engineering. Some structures may actually be imbued with incredible powers. Do incredible structures like the Men-an-Tol Monolith or the colossal Olmec heads somehow harness mystical powers beyond our comprehension?</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121120000 +0800" stop="20260121130000 +0800" channel="410273"><title lang="zh">英格蘭超級聯賽精華 第22集 </title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260121130000 +0800" stop="20260121133000 +0800" channel="410273"><title lang="zh">NHK Newsline</title>
+    <desc>NHK NEWSLINE delivers the latest from Japan, Asia, and the rest of the world. While covering wide network of correspondents breaking news and developing stories, offering a perspective from this corner of the globe, a team of trusted anchors ties it all together to give you a picture of what's happening now, and what's ahead.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121133000 +0800" stop="20260121140000 +0800" channel="410273"><title lang="zh">James Martin西班牙驚奇之旅 第4集</title>
+    <desc>In this brand-new series, well-travelled and much-loved chef, James Martin gets underneath the skin of a country he hardly knows, but is excited to explore, Spain. He’ll discover the history and culture of the country’s diverse regions through food.It’s a road trip like no other, stopping at 20 destinations travelling anti clockwise from San Sebastian to Girona through the ever-changing landscapes</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121140000 +0800" stop="20260121150000 +0800" channel="410273"><title lang="zh">Case File 96: The Proof Is Out There S3 第19集</title>
+    <desc>Hosted by veteran TV journalist Tony Harris, the non-fiction series takes an in-depth look at some of the most incredible and thought-provoking videos of unexplained phenomena and mysterious must-see moments. Each episode explores and analyzes the full story of irregularity in question, from the latest UFO video leak from the Department of Homeland Security to a long-extinct species caught on came</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121150000 +0800" stop="20260121153000 +0800" channel="410273"><title lang="zh">Al Jazeera News Live</title>
+    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121153000 +0800" stop="20260121160000 +0800" channel="410273"><title lang="zh">Jamie Oliver: 季節料理 第14集</title>
+    <desc>Jamie takes us through the year, celebrating the gorgeous ingredients and what we can make with them as they come into season. He takes us on a delicious journey through the kitchen calendar, celebrating delicious, weird, wonderful, beautiful and wonky produce with inspiring recipes for when they’re at their best, helping us to eat well for ourselves and the planet.  This series is a celebration o</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121160000 +0800" stop="20260121163000 +0800" channel="410273"><title lang="zh">DW News</title>
+    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121163000 +0800" stop="20260121170000 +0800" channel="410273"><title lang="zh">Wool Wool Town 第3集</title>
+    <desc>Wool Wool Town is a series with the theme of protecting environment and the visual style of children’s picture books. The story follows Finn the fox, Jo the zebra, Ella the elephant and Kevin the baby crocodile living in the Wool Wool Town, where their lives are often disturbed by Ding-Dong (rubbish from the human world). The Wool Wool Town buddies could always manage to transform these objects in</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121170000 +0800" stop="20260121171500 +0800" channel="410273"><title lang="zh">The Fixies S5 第19集</title>
+    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121171500 +0800" stop="20260121173000 +0800" channel="410273"><title lang="zh">The Fixies S5 第20集</title>
+    <desc>The Fixies is a fun and exciting show about Tom Thomas and his tiny friends, Simka and Nolik. They’re part of a secret world where tiny Fixies live inside machines and gadgets, fixing them when they break. Simka and Nolik, who are part of the Fixie family, team up with Tom to fix all sorts of things around his apartment. With their cleverness and special tools, they can solve any problem! It's an </desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121173000 +0800" stop="20260121174500 +0800" channel="410273"><title lang="zh">The Adventures of Paddington S3 第17集</title>
+    <desc>In Season 3, Paddington’s world is getting a lot bigger! He is bursting out of the confines of Windsor Gardens and going on bigger and more exciting adventures, both physically and metaphorically! The Brown Family is going on a seaside beach holiday, inviting viewers on amazing adventures through magical realism and imagination via wonderful new locations like dinosaur island, and the inside a bla</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121174500 +0800" stop="20260121180000 +0800" channel="410273"><title lang="zh">The Adventures of Paddington S3 第18集</title>
+    <desc>In Season 3, Paddington’s world is getting a lot bigger! He is bursting out of the confines of Windsor Gardens and going on bigger and more exciting adventures, both physically and metaphorically! The Brown Family is going on a seaside beach holiday, inviting viewers on amazing adventures through magical realism and imagination via wonderful new locations like dinosaur island, and the inside a bla</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121180000 +0800" stop="20260121183000 +0800" channel="410273"><title lang="zh">DW Evening News</title>
+    <desc>Latest news headlines, current events, photos, and exclusive stories from eyewitnesses in Asia, Middle East, and Africa.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121183000 +0800" stop="20260121190000 +0800" channel="410273"><title lang="zh">Karate Sheep 第1集</title>
+    <desc>Trico is an enthusiastic sheep who loves to share new objects and ideas with the rest of the flock. This causes ruckus in the mountain pastures, which all inevitably end up at Wanda’s expense, a tough ewe whose job is to keep the sheep safe. Not a small feat, especially when Wolf is always lurking, waiting to make the most of this newfound chaos.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121190000 +0800" stop="20260121191500 +0800" channel="410273"><title lang="zh">ViuTV News</title>
+    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121191500 +0800" stop="20260121193000 +0800" channel="410273"><title lang="zh">Nefertine on the Nile 第43集</title>
+    <desc>Nefertine is an eight-year-old girl endowed with inexhaustible curiosity and great courage who lives in ancient Egypt. She aspires to be the first female scribe in the history of Egypt and notes in her papyrus-diary the exciting adventures that see her as the protagonist. Occasionally her situation gets out of hand, but luckily her trusted friend Piramses is always ready to give her a hand. The tw</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121193000 +0800" stop="20260121200000 +0800" channel="410273"><title lang="zh">Pamela愛心煮場 第13集</title>
+    <desc>Pamela’s Cooking with Love follows Pamela Anderson as she invites some of today’s most sought-after and buzz-worthy chefs to join her on a stunning rural property on Vancouver Island, where together they’ll prepare delicious plant-based meals to share with family and friends at dinner parties beautifully styled by Pamela.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121200000 +0800" stop="20260121211500 +0800" channel="410273"><title lang="zh">奪金之巔 </title>
+    <desc>Sixteen strangers trek through the New Zealand Alps, facing challenges for a $1 million prize. Only survivors reaching the distant peak's summit win.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121211500 +0800" stop="20260121221500 +0800" channel="410273"><title lang="zh">謎離檔案室 第4集 </title>
+    <desc>From holy constructions like Noah's Ark to objects of great mystery, like the cloth Jesus was said to be buried in, could the objects described in the Bible be real, and might they truly have a connection to God? From relics like the Ark of the Covenant and the Holy Grail, to a tower that could touch heaven, is it possible to uncover the real history of these biblical artifacts and the possible po</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121221500 +0800" stop="20260121231500 +0800" channel="410273"><title lang="zh">20/20時事雜誌 第440集 </title>
+    <desc>ABC News' acclaimed series '20/20' has distinguished itself as one of the most esteemed news programs in broadcast journalism. Amid the heated, competitive environment of primetime entertainment, '20/20' has demonstrated its ability to consistently attract a significant segment of the viewing audience by offering viewers more choices and more chances to learn about the world around them.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121231500 +0800" stop="20260121233000 +0800" channel="410273"><title lang="zh">ViuTV News</title>
+    <desc>Get up to speed on critical news and events in Hong Kong and around the rest of the world. We give our viewers insight on the stories that matter the most, ranging from business to breaking news, key events, as well as all the latest sporting action, twice daily.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260121233000 +0800" stop="20260122002000 +0800" channel="410273"><title lang="zh">食得唔駛驚 第8集</title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122002000 +0800" stop="20260122011000 +0800" channel="410273"><title lang="zh">求愛島 </title>
+    <desc />
+    <date>2026-01-21</date>
+  </programme><programme start="20260122011000 +0800" stop="20260122022000 +0800" channel="410273"><title lang="zh">完美理想安樂窩 第5集</title>
+    <desc>Angela Scanlon reveals two stunning new designs to homeowners using cutting-edge virtual reality before the winning design is chosen and built in real life.</desc>
+    <date>2026-01-21</date>
+  </programme><programme start="20260122022000 +0800" stop="20260122080000 +0800" channel="410273"><title lang="zh">ViuTVsix Station Closing Slate</title>
+    <desc />
+    <date>2026-01-21</date>
   </programme></tv>
