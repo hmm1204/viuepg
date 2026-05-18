@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260518075419"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="491609"><display-name lang="zh">CHC影迷影院</display-name><icon src="https://epg.pw/logo/491609.png" /></channel><channel id="491572"><display-name lang="zh">CHC家庭影院</display-name><icon src="https://epg.pw/logo/491572.png" /></channel><channel id="491571"><display-name lang="zh">CHC动作电影</display-name><icon src="https://epg.pw/logo/491571.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260518100000 +0800" stop="20260518110000 +0800" channel="400477"><title lang="zh">Tennis</title><desc>A documentary that traces the rise of Carlos Alcaraz and Jannik Sinner, revealing how the two young stars are redefining the sport for a new generation.</desc><date>2026-05-18</date>
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260518142115"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="495047"><display-name lang="zh">CHC影迷影院</display-name><icon src="https://epg.pw/logo/495047.png" /></channel><channel id="495050"><display-name lang="zh">CHC家庭影院</display-name><icon src="https://epg.pw/logo/495050.png" /></channel><channel id="495049"><display-name lang="zh">CHC动作电影</display-name><icon src="https://epg.pw/logo/495049.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260518100000 +0800" stop="20260518110000 +0800" channel="400477"><title lang="zh">Tennis</title><desc>A documentary that traces the rise of Carlos Alcaraz and Jannik Sinner, revealing how the two young stars are redefining the sport for a new generation.</desc><date>2026-05-18</date>
   </programme><programme start="20260518110000 +0800" stop="20260518120000 +0800" channel="400477"><title lang="zh">The Gallagher PREM</title><desc>Sale Sharks v Leicester Tigers.</desc><date>2026-05-18</date>
   </programme><programme start="20260518120000 +0800" stop="20260518130000 +0800" channel="400477"><title lang="zh">Serie A</title><desc>Udinese v Cremonese.</desc><date>2026-05-18</date>
   </programme><programme start="20260518130000 +0800" stop="20260518143000 +0800" channel="400477"><title lang="zh">The Emirates FA Cup</title><desc>Action from Chelsea v Manchester City in the final.</desc><date>2026-05-18</date>
@@ -215,6 +215,236 @@
   </programme><programme start="20260520043000 +0800" stop="20260520060000 +0800" channel="400478"><title lang="zh">AFL</title><desc>Essendon Bombers v Fremantle Dockers.</desc><date>2026-05-19</date>
   </programme><programme start="20260520060000 +0800" stop="20260520073000 +0800" channel="400478"><title lang="zh">AFL</title><desc>St Kilda Saints v Richmond Tigers.</desc><date>2026-05-19</date>
   </programme><programme start="20260520073000 +0800" stop="20260520080000 +0800" channel="400478"><title lang="zh">AFL</title><desc>West Coast Eagles v GWS Giants.</desc><date>2026-05-19</date>
+  </programme><programme start="20260518080000 +0800" stop="20260518085900 +0800" channel="495047"><title lang="zh">刑侦队</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518085900 +0800" stop="20260518102500 +0800" channel="495047"><title lang="zh">基米</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518102500 +0800" stop="20260518125000 +0800" channel="495047"><title lang="zh">信条</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518125000 +0800" stop="20260518142700 +0800" channel="495047"><title lang="zh">侠路相逢</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518142700 +0800" stop="20260518155500 +0800" channel="495047"><title lang="zh">豫菜皇后</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518155500 +0800" stop="20260518173900 +0800" channel="495047"><title lang="zh">王牌逗王牌</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518173900 +0800" stop="20260518201700 +0800" channel="495047"><title lang="zh">满江红</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518201700 +0800" stop="20260518220000 +0800" channel="495047"><title lang="zh">一生一世</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518220000 +0800" stop="20260518233500 +0800" channel="495047"><title lang="zh">碧罗雪山</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518233500 +0800" stop="20260519000000 +0800" channel="495047"><title lang="zh">消失的爱</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519000000 +0800" stop="20260519005500 +0800" channel="495047"><title lang="zh">消失的爱</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519005500 +0800" stop="20260519040000 +0800" channel="495047"><title lang="zh">威尼斯谜案</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519040000 +0800" stop="20260519041500 +0800" channel="495047"><title lang="zh">威尼斯谜案</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519041500 +0800" stop="20260519060000 +0800" channel="495047"><title lang="zh">威尼斯谜案</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519060000 +0800" stop="20260519073700 +0800" channel="495047"><title lang="zh">双鱼陨石</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519073700 +0800" stop="20260519080000 +0800" channel="495047"><title lang="zh">半个喜剧</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519080000 +0800" stop="20260519092900 +0800" channel="495047"><title lang="zh">半个喜剧</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519092900 +0800" stop="20260519112600 +0800" channel="495047"><title lang="zh">困在心绪里的儿子</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519112600 +0800" stop="20260519130900 +0800" channel="495047"><title lang="zh">医者仁心</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519130900 +0800" stop="20260519150300 +0800" channel="495047"><title lang="zh">进京城</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519150300 +0800" stop="20260519173700 +0800" channel="495047"><title lang="zh">碟中谍Ⅶ</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519173700 +0800" stop="20260519202500 +0800" channel="495047"><title lang="zh">长安三万里</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519202500 +0800" stop="20260519220000 +0800" channel="495047"><title lang="zh">旋风女队</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519220000 +0800" stop="20260519234000 +0800" channel="495047"><title lang="zh">家养精灵</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519234000 +0800" stop="20260520080000 +0800" channel="495047"><title lang="zh">志愿军-存亡之战</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260518085300 +0800" stop="20260518085500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518085500 +0800" stop="20260518103600 +0800" channel="495050"><title lang="zh">加勒比营救</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518103600 +0800" stop="20260518104000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518104000 +0800" stop="20260518120600 +0800" channel="495050"><title lang="zh">迷妹罗曼史</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518120600 +0800" stop="20260518121000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518121000 +0800" stop="20260518135900 +0800" channel="495050"><title lang="zh">妈妈的礼物</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518135900 +0800" stop="20260518140000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518140000 +0800" stop="20260518153800 +0800" channel="495050"><title lang="zh">闪光少女</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518153800 +0800" stop="20260518154000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518154000 +0800" stop="20260518174200 +0800" channel="495050"><title lang="zh">他们微笑的样子</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518174200 +0800" stop="20260518174500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518174500 +0800" stop="20260518195000 +0800" channel="495050"><title lang="zh">孤注一掷</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518195000 +0800" stop="20260518215500 +0800" channel="495050"><title lang="zh">家庭导视,破风</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518215500 +0800" stop="20260518220000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518220000 +0800" stop="20260518232900 +0800" channel="495050"><title lang="zh">守卫者</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518232900 +0800" stop="20260518233000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518233000 +0800" stop="20260519012000 +0800" channel="495050"><title lang="zh">交换人生</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519012000 +0800" stop="20260519024400 +0800" channel="495050"><title lang="zh">家庭导视,甲方乙方</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519024400 +0800" stop="20260519024500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519024500 +0800" stop="20260519041300 +0800" channel="495050"><title lang="zh">殊死一搏</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519041300 +0800" stop="20260519041500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519041500 +0800" stop="20260519054000 +0800" channel="495050"><title lang="zh">精舞门2</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519054000 +0800" stop="20260519054500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519054500 +0800" stop="20260519072400 +0800" channel="495050"><title lang="zh">夏洛特烦恼</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519072400 +0800" stop="20260519072500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519072500 +0800" stop="20260519080000 +0800" channel="495050"><title lang="zh">大&amp;amp;amp;apos;反&amp;amp;amp;apos;派</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519085900 +0800" stop="20260519090000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519090000 +0800" stop="20260519102600 +0800" channel="495050"><title lang="zh">生命中最特别的朋友</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519102600 +0800" stop="20260519103000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519103000 +0800" stop="20260519123100 +0800" channel="495050"><title lang="zh">金手指</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519123100 +0800" stop="20260519123500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519123500 +0800" stop="20260519143100 +0800" channel="495050"><title lang="zh">赎罪</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519143100 +0800" stop="20260519143500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519143500 +0800" stop="20260519160300 +0800" channel="495050"><title lang="zh">功夫熊猫</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519160300 +0800" stop="20260519160500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519160500 +0800" stop="20260519180500 +0800" channel="495050"><title lang="zh">龙马精神</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519180500 +0800" stop="20260519181000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519181000 +0800" stop="20260519200600 +0800" channel="495050"><title lang="zh">过家家</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519200600 +0800" stop="20260519201000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519201000 +0800" stop="20260519215800 +0800" channel="495050"><title lang="zh">逆鳞</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519215800 +0800" stop="20260519220000 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519220000 +0800" stop="20260519232200 +0800" channel="495050"><title lang="zh">马达加斯加</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519232200 +0800" stop="20260519232500 +0800" channel="495050"><title lang="zh">家庭导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519232500 +0800" stop="20260520080000 +0800" channel="495050"><title lang="zh">刺杀小说家2</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260518090200 +0800" stop="20260518090500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518090500 +0800" stop="20260518103100 +0800" channel="495049"><title lang="zh">李天佑血战四平</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518103100 +0800" stop="20260518103500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518103500 +0800" stop="20260518120600 +0800" channel="495049"><title lang="zh">为了胜利</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518120600 +0800" stop="20260518121000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518121000 +0800" stop="20260518141200 +0800" channel="495049"><title lang="zh">黄飞鸿-狮王争霸</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518141200 +0800" stop="20260518141500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518141500 +0800" stop="20260518153800 +0800" channel="495049"><title lang="zh">剑引恩仇</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518153800 +0800" stop="20260518154000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518154000 +0800" stop="20260518171200 +0800" channel="495049"><title lang="zh">三打三捷</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518171200 +0800" stop="20260518171500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518171500 +0800" stop="20260518184000 +0800" channel="495049"><title lang="zh">龙虎斗</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518184000 +0800" stop="20260518184500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518184500 +0800" stop="20260518202400 +0800" channel="495049"><title lang="zh">雪山飞狐之塞北宝藏</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518202400 +0800" stop="20260518203000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518203000 +0800" stop="20260518221200 +0800" channel="495049"><title lang="zh">百家拳之关门弟子</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518221200 +0800" stop="20260518221500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518221500 +0800" stop="20260518234000 +0800" channel="495049"><title lang="zh">魁拔-战神崛起</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260518234000 +0800" stop="20260519014200 +0800" channel="495049"><title lang="zh">动作导视,蛛丝马迹</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519014200 +0800" stop="20260519014500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519014500 +0800" stop="20260519032600 +0800" channel="495049"><title lang="zh">追虎擒龙</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519032600 +0800" stop="20260519033000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519033000 +0800" stop="20260519051600 +0800" channel="495049"><title lang="zh">扫黑·决战</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519051600 +0800" stop="20260519052000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519052000 +0800" stop="20260519065100 +0800" channel="495049"><title lang="zh">回溯者</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519065100 +0800" stop="20260519065500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519065500 +0800" stop="20260519080000 +0800" channel="495049"><title lang="zh">拳手肖尔加</title><desc />
+    <date>2026-05-18</date>
+  </programme><programme start="20260519081500 +0800" stop="20260519094800 +0800" channel="495049"><title lang="zh">动作导视,火线追凶之鹈鹕行动</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519094800 +0800" stop="20260519095000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519095000 +0800" stop="20260519111700 +0800" channel="495049"><title lang="zh">天下第一剑</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519111700 +0800" stop="20260519112000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519112000 +0800" stop="20260519125500 +0800" channel="495049"><title lang="zh">万水千山</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519125500 +0800" stop="20260519130000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519130000 +0800" stop="20260519145300 +0800" channel="495049"><title lang="zh">风声</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519145300 +0800" stop="20260519145500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519145500 +0800" stop="20260519164300 +0800" channel="495049"><title lang="zh">龙卷风</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519164300 +0800" stop="20260519164500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519164500 +0800" stop="20260519181000 +0800" channel="495049"><title lang="zh">许世友出拳</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519181000 +0800" stop="20260519181500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519181500 +0800" stop="20260519202500 +0800" channel="495049"><title lang="zh">红海行动</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519202500 +0800" stop="20260519203000 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519203000 +0800" stop="20260519220400 +0800" channel="495049"><title lang="zh">半步崩拳</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519220400 +0800" stop="20260519220500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519220500 +0800" stop="20260519233400 +0800" channel="495049"><title lang="zh">风云山林</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519233400 +0800" stop="20260519233500 +0800" channel="495049"><title lang="zh">动作导视</title><desc />
+    <date>2026-05-19</date>
+  </programme><programme start="20260519233500 +0800" stop="20260520080000 +0800" channel="495049"><title lang="zh">扫毒-人在天涯</title><desc />
+    <date>2026-05-19</date>
   </programme><programme start="20260518083500 +0800" stop="20260518101500 +0800" channel="410286"><title lang="zh">流氓醫生</title><desc>當醫生除需要高超的醫術, 德行及愛心也同樣重要, 本片便籍由梁朝偉所演的劉文醫生說出這個道理。表面風流不羈的劉文醫生為理想放棄大醫院工作, 反而樂於在紅燈區醫治品流複雜的人, 他不但治癒他們身體的創傷, 更救治了他們千瘡百孔的心靈。</desc><date>2026-05-18</date>
   </programme><programme start="20260518101500 +0800" stop="20260518115000 +0800" channel="410286"><title lang="zh">代客泊車</title><desc>Stanley是一個精靈開朗的青年, 因為厭倦鄉間養豬的生活, 為尋求工作理想, 離開朝夕與共的至親九叔、九嬸前往尖沙咀東部之一酒家任代客泊車之職, 且與同事阿文結成好友。阿文沉默寡言, 不滿現實, 因為資助妹妹到外國求學之經費而焦慮, 又因暗戀經常出現酒家的隔鄰酒吧之艷女郎Stella而煩惱, 顯得鬱鬱寡歡。Stanley看在心裡, 製造機會給阿文與Stella結識, 一改阿文對人生灰暗觀念, 轉為朝氣勃勃, Stanley又鼓勵同事勤奮工作, 以禮貌笑容迎客, 致使人人分得更多泊車小賬, 皆大歡喜。代客泊車行業不少害群之馬, 既盜竊客車由之貴重物品, 又換取汽車零件, 花樣百出, 各車主投訴無日無之, 而Stanley與阿文更無意中揭破楊大爺利用汽車販運偽鈔之陰謀...</desc><date>2026-05-18</date>
   </programme><programme start="20260518115000 +0800" stop="20260518140500 +0800" channel="410286"><title lang="zh">喋血街頭</title><desc>阿B(梁朝偉)、輝仔(張學友)與細榮(李子雄)三人互為朋友, 輝仔為了幫助阿B籌集婚禮宴席費用, 遭到費強一夥搶劫, 雖然最後未被強得逞, 但其頭部亦遭到重擊受傷, 婚禮後, 輝仔因為被誤會打架受傷而被其父母唾棄趕出家門, 而後阿B決定與輝仔夥同細榮一同找費強報仇, 結果誤殺費強, 犯下殺人罪行而潛逃至越南...</desc><date>2026-05-18</date>
