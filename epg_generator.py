@@ -19,6 +19,7 @@ CHANNEL_CONFIG = {
     '400480': 'TNT Sports 2 HD', 
     '400479': 'TNT Sports 3 HD',
     '400478': 'TNT Sports 4 HD',
+    '400476': 'TNT Sports 4K',
     '495047': 'CHC影迷影院',
     '495050': 'CHC家庭影院',
     '495049': 'CHC动作电影',
