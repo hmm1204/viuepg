@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260625073418"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="400476"><display-name lang="zh">TNT Sports 4K</display-name><icon src="https://epg.pw/logo/400476.png" /></channel><channel id="495047"><display-name lang="zh">CHC影迷影院</display-name><icon src="https://epg.pw/logo/495047.png" /></channel><channel id="495050"><display-name lang="zh">CHC家庭影院</display-name><icon src="https://epg.pw/logo/495050.png" /></channel><channel id="495049"><display-name lang="zh">CHC动作电影</display-name><icon src="https://epg.pw/logo/495049.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260625093000 +0800" stop="20260625100000 +0800" channel="400477"><title lang="zh">MLB Plays of the Week</title><desc>A look at the most exciting plays from the past week&amp;apos;s matches.</desc><date>2026-06-25</date>
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260625094428"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="400476"><display-name lang="zh">TNT Sports 4K</display-name><icon src="https://epg.pw/logo/400476.png" /></channel><channel id="368338"><display-name lang="zh">鳳凰衛視中文台</display-name><icon src="https://epg.pw/logo/368338.png" /></channel><channel id="368343"><display-name lang="zh">鳳凰衛視資訊台</display-name><icon src="https://epg.pw/logo/368343.png" /></channel><channel id="368372"><display-name lang="zh">鳳凰衛視香港台</display-name><icon src="https://epg.pw/logo/368372.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260625093000 +0800" stop="20260625100000 +0800" channel="400477"><title lang="zh">MLB Plays of the Week</title><desc>A look at the most exciting plays from the past week&amp;apos;s matches.</desc><date>2026-06-25</date>
   </programme><programme start="20260625100000 +0800" stop="20260625110000 +0800" channel="400477"><title lang="zh">UFC: The Ultimate Fighter</title><desc>MMA fighters train and compete against each other for a contract with the UFC, coached by Daniel Cormier and Michael Bisping.</desc><date>2026-06-25</date>
   </programme><programme start="20260625110000 +0800" stop="20260625120000 +0800" channel="400477"><title lang="zh">Rolex SailGP Championship</title><desc>Action from the sixth round of the season in Halifax, Canada.</desc><date>2026-06-25</date>
   </programme><programme start="20260625120000 +0800" stop="20260625130000 +0800" channel="400477"><title lang="zh">TNT Sports Reload</title><desc>A winter sports special.</desc><date>2026-06-25</date>
@@ -173,6 +173,722 @@
     <date>2026-06-25</date>
   </programme><programme start="20260626130000 +0800" stop="20260627080000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
     <date>2026-06-26</date>
+  </programme><programme start="20260625080000 +0800" stop="20260625085700 +0800" channel="368338"><title lang="zh">(續) 
+長隆 鳳凰早班車 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625085700 +0800" stop="20260625090000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625090000 +0800" stop="20260625093000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (24/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625093000 +0800" stop="20260625100000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625100000 +0800" stop="20260625105700 +0800" channel="368338"><title lang="zh">鳳凰正點播報 1000 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625105700 +0800" stop="20260625110000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625110000 +0800" stop="20260625113000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1168)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625113000 +0800" stop="20260625120000 +0800" channel="368338"><title lang="zh">有報天天讀 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625120000 +0800" stop="20260625125500 +0800" channel="368338"><title lang="zh">中國旅遊集團 
+愛達.花城號 
+鳳凰午間專列 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625125500 +0800" stop="20260625130000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625130000 +0800" stop="20260625133000 +0800" channel="368338"><title lang="zh">總編輯時間 (24/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625133000 +0800" stop="20260625140000 +0800" channel="368338"><title lang="zh">中國一汽 
+發現大灣區 (176)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625140000 +0800" stop="20260625143000 +0800" channel="368338"><title lang="zh">冷暖人生 (431)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625143000 +0800" stop="20260625150000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625150000 +0800" stop="20260625155700 +0800" channel="368338"><title lang="zh">鳳凰正點播報 1500 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625155700 +0800" stop="20260625160000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625160000 +0800" stop="20260625163000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+軍情觀察室 (393)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625163000 +0800" stop="20260625170000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1542)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625170000 +0800" stop="20260625171500 +0800" channel="368338"><title lang="zh">我的香港故事 (229)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625171500 +0800" stop="20260625173000 +0800" channel="368338"><title lang="zh">我的香港故事 (228)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625173000 +0800" stop="20260625180000 +0800" channel="368338"><title lang="zh">有報天天讀 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625180000 +0800" stop="20260625182700 +0800" channel="368338"><title lang="zh">鳳凰焦點新聞 1800 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625182700 +0800" stop="20260625183000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625183000 +0800" stop="20260625190000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625190000 +0800" stop="20260625193000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 
+亞洲財經透視 (1167)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625193000 +0800" stop="20260625200000 +0800" channel="368338"><title lang="zh">總編輯時間 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625200000 +0800" stop="20260625203000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625203000 +0800" stop="20260625210000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+中遠海運 
+風雲對話 (426)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625210000 +0800" stop="20260625215500 +0800" channel="368338"><title lang="zh">五粮液 
+時事直通車 
+(25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625215500 +0800" stop="20260625220000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625220000 +0800" stop="20260625223000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1169)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625223000 +0800" stop="20260625230000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625230000 +0800" stop="20260625233000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 
+亞洲財經透視 (1167)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625233000 +0800" stop="20260626000000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626000000 +0800" stop="20260626005700 +0800" channel="368338"><title lang="zh">鳳凰洲際快車 (26/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626005700 +0800" stop="20260626010000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626010000 +0800" stop="20260626013000 +0800" channel="368338"><title lang="zh">有報天天讀 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626013000 +0800" stop="20260626020000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626020000 +0800" stop="20260626023000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1542)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626023000 +0800" stop="20260626030000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 
+亞洲財經透視 (1167)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626030000 +0800" stop="20260626033000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626033000 +0800" stop="20260626040000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1169)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626040000 +0800" stop="20260626043000 +0800" channel="368338"><title lang="zh">築夢天下 (485)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626043000 +0800" stop="20260626050000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626050000 +0800" stop="20260626053000 +0800" channel="368338"><title lang="zh">有報天天讀 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626053000 +0800" stop="20260626060000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+中遠海運 
+風雲對話 (426)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626060000 +0800" stop="20260626063000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1542)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626063000 +0800" stop="20260626070000 +0800" channel="368338"><title lang="zh">總編輯時間 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626070000 +0800" stop="20260626075700 +0800" channel="368338"><title lang="zh">長隆 鳳凰早班車 (26/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626075700 +0800" stop="20260626080000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626080000 +0800" stop="20260626085700 +0800" channel="368338"><title lang="zh">(續) 
+長隆 鳳凰早班車 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626085700 +0800" stop="20260626090000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626090000 +0800" stop="20260626093000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (25/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626093000 +0800" stop="20260626100000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626100000 +0800" stop="20260626105700 +0800" channel="368338"><title lang="zh">鳳凰正點播報 1000 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626105700 +0800" stop="20260626110000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626110000 +0800" stop="20260626113000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1169)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626113000 +0800" stop="20260626120000 +0800" channel="368338"><title lang="zh">有報天天讀 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626120000 +0800" stop="20260626125500 +0800" channel="368338"><title lang="zh">中國旅遊集團 
+愛達.花城號 
+鳳凰午間專列 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626125500 +0800" stop="20260626130000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626130000 +0800" stop="20260626133000 +0800" channel="368338"><title lang="zh">總編輯時間 (25/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626133000 +0800" stop="20260626140000 +0800" channel="368338"><title lang="zh">我們和牠們 (174)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626140000 +0800" stop="20260626143000 +0800" channel="368338"><title lang="zh">築夢天下 (485)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626143000 +0800" stop="20260626150000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626150000 +0800" stop="20260626155700 +0800" channel="368338"><title lang="zh">鳳凰正點播報 1500 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626155700 +0800" stop="20260626160000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626160000 +0800" stop="20260626163000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+中遠海運 
+風雲對話 (426)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626163000 +0800" stop="20260626170000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1543)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626170000 +0800" stop="20260626173000 +0800" channel="368338"><title lang="zh">冷暖人生 (431)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626173000 +0800" stop="20260626180000 +0800" channel="368338"><title lang="zh">有報天天讀 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626180000 +0800" stop="20260626182700 +0800" channel="368338"><title lang="zh">鳳凰焦點新聞 1800 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626182700 +0800" stop="20260626183000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626183000 +0800" stop="20260626190000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626190000 +0800" stop="20260626193000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 亞洲財經透視 (1168)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626193000 +0800" stop="20260626200000 +0800" channel="368338"><title lang="zh">總編輯時間 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626200000 +0800" stop="20260626203000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626203000 +0800" stop="20260626210000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+空間觀策 (229)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626210000 +0800" stop="20260626215500 +0800" channel="368338"><title lang="zh">五粮液 
+時事直通車 
+(26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626215500 +0800" stop="20260626220000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626220000 +0800" stop="20260626223000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1170)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626223000 +0800" stop="20260626230000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626230000 +0800" stop="20260626233000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 
+亞洲財經透視 (1168)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626233000 +0800" stop="20260627000000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627000000 +0800" stop="20260627005700 +0800" channel="368338"><title lang="zh">鳳凰洲際快車 (27/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627005700 +0800" stop="20260627010000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627010000 +0800" stop="20260627013000 +0800" channel="368338"><title lang="zh">有報天天讀 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627013000 +0800" stop="20260627020000 +0800" channel="368338"><title lang="zh">濰柴動力 
+鳳凰大視野</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627020000 +0800" stop="20260627023000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1543)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627023000 +0800" stop="20260627030000 +0800" channel="368338"><title lang="zh">中國銀行(香港) 
+亞洲財經透視 (1168)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627030000 +0800" stop="20260627033000 +0800" channel="368338"><title lang="zh">以岭葯業 
+新聞今日談 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627033000 +0800" stop="20260627040000 +0800" channel="368338"><title lang="zh">華潤 鳳凰聚焦 (1170)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627040000 +0800" stop="20260627043000 +0800" channel="368338"><title lang="zh">冷暖人生 (431)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627043000 +0800" stop="20260627050000 +0800" channel="368338"><title lang="zh">中國太平 鳳凰全球連線 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627050000 +0800" stop="20260627053000 +0800" channel="368338"><title lang="zh">有報天天讀 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627053000 +0800" stop="20260627060000 +0800" channel="368338"><title lang="zh">鳳凰衝擊播: 
+空間觀策 (229)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627060000 +0800" stop="20260627063000 +0800" channel="368338"><title lang="zh">紀錄大時代 (1543)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627063000 +0800" stop="20260627070000 +0800" channel="368338"><title lang="zh">總編輯時間 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627070000 +0800" stop="20260627075500 +0800" channel="368338"><title lang="zh">長隆 鳳凰早班車 (27/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627075500 +0800" stop="20260627080000 +0800" channel="368338"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627080000 +0800" stop="20260628080000 +0800" channel="368338"><title lang="zh">(續) 
+長隆 鳳凰早班車 (27/6/26)</title><desc />
+    <date>2026-06-27</date>
+  </programme><programme start="20260625080000 +0800" stop="20260625085700 +0800" channel="368343"><title lang="zh">(續)*長隆 鳳凰早班車 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625085700 +0800" stop="20260625090000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625090000 +0800" stop="20260625092700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0900 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625092700 +0800" stop="20260625093000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625093000 +0800" stop="20260625100000 +0800" channel="368343"><title lang="zh">金石財經
+ (24/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625100000 +0800" stop="20260625105700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1000 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625105700 +0800" stop="20260625110000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625110000 +0800" stop="20260625112700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1100 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625112700 +0800" stop="20260625113000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625113000 +0800" stop="20260625120000 +0800" channel="368343"><title lang="zh">總編輯時間 (24/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625120000 +0800" stop="20260625125500 +0800" channel="368343"><title lang="zh">*中國旅遊集團 
+愛達.花城號 
+鳳凰午間專列 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625125500 +0800" stop="20260625130000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625130000 +0800" stop="20260625132700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1300 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625132700 +0800" stop="20260625133000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625133000 +0800" stop="20260625140000 +0800" channel="368343"><title lang="zh">金石財經 
+(24/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625140000 +0800" stop="20260625142700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1400 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625142700 +0800" stop="20260625143000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625143000 +0800" stop="20260625150000 +0800" channel="368343"><title lang="zh">總編輯時間 (24/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625150000 +0800" stop="20260625155700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1500 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625155700 +0800" stop="20260625160000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625160000 +0800" stop="20260625165700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1600  (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625165700 +0800" stop="20260625170000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625170000 +0800" stop="20260625172700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1700 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625172700 +0800" stop="20260625173000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625173000 +0800" stop="20260625180000 +0800" channel="368343"><title lang="zh">金石財經 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625180000 +0800" stop="20260625182700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 1800 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625182700 +0800" stop="20260625183000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625183000 +0800" stop="20260625190000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625190000 +0800" stop="20260625195700 +0800" channel="368343"><title lang="zh">*賽輪輪胎 華聞大直播  (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625195700 +0800" stop="20260625200000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625200000 +0800" stop="20260625202700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 2000 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625202700 +0800" stop="20260625203000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625203000 +0800" stop="20260625210000 +0800" channel="368343"><title lang="zh">*臨工集團 
+鳳凰財經日報 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625210000 +0800" stop="20260625215500 +0800" channel="368343"><title lang="zh">*五粮液 時事直通車 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625215500 +0800" stop="20260625220000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625220000 +0800" stop="20260625223000 +0800" channel="368343"><title lang="zh">總編輯時間 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625223000 +0800" stop="20260625230000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625230000 +0800" stop="20260625232700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 2300 (25/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625232700 +0800" stop="20260625233000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625233000 +0800" stop="20260626000000 +0800" channel="368343"><title lang="zh">總編輯時間 (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626000000 +0800" stop="20260626005700 +0800" channel="368343"><title lang="zh">鳳凰洲際快車 (26/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626005700 +0800" stop="20260626010000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626010000 +0800" stop="20260626012700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626012700 +0800" stop="20260626013000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626013000 +0800" stop="20260626020000 +0800" channel="368343"><title lang="zh">金石財經
+ (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626020000 +0800" stop="20260626022700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626022700 +0800" stop="20260626023000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626023000 +0800" stop="20260626030000 +0800" channel="368343"><title lang="zh">*臨工集團 
+鳳凰財經日報 (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626030000 +0800" stop="20260626032700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626032700 +0800" stop="20260626033000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626033000 +0800" stop="20260626040000 +0800" channel="368343"><title lang="zh">總編輯時間 (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626040000 +0800" stop="20260626042700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626042700 +0800" stop="20260626043000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626043000 +0800" stop="20260626045700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626045700 +0800" stop="20260626050000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626050000 +0800" stop="20260626052700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626052700 +0800" stop="20260626053000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626053000 +0800" stop="20260626060000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (25/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626060000 +0800" stop="20260626062700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (26/6/26)(RP)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626062700 +0800" stop="20260626063000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626063000 +0800" stop="20260626070000 +0800" channel="368343"><title lang="zh">鳳凰聚焦 (1169)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626070000 +0800" stop="20260626075700 +0800" channel="368343"><title lang="zh">*長隆 鳳凰早班車 (26/6/26)</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626075700 +0800" stop="20260626080000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626080000 +0800" stop="20260626085700 +0800" channel="368343"><title lang="zh">(續)*長隆 鳳凰早班車 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626085700 +0800" stop="20260626090000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626090000 +0800" stop="20260626092700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0900 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626092700 +0800" stop="20260626093000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626093000 +0800" stop="20260626100000 +0800" channel="368343"><title lang="zh">金石財經 
+(25/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626100000 +0800" stop="20260626105700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1000 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626105700 +0800" stop="20260626110000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626110000 +0800" stop="20260626112700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1100 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626112700 +0800" stop="20260626113000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626113000 +0800" stop="20260626120000 +0800" channel="368343"><title lang="zh">總編輯時間 (25/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626120000 +0800" stop="20260626125500 +0800" channel="368343"><title lang="zh">*中國旅遊集團 
+愛達.花城號 
+鳳凰午間專列 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626125500 +0800" stop="20260626130000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626130000 +0800" stop="20260626132700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1300 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626132700 +0800" stop="20260626133000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626133000 +0800" stop="20260626140000 +0800" channel="368343"><title lang="zh">金石財經 
+(25/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626140000 +0800" stop="20260626142700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1400 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626142700 +0800" stop="20260626143000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626143000 +0800" stop="20260626150000 +0800" channel="368343"><title lang="zh">總編輯時間 (25/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626150000 +0800" stop="20260626155700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1500 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626155700 +0800" stop="20260626160000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626160000 +0800" stop="20260626165700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1600  (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626165700 +0800" stop="20260626170000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626170000 +0800" stop="20260626172700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 1700 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626172700 +0800" stop="20260626173000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626173000 +0800" stop="20260626180000 +0800" channel="368343"><title lang="zh">金石財經 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626180000 +0800" stop="20260626182700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 1800 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626182700 +0800" stop="20260626183000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626183000 +0800" stop="20260626190000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626190000 +0800" stop="20260626195700 +0800" channel="368343"><title lang="zh">*賽輪輪胎 華聞大直播  (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626195700 +0800" stop="20260626200000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626200000 +0800" stop="20260626202700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 2000 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626202700 +0800" stop="20260626203000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626203000 +0800" stop="20260626210000 +0800" channel="368343"><title lang="zh">*臨工集團 
+鳳凰財經日報 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626210000 +0800" stop="20260626215500 +0800" channel="368343"><title lang="zh">*五粮液 時事直通車 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626215500 +0800" stop="20260626220000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626220000 +0800" stop="20260626223000 +0800" channel="368343"><title lang="zh">總編輯時間 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626223000 +0800" stop="20260626230000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626230000 +0800" stop="20260626232700 +0800" channel="368343"><title lang="zh">*陽光保險 
+鳳凰焦點新聞 2300 (26/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626232700 +0800" stop="20260626233000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626233000 +0800" stop="20260627000000 +0800" channel="368343"><title lang="zh">總編輯時間 (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627000000 +0800" stop="20260627005700 +0800" channel="368343"><title lang="zh">鳳凰洲際快車 (27/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627005700 +0800" stop="20260627010000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627010000 +0800" stop="20260627012700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627012700 +0800" stop="20260627013000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627013000 +0800" stop="20260627020000 +0800" channel="368343"><title lang="zh">金石財經
+ (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627020000 +0800" stop="20260627022700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627022700 +0800" stop="20260627023000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627023000 +0800" stop="20260627030000 +0800" channel="368343"><title lang="zh">*臨工集團 
+鳳凰財經日報 (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627030000 +0800" stop="20260627032700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627032700 +0800" stop="20260627033000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627033000 +0800" stop="20260627040000 +0800" channel="368343"><title lang="zh">總編輯時間 (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627040000 +0800" stop="20260627042700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627042700 +0800" stop="20260627043000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627043000 +0800" stop="20260627045700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627045700 +0800" stop="20260627050000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627050000 +0800" stop="20260627052700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627052700 +0800" stop="20260627053000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627053000 +0800" stop="20260627060000 +0800" channel="368343"><title lang="zh">*以岭葯業 新聞今日談 (26/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627060000 +0800" stop="20260627062700 +0800" channel="368343"><title lang="zh">鳳凰正點播報 0100 (27/6/26)(RP)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627062700 +0800" stop="20260627063000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627063000 +0800" stop="20260627070000 +0800" channel="368343"><title lang="zh">鳳凰聚焦 (1170)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627070000 +0800" stop="20260627075500 +0800" channel="368343"><title lang="zh">*長隆 鳳凰早班車 (27/6/26)</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627075500 +0800" stop="20260627080000 +0800" channel="368343"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627080000 +0800" stop="20260628080000 +0800" channel="368343"><title lang="zh">(續)*長隆 鳳凰早班車 (27/6/26)</title><desc />
+    <date>2026-06-27</date>
+  </programme><programme start="20260625080000 +0800" stop="20260625085700 +0800" channel="368372"><title lang="zh">鳳凰早班車  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625085700 +0800" stop="20260625090000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625090000 +0800" stop="20260625093000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625093000 +0800" stop="20260625100000 +0800" channel="368372"><title lang="zh">時事亮亮點  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625100000 +0800" stop="20260625103000 +0800" channel="368372"><title lang="zh">近觀中國  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625103000 +0800" stop="20260625110000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625110000 +0800" stop="20260625113000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625113000 +0800" stop="20260625120000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625120000 +0800" stop="20260625125500 +0800" channel="368372"><title lang="zh">鳳凰午間專列  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625125500 +0800" stop="20260625130000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625130000 +0800" stop="20260625135700 +0800" channel="368372"><title lang="zh">午間快綫  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625135700 +0800" stop="20260625140000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625140000 +0800" stop="20260625143000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625143000 +0800" stop="20260625150000 +0800" channel="368372"><title lang="zh">時事亮亮點  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625150000 +0800" stop="20260625153000 +0800" channel="368372"><title lang="zh">近觀中國  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625153000 +0800" stop="20260625160000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625160000 +0800" stop="20260625163000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625163000 +0800" stop="20260625170000 +0800" channel="368372"><title lang="zh">我們和牠們  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625170000 +0800" stop="20260625173000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625173000 +0800" stop="20260625180000 +0800" channel="368372"><title lang="zh">X +  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625180000 +0800" stop="20260625182700 +0800" channel="368372"><title lang="zh">鳳凰焦點新聞 1800  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625182700 +0800" stop="20260625183000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625183000 +0800" stop="20260625190000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625190000 +0800" stop="20260625195700 +0800" channel="368372"><title lang="zh">全球新聞報道  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625195700 +0800" stop="20260625200000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625200000 +0800" stop="20260625202800 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625202800 +0800" stop="20260625203000 +0800" channel="368372"><title lang="zh">中國銀行(香港) 直達大灣區  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625203000 +0800" stop="20260625210000 +0800" channel="368372"><title lang="zh">軍情觀察室  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625210000 +0800" stop="20260625215500 +0800" channel="368372"><title lang="zh">時事直通車 [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625215500 +0800" stop="20260625220000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625220000 +0800" stop="20260625223000 +0800" channel="368372"><title lang="zh">晚間專綫  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625223000 +0800" stop="20260625230000 +0800" channel="368372"><title lang="zh">鳳凰全球連線  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625230000 +0800" stop="20260625233000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260625233000 +0800" stop="20260626000000 +0800" channel="368372"><title lang="zh">中國銀行(香港) 亞洲財經透視  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626000000 +0800" stop="20260626003000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626003000 +0800" stop="20260626010000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626010000 +0800" stop="20260626013000 +0800" channel="368372"><title lang="zh">築夢天下  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626013000 +0800" stop="20260626020000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626020000 +0800" stop="20260626023000 +0800" channel="368372"><title lang="zh">鳳凰全球連線  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626023000 +0800" stop="20260626030000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626030000 +0800" stop="20260626033000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626033000 +0800" stop="20260626040000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626040000 +0800" stop="20260626043000 +0800" channel="368372"><title lang="zh">築夢天下  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626043000 +0800" stop="20260626050000 +0800" channel="368372"><title lang="zh">軍情觀察室  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626050000 +0800" stop="20260626053000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626053000 +0800" stop="20260626060000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626060000 +0800" stop="20260626063000 +0800" channel="368372"><title lang="zh">香港新視點  [粵]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626063000 +0800" stop="20260626070000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626070000 +0800" stop="20260626075700 +0800" channel="368372"><title lang="zh">鳳凰早班車  [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626075700 +0800" stop="20260626080000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-25</date>
+  </programme><programme start="20260626080000 +0800" stop="20260626085700 +0800" channel="368372"><title lang="zh">鳳凰早班車  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626085700 +0800" stop="20260626090000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626090000 +0800" stop="20260626093000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626093000 +0800" stop="20260626100000 +0800" channel="368372"><title lang="zh">築夢天下  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626100000 +0800" stop="20260626103000 +0800" channel="368372"><title lang="zh">軍情觀察室  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626103000 +0800" stop="20260626110000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626110000 +0800" stop="20260626113000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626113000 +0800" stop="20260626120000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626120000 +0800" stop="20260626125500 +0800" channel="368372"><title lang="zh">鳳凰午間專列  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626125500 +0800" stop="20260626130000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626130000 +0800" stop="20260626135700 +0800" channel="368372"><title lang="zh">午間快綫  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626135700 +0800" stop="20260626140000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626140000 +0800" stop="20260626143000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626143000 +0800" stop="20260626150000 +0800" channel="368372"><title lang="zh">築夢天下  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626150000 +0800" stop="20260626153000 +0800" channel="368372"><title lang="zh">軍情觀察室  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626153000 +0800" stop="20260626160000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626160000 +0800" stop="20260626163000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626163000 +0800" stop="20260626170000 +0800" channel="368372"><title lang="zh">X +  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626170000 +0800" stop="20260626173000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626173000 +0800" stop="20260626180000 +0800" channel="368372"><title lang="zh">香港新視點  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626180000 +0800" stop="20260626182700 +0800" channel="368372"><title lang="zh">鳳凰焦點新聞 1800  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626182700 +0800" stop="20260626183000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626183000 +0800" stop="20260626190000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626190000 +0800" stop="20260626195700 +0800" channel="368372"><title lang="zh">全球新聞報道  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626195700 +0800" stop="20260626200000 +0800" channel="368372"><title lang="zh">鳳凰氣象站  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626200000 +0800" stop="20260626202800 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626202800 +0800" stop="20260626203000 +0800" channel="368372"><title lang="zh">中國銀行(香港) 直達大灣區  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626203000 +0800" stop="20260626210000 +0800" channel="368372"><title lang="zh">空間觀策  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626210000 +0800" stop="20260626215500 +0800" channel="368372"><title lang="zh">時事直通車 [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626215500 +0800" stop="20260626220000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626220000 +0800" stop="20260626223000 +0800" channel="368372"><title lang="zh">晚間專綫  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626223000 +0800" stop="20260626230000 +0800" channel="368372"><title lang="zh">鳳凰全球連線  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626230000 +0800" stop="20260626233000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260626233000 +0800" stop="20260627000000 +0800" channel="368372"><title lang="zh">中國銀行(香港) 亞洲財經透視  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627000000 +0800" stop="20260627003000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627003000 +0800" stop="20260627010000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627010000 +0800" stop="20260627013000 +0800" channel="368372"><title lang="zh">風雲對話  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627013000 +0800" stop="20260627020000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627020000 +0800" stop="20260627023000 +0800" channel="368372"><title lang="zh">鳳凰全球連線  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627023000 +0800" stop="20260627030000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627030000 +0800" stop="20260627033000 +0800" channel="368372"><title lang="zh">華潤 鳳凰聚焦  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627033000 +0800" stop="20260627040000 +0800" channel="368372"><title lang="zh">總編輯時間  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627040000 +0800" stop="20260627043000 +0800" channel="368372"><title lang="zh">風雲對話  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627043000 +0800" stop="20260627050000 +0800" channel="368372"><title lang="zh">空間觀策  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627050000 +0800" stop="20260627053000 +0800" channel="368372"><title lang="zh">時事大破解  [粵]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627053000 +0800" stop="20260627060000 +0800" channel="368372"><title lang="zh">以岭葯業 新聞今日談  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627060000 +0800" stop="20260627063000 +0800" channel="368372"><title lang="zh">近觀中國  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627063000 +0800" stop="20260627070000 +0800" channel="368372"><title lang="zh">鳳凰大視野  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627070000 +0800" stop="20260627075500 +0800" channel="368372"><title lang="zh">鳳凰早班車  [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627075500 +0800" stop="20260627080000 +0800" channel="368372"><title lang="zh">鳳凰氣象站 [普]</title><desc />
+    <date>2026-06-26</date>
+  </programme><programme start="20260627080000 +0800" stop="20260628080000 +0800" channel="368372"><title lang="zh">鳳凰早班車  [普]</title><desc />
+    <date>2026-06-27</date>
   </programme><programme start="20260625085500 +0800" stop="20260625104500 +0800" channel="410286"><title lang="zh">南海十三郎</title><desc>南海十三郎是清末江太史的十三公子, 亦是本港二、三十年代著名的劇作家及作曲家。他的為人行徑荒誕, 一生充滿傳奇。他的行徑半瘋半癲, 到底是受了壓力或刺激所致, 抑或效阮藉避世而佯癲詐狂?眾說紛紜, 更令他的一生添上神秘色彩。</desc><date>2026-06-25</date>
   </programme><programme start="20260625104500 +0800" stop="20260625122000 +0800" channel="410286"><title lang="zh">皇家女將</title><desc>黃氏家族乃一個警察世家, 父黃二牛及五個兒女都服務於警隊, 但父黃二牛因公殉職, 剩下的子女在黃老太帶領下繼續效力皇家香港警察。大兒子黃宗保娶妻高麗娜, 亦是一名高級警務人員, 因公事上私人感情上等種種因素, 黃家女兒多不滿高, 令高受盡委屈, 但黃老太則十分喜歡高, 望高能為黃家傳宗接代。一宗雀仔街的槍戰, 令警方收到消息, 有一幫越南仔準備打劫大世界夜總會, 於是警方佈下天羅地網, 而黃氏夫婦正是此一行動的指揮官, 由於大女黃家玲一時衝動, 令整個行動不能成功, 而玲亦誤會高打報告令其停職, 姑嫂間的衝突更加尖銳...</desc><date>2026-06-25</date>
   </programme><programme start="20260625122000 +0800" stop="20260625135500 +0800" channel="410286"><title lang="zh">皇家師姐</title><desc>倫敦商業罪案調查科探員因掌握了香港某大集團的犯罪證據, 招來殺身之禍。碰巧扒手止立消與散利痛偷去探員藏有犯罪證據的護照, 並將之轉交予擅於偽造証件的脫苦海, 三人因而被捲入漩渦。女高級督察吳洛茜與來自蘇格蘭的外籍女警Carrie奉命調查此案, 惟二人因思想及工作方式不同而經常產生磨擦。集團老闆派出殺手追殺消、痛及海三人, 欲取回犯罪證據。痛與海因一時貪念, 勒索集團老闆, 但不果...</desc><date>2026-06-25</date>
