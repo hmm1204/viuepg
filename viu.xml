@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260801062013"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="400476"><display-name lang="zh">TNT Sports 4K</display-name><icon src="https://epg.pw/logo/400476.png" /></channel><channel id="410378"><display-name lang="zh">鳳凰衛視中文台</display-name><icon src="https://epg.pw/logo/410378.png" /></channel><channel id="410355"><display-name lang="zh">鳳凰衛視資訊台</display-name><icon src="https://epg.pw/logo/410355.png" /></channel><channel id="368372"><display-name lang="zh">鳳凰衛視香港台</display-name><icon src="https://epg.pw/logo/368372.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260801100000 +0800" stop="20260801110000 +0800" channel="400477"><title lang="zh">MLB Highlights</title><desc>Action from Major League Baseball.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801113000 +0800" channel="400477"><title lang="zh">MLB Plays of the Week</title><desc>A look at the most exciting plays from the past week&amp;apos;s matches.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801113000 +0800" stop="20260801120000 +0800" channel="400477"><title lang="zh">MLB Classic</title><desc>In 2004 the Boston Red Sox were on the verge of getting swept by the New York Yankees. But this self-proclaimed team of &amp;apos;idiots&amp;apos; refused to believe in the curse and made history.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801123000 +0800" channel="400477"><title lang="zh">World Rally Championship</title><desc>Action from the first day of the Rally Finland.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801123000 +0800" stop="20260801130000 +0800" channel="400477"><title lang="zh">European Rally Championship Highlights</title><desc>Action from the 2026 Rally Poland.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801140000 +0800" channel="400477"><title lang="zh">Live World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801143000 +0800" channel="400477"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801163000 +0800" channel="400477"><title lang="zh">Live World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801170000 +0800" channel="400477"><title lang="zh">TNT Sports Reload (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801183000 +0800" channel="400477"><title lang="zh">Live World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801193000 +0800" channel="400477"><title lang="zh">Men&amp;apos;s Cycling Pro Series (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801204500 +0800" channel="400477"><title lang="zh">Live World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801204500 +0800" stop="20260801210000 +0800" channel="400477"><title lang="zh">The Gruppetto (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801213000 +0800" channel="400477"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801213000 +0800" stop="20260802004500 +0800" channel="400477"><title lang="zh">Live: Tour de France Women (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802004500 +0800" stop="20260802040000 +0800" channel="400477"><title lang="zh">Live FIM Speedway Grand Prix (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802040000 +0800" stop="20260802050000 +0800" channel="400477"><title lang="zh">Men&amp;apos;s Cycling World Tour (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802050000 +0800" stop="20260802060000 +0800" channel="400477"><title lang="zh">Men&amp;apos;s Cycling Pro Series (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802061500 +0800" channel="400477"><title lang="zh">Playing for Our Future - Cycling (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802061500 +0800" stop="20260802071500 +0800" channel="400477"><title lang="zh">MLB Highlights (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802071500 +0800" stop="20260802080000 +0800" channel="400477"><title lang="zh">Live MLB (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802100000 +0800" stop="20260802103000 +0800" channel="400477"><title lang="zh">MLB Plays of the Week (?)</title><desc>).</desc><date>2026-08-02</date>
+<tv generator-info-name="EPG Generator" generator-info-url="https://github.com" date="20260802062552"><channel id="400477"><display-name lang="zh">TNT Sports 1 HD</display-name><icon src="https://epg.pw/logo/400477.png" /></channel><channel id="400480"><display-name lang="zh">TNT Sports 2 HD</display-name><icon src="https://epg.pw/logo/400480.png" /></channel><channel id="400479"><display-name lang="zh">TNT Sports 3 HD</display-name><icon src="https://epg.pw/logo/400479.png" /></channel><channel id="400478"><display-name lang="zh">TNT Sports 4 HD</display-name><icon src="https://epg.pw/logo/400478.png" /></channel><channel id="400476"><display-name lang="zh">TNT Sports 4K</display-name><icon src="https://epg.pw/logo/400476.png" /></channel><channel id="410378"><display-name lang="zh">鳳凰衛視中文台</display-name><icon src="https://epg.pw/logo/410378.png" /></channel><channel id="410355"><display-name lang="zh">鳳凰衛視資訊台</display-name><icon src="https://epg.pw/logo/410355.png" /></channel><channel id="368372"><display-name lang="zh">鳳凰衛視香港台</display-name><icon src="https://epg.pw/logo/368372.png" /></channel><channel id="410286"><display-name lang="zh">Now爆谷星影台</display-name><icon src="https://epg.pw/logo/410286.png" /></channel><channel id="410285"><display-name lang="zh">Now爆谷台</display-name><icon src="https://epg.pw/logo/410285.png" /></channel><channel id="369671"><display-name lang="zh">iQIYI HD</display-name><icon src="https://epg.pw/logo/369671.png" /></channel><channel id="1298"><display-name lang="zh">天映频道</display-name><icon src="https://epg.pw/logo/1298.png" /></channel><channel id="369730"><display-name lang="zh">天映频道(新加坡)</display-name><icon src="https://epg.pw/logo/369730.png" /></channel><channel id="368550"><display-name lang="zh">港台电视31</display-name><icon src="https://epg.pw/logo/368550.png" /></channel><channel id="368551"><display-name lang="zh">港台电视32</display-name><icon src="https://epg.pw/logo/368551.png" /></channel><channel id="410274"><display-name lang="zh">ViuTV</display-name><icon src="https://epg.pw/logo/410274.png" /></channel><channel id="410273"><display-name lang="zh">ViuTVsix</display-name><icon src="https://epg.pw/logo/410273.png" /></channel><programme start="20260802100000 +0800" stop="20260802103000 +0800" channel="400477"><title lang="zh">MLB Plays of the Week (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802103000 +0800" stop="20260802110000 +0800" channel="400477"><title lang="zh">World Rally Championship (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802110000 +0800" stop="20260802140000 +0800" channel="400477"><title lang="zh">Live AFL (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802140000 +0800" stop="20260802143000 +0800" channel="400477"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-02</date>
@@ -42,19 +21,34 @@
   </programme><programme start="20260803063000 +0800" stop="20260803070000 +0800" channel="400477"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803070000 +0800" stop="20260803071500 +0800" channel="400477"><title lang="zh">Training Day (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803071500 +0800" stop="20260803080000 +0800" channel="400477"><title lang="zh">Live MLB (?)</title><desc>).</desc><date>2026-08-02</date>
-  </programme><programme start="20260801080000 +0800" stop="20260801090000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Athletics &amp;amp;amp; Para Athletics</title><desc>Action from the 10th session on the eighth day of the Games.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801100000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights</title><desc>Action from the eighth day of the 2026 Games.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801100000 +0800" stop="20260801110000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling</title><desc>Action from the fourth session on the eighth day of the Games.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801120000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Athletics &amp;amp;amp; Para Athletics</title><desc>Action from the 10th session on the eighth day of the Games.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801130000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights</title><desc>Action from the eighth day of the 2026 Games.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801140000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801150000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Athletics &amp;amp;amp; Para Athletics (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801153000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Netball (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801153000 +0800" stop="20260802010000 +0800" channel="400480"><title lang="zh">Live: Commonwealth Games 360 (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802053000 +0800" channel="400480"><title lang="zh">Live: Commonwealth Games 360 (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802053000 +0800" stop="20260802063000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802063000 +0800" stop="20260802070000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Netball (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802070000 +0800" stop="20260802080000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Athletics &amp;amp;amp; Para Athletics (?)</title><desc>).</desc><date>2026-08-01</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803103000 +0800" channel="400477"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803103000 +0800" stop="20260803110000 +0800" channel="400477"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803120000 +0800" channel="400477"><title lang="zh">ABB FIA Formula E World Championship Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803130000 +0800" channel="400477"><title lang="zh">ABB FIA Formula E World Championship Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803150000 +0800" channel="400477"><title lang="zh">Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803153000 +0800" channel="400477"><title lang="zh">World Rally Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803153000 +0800" stop="20260803154500 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803154500 +0800" stop="20260803160000 +0800" channel="400477"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803170000 +0800" channel="400477"><title lang="zh">Test Cricket Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803171500 +0800" channel="400477"><title lang="zh">Roll the Tape (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803171500 +0800" stop="20260803173000 +0800" channel="400477"><title lang="zh">No Filter Football (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803180000 +0800" channel="400477"><title lang="zh">World Rally Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803181500 +0800" channel="400477"><title lang="zh">Live UEFA Champions League (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803181500 +0800" stop="20260803183000 +0800" channel="400477"><title lang="zh">UEFA Champions League Goals Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803190000 +0800" channel="400477"><title lang="zh">UEFA Europa League (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803191500 +0800" channel="400477"><title lang="zh">Live UEFA Europa League (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803191500 +0800" stop="20260803193000 +0800" channel="400477"><title lang="zh">UEFA Europa League Goals Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803200000 +0800" channel="400477"><title lang="zh">UEFA Conference League (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803203000 +0800" channel="400477"><title lang="zh">Live UEFA Conference League (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803213000 +0800" channel="400477"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803213000 +0800" stop="20260804004500 +0800" channel="400477"><title lang="zh">Live: Tour de France Women (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804004500 +0800" stop="20260804010000 +0800" channel="400477"><title lang="zh">Playing for Our Future - Cycling (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804043000 +0800" channel="400477"><title lang="zh">Live: Ultimate Pool (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804043000 +0800" stop="20260804050000 +0800" channel="400477"><title lang="zh">Premier League Stories (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804050000 +0800" stop="20260804060000 +0800" channel="400477"><title lang="zh">NWSL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804070000 +0800" channel="400477"><title lang="zh">NWSL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804080000 +0800" channel="400477"><title lang="zh">MLB Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="400477"><title lang="zh">Live MLB (?)</title><desc>).</desc><date>2026-08-04</date>
   </programme><programme start="20260802080000 +0800" stop="20260802090000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802090000 +0800" stop="20260802100000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Athletics &amp;amp;amp; Para Athletics (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802100000 +0800" stop="20260802110000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights (?)</title><desc>).</desc><date>2026-08-02</date>
@@ -69,21 +63,29 @@
   </programme><programme start="20260803053000 +0800" stop="20260803063000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803063000 +0800" stop="20260803073000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803073000 +0800" stop="20260803080000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-02</date>
-  </programme><programme start="20260801100000 +0800" stop="20260801110000 +0800" channel="400479"><title lang="zh">Men&amp;apos;s Cycling Pro Series</title><desc>Action from the third stage of the 2026 Tour of Denmark.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801120000 +0800" channel="400479"><title lang="zh">Tour de France Men Highlights</title><desc>A look back at the best of the action from the 2026 race.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801140000 +0800" channel="400479"><title lang="zh">Rolex SailGP Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801170000 +0800" channel="400479"><title lang="zh">Live: Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801183000 +0800" channel="400479"><title lang="zh">Live: FIS Summer Skijumping Grand Prix (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801193000 +0800" channel="400479"><title lang="zh">Rolex SailGP Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801223000 +0800" channel="400479"><title lang="zh">Live: Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801223000 +0800" stop="20260801230000 +0800" channel="400479"><title lang="zh">MLB Plays of the Week (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801230000 +0800" stop="20260802010000 +0800" channel="400479"><title lang="zh">Live UFC (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802043000 +0800" channel="400479"><title lang="zh">Live UFC (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802043000 +0800" stop="20260802050000 +0800" channel="400479"><title lang="zh">World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802050000 +0800" stop="20260802053000 +0800" channel="400479"><title lang="zh">SailGP - Racing on the Edge (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802053000 +0800" stop="20260802060000 +0800" channel="400479"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802070000 +0800" channel="400479"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802070000 +0800" stop="20260802080000 +0800" channel="400479"><title lang="zh">Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-01</date>
+  </programme><programme start="20260803083000 +0800" stop="20260803093000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Netball (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803093000 +0800" stop="20260803103000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803103000 +0800" stop="20260803113000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803113000 +0800" stop="20260803123000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Netball (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803123000 +0800" stop="20260803130000 +0800" channel="400480"><title lang="zh">A-Z: Commonwealth Games (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803140000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Daily Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803150000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Netball (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803160000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803170000 +0800" channel="400480"><title lang="zh">Commonwealth Games - Track Cycling &amp;amp;amp; Para Track Cycling (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803173000 +0800" channel="400480"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803180000 +0800" channel="400480"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803183000 +0800" channel="400480"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803190000 +0800" channel="400480"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803193000 +0800" channel="400480"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803203000 +0800" channel="400480"><title lang="zh">MLB Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803213000 +0800" channel="400480"><title lang="zh">Test Cricket Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803213000 +0800" stop="20260804060000 +0800" channel="400480"><title lang="zh">Live Test Cricket (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804061500 +0800" channel="400480"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804061500 +0800" stop="20260804063000 +0800" channel="400480"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804063000 +0800" stop="20260804064500 +0800" channel="400480"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804064500 +0800" stop="20260804070000 +0800" channel="400480"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804080000 +0800" channel="400480"><title lang="zh">World Series of Poker (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="400480"><title lang="zh">World Series of Poker (?)</title><desc>).</desc><date>2026-08-04</date>
   </programme><programme start="20260802090000 +0800" stop="20260802093000 +0800" channel="400479"><title lang="zh">World Rally Championship (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802093000 +0800" stop="20260802100000 +0800" channel="400479"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802100000 +0800" stop="20260802110000 +0800" channel="400479"><title lang="zh">LIV Golf (?)</title><desc>).</desc><date>2026-08-02</date>
@@ -98,22 +100,29 @@
   </programme><programme start="20260803061500 +0800" stop="20260803063000 +0800" channel="400479"><title lang="zh">TNT Sports Cricket Reload (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803063000 +0800" stop="20260803070000 +0800" channel="400479"><title lang="zh">TNT Sports Reload (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803070000 +0800" stop="20260803080000 +0800" channel="400479"><title lang="zh">World Series of Poker (?)</title><desc>).</desc><date>2026-08-02</date>
-  </programme><programme start="20260803080000 +0800" stop="20260804080000 +0800" channel="400479"><title lang="zh">World Series of Poker (?)</title><desc>).</desc><date>2026-08-03</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801093000 +0800" channel="400478"><title lang="zh">World Rally Championship</title><desc>Action from the first day of the Rally Finland.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801110000 +0800" channel="400478"><title lang="zh">AFL</title><desc>Fremantle Dockers v Western Bulldogs.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801130000 +0800" channel="400478"><title lang="zh">Live AFL</title><desc>St Kilda Saints v Sydney Swans (Bounce-up 4.05am). Coverage of the match from Marvel Stadium in Melbourne.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801143000 +0800" channel="400478"><title lang="zh">Live: V8 Supercars Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801163000 +0800" channel="400478"><title lang="zh">Test Cricket Highlights (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801193000 +0800" channel="400478"><title lang="zh">Live AFL (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801194500 +0800" channel="400478"><title lang="zh">British Superbikes Rewind (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801194500 +0800" stop="20260801200000 +0800" channel="400478"><title lang="zh">British Superbikes Rewind (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260802010000 +0800" channel="400478"><title lang="zh">Live: British Superbikes (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802020000 +0800" channel="400478"><title lang="zh">Live World Rally Championship (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802020000 +0800" stop="20260802023000 +0800" channel="400478"><title lang="zh">TNT Sports Reload (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802023000 +0800" stop="20260802030000 +0800" channel="400478"><title lang="zh">MLB Plays of the Week (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802030000 +0800" stop="20260802060000 +0800" channel="400478"><title lang="zh">Live MLB (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802073000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-01</date>
-  </programme><programme start="20260802073000 +0800" stop="20260802080000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-01</date>
+  </programme><programme start="20260803080000 +0800" stop="20260803090000 +0800" channel="400479"><title lang="zh">World Series of Poker (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803090000 +0800" stop="20260803110000 +0800" channel="400479"><title lang="zh">Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803120000 +0800" channel="400479"><title lang="zh">Men&amp;apos;s Cycling Pro Series (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803123000 +0800" channel="400479"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803123000 +0800" stop="20260803130000 +0800" channel="400479"><title lang="zh">British Superbikes (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803131500 +0800" channel="400479"><title lang="zh">Playing for Our Future - Cycling (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803131500 +0800" stop="20260803141500 +0800" channel="400479"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803141500 +0800" stop="20260803151500 +0800" channel="400479"><title lang="zh">Men&amp;apos;s Cycling World Tour (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803151500 +0800" stop="20260803161500 +0800" channel="400479"><title lang="zh">Men&amp;apos;s Cycling Pro Series (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803161500 +0800" stop="20260803224500 +0800" channel="400479"><title lang="zh">Live: Men&amp;apos;s Cycling World Tour (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803224500 +0800" stop="20260803230000 +0800" channel="400479"><title lang="zh">No Filter Football (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803230000 +0800" stop="20260804010000 +0800" channel="400479"><title lang="zh">Shanghai Masters Snooker (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804020000 +0800" channel="400479"><title lang="zh">British Superbikes Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804020000 +0800" stop="20260804030000 +0800" channel="400479"><title lang="zh">WRC Review (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804030000 +0800" stop="20260804033000 +0800" channel="400479"><title lang="zh">eSports Show (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804033000 +0800" stop="20260804034500 +0800" channel="400479"><title lang="zh">Playing for Our Future - Cricket (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804034500 +0800" stop="20260804040000 +0800" channel="400479"><title lang="zh">The Gruppetto (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804040000 +0800" stop="20260804050000 +0800" channel="400479"><title lang="zh">Fishing: On the Bank (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804050000 +0800" stop="20260804060000 +0800" channel="400479"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804070000 +0800" channel="400479"><title lang="zh">Men&amp;apos;s Cycling World Tour (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804073000 +0800" channel="400479"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804073000 +0800" stop="20260804080000 +0800" channel="400479"><title lang="zh">UEC Mountain Bike European Championship (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="400479"><title lang="zh">Formula E Flashback (?)</title><desc>).</desc><date>2026-08-04</date>
   </programme><programme start="20260802090000 +0800" stop="20260802103000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802103000 +0800" stop="20260802123000 +0800" channel="400478"><title lang="zh">Test Cricket Highlights (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260802123000 +0800" stop="20260802130000 +0800" channel="400478"><title lang="zh">UCI Mountain Bike World Series Review (?)</title><desc>).</desc><date>2026-08-02</date>
@@ -128,69 +137,32 @@
   </programme><programme start="20260803040000 +0800" stop="20260803061500 +0800" channel="400478"><title lang="zh">Live: NWSL (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803061500 +0800" stop="20260803071500 +0800" channel="400478"><title lang="zh">Tour de France Women (?)</title><desc>).</desc><date>2026-08-02</date>
   </programme><programme start="20260803071500 +0800" stop="20260803080000 +0800" channel="400478"><title lang="zh">UFC (?)</title><desc>).</desc><date>2026-08-02</date>
-  </programme><programme start="20260801130000 +0800" stop="20260802010000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802080000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802130000 +0800" stop="20260803080000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
+  </programme><programme start="20260803101500 +0800" stop="20260803111500 +0800" channel="400478"><title lang="zh">UFC: The Ultimate Fighter (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803111500 +0800" stop="20260803113000 +0800" channel="400478"><title lang="zh">TNT Sports Reload (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803113000 +0800" stop="20260803130000 +0800" channel="400478"><title lang="zh">Ultimate Pool (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803143000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803143000 +0800" stop="20260803160000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803173000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803190000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803203000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803220000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803233000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260803233000 +0800" stop="20260804010000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804023000 +0800" channel="400478"><title lang="zh">AFL (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804023000 +0800" stop="20260804030000 +0800" channel="400478"><title lang="zh">MLB Plays of the Week (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804030000 +0800" stop="20260804040000 +0800" channel="400478"><title lang="zh">MLB Highlights (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804040000 +0800" stop="20260804050000 +0800" channel="400478"><title lang="zh">UFC: The Ultimate Fighter (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804050000 +0800" stop="20260804053000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804053000 +0800" stop="20260804060000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804063000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804063000 +0800" stop="20260804070000 +0800" channel="400478"><title lang="zh">UFC Fight Flashback (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804080000 +0800" channel="400478"><title lang="zh">UFC (?)</title><desc>).</desc><date>2026-08-03</date>
+  </programme><programme start="20260802130000 +0800" stop="20260803010000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
     <date>2026-08-02</date>
-  </programme><programme start="20260801080000 +0800" stop="20260801085500 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801085500 +0800" stop="20260801090000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801093000 +0800" channel="410378"><title lang="zh">鳳凰全球連線 </title><desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801100000 +0800" channel="410378"><title lang="zh">鳳凰大視野</title><desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801100000 +0800" stop="20260801105700 +0800" channel="410378"><title lang="zh">鳳凰正點播報 1000 </title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801105700 +0800" stop="20260801110000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801113000 +0800" channel="410378"><title lang="zh">鳳凰聚焦 第1195集</title><desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801113000 +0800" stop="20260801120000 +0800" channel="410378"><title lang="zh">文化大觀園 第484集</title><desc>《文化大觀園》是鳳凰文化節目的標杆, 深受年輕觀眾喜愛, 是他們了解傳統文化的窗口。「雅文化俗」、「俗文化雅」, 從有形的古物到無形的文化歷史, 節目緊扣大眾議題, 以廣闊視角解讀身邊文化現象。《文化大觀園》走訪中國各地, 打造文化旅遊系列, 深挖地方景觀, 立體多元推廣中國文化, 並提供豐富人文旅行指南。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801125500 +0800" channel="410378"><title lang="zh">鳳凰午間專列 </title><desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801125500 +0800" stop="20260801130000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801133000 +0800" channel="410378"><title lang="zh">總編輯時間 </title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801133000 +0800" stop="20260801140000 +0800" channel="410378"><title lang="zh">香港新視點 第514集</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801141500 +0800" channel="410378"><title lang="zh">我的香港故事 第234集</title><desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801141500 +0800" stop="20260801143000 +0800" channel="410378"><title lang="zh">我的香港故事 第233集</title><desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801150000 +0800" channel="410378"><title lang="zh">鳳凰大視野</title><desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801155700 +0800" channel="410378"><title lang="zh">鳳凰正點播報 1500 </title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801155700 +0800" stop="20260801160000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801160000 +0800" stop="20260801163000 +0800" channel="410378"><title lang="zh">鳳凰衝擊播 第234集 </title><desc>《空間觀策》: 高精度觀測空間安全, 洞悉環球風雲變幻。穿梭多維時空, 感知地緣維度。以獨家衛星入點, 網臺聯動, 主打李煒先生獨到見解與策略。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801170000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1579集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801173000 +0800" channel="410378"><title lang="zh">近觀中國 第235集</title><desc>《近觀中國》: 是一檔觀察類紀實節目, 以中英雙語字幕呈現。外國人擔當主角, 遊歷中國各地, 體驗多元生活, 探討熱點事件, 對話不同人群, 挖掘個人故事, 展現中國在政治、經濟、科技、文化等領域發生的變化。節目引入西方視角, 創新有趣、自然真實, 為全球華人觀眾講述中國故事。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801173000 +0800" stop="20260801180000 +0800" channel="410378"><title lang="zh">築夢天下 第490集</title><desc>《築夢天下》: 尋找中外不同風格的建築、民居, 道出背後的環境因素和地理條件, 詳述生活於其間的人物, 細訴人和建築之間糾纏不清的故事。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801180000 +0800" stop="20260801182700 +0800" channel="410378"><title lang="zh">鳳凰焦點新聞 1800 </title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801182700 +0800" stop="20260801183000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801190000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801190000 +0800" stop="20260801193000 +0800" channel="410378"><title lang="zh">我們和牠們 第180集</title><desc>《我們和牠們》講述人與動物之間有趣、真攀又感人的故事。在這個「治癒系」節目中, 有各種各樣吸引人眼球的動物, 充滿真情流露的時刻, 也傳遞了人與動物自然和諧相處的價值理念, 展示了保護動物的積極態度。人們的善良、可親, 動物們的活潑、可愛, 共同構築了一個個生動又溫馨的場景。節目以紀實拍攝的手法, 從人與動物、自然和諧相處的角度, 講述跨物種的感人故事, 傳遞純潔善良的高尚情操。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801200000 +0800" channel="410378"><title lang="zh">石評天下 第167集</title><desc>《石評天下》是一檔深度政經評論性的週播專題節目。節目透過三個環節: 「石觀世界」、「齊論古今」及「平說新語」, 由資深評論員石齊平以獨特的觀點, 剖析天下政經話題, 縱橫萬里, 借古喻今, 為觀眾深入分析全球大趨勢。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260801203000 +0800" channel="410378"><title lang="zh">冷暖人生 第437集</title><desc>《冷暖人生》聚焦普通生命個體在時代浪潮中的真實境遇, 通過深度訪談與紀實拍攝, 用一個個鮮活人物, 拼貼出當代中國的“社會影像檔案”。節目涵蓋歷史記憶、社會籮遷、底層生存、人性抉擇等多元領域, 以克制、真誠的敘事, 關注困境中的生命韌性與人性光亮, 以平民視角挖掘“小草般”的生存力量, 形成獨特的人文質感。憑藉極致的人文關懷與敘事張力, 欄目屢獲國內外各項大獎, 成為華語紀實領域的標杆。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801203000 +0800" stop="20260801210000 +0800" channel="410378"><title lang="zh">X + 第5集</title><desc>《X+》是一檔全新科技創新類季播電視欄目, 作為一個窗口, 既能幫助觀眾了解最新的科學趨勢、創新技術和科技應用, 又能啟發觀眾的創造力和想像力, 探索科技如何改變我們的生活和未來, 激發觀眾對科技的興趣和熱情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801215500 +0800" channel="410378"><title lang="zh">時事直通車 </title><desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801215500 +0800" stop="20260801220000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801220000 +0800" stop="20260801230000 +0800" channel="410378"><title lang="zh">皇牌大放送</title><desc>《皇牌大放送》是鳳凰衛視中文台精心製作的週末黃金檔紀錄片節目, 題目緊隨國內外時事焦點, 以及社會歷史文化熱點。節目具備強烈即時性, 將最熱門的社會或時政話題在最令人關注的時間點爆發式呈現。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801230000 +0800" stop="20260801233000 +0800" channel="410378"><title lang="zh">石評天下 第167集</title><desc>《石評天下》是一檔深度政經評論性的週播專題節目。節目透過三個環節: 「石觀世界」、「齊論古今」及「平說新語」, 由資深評論員石齊平以獨特的觀點, 剖析天下政經話題, 縱橫萬里, 借古喻今, 為觀眾深入分析全球大趨勢。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801233000 +0800" stop="20260802000000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802000000 +0800" stop="20260802002700 +0800" channel="410378"><title lang="zh">鳳凰洲際快車 </title><desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802002700 +0800" stop="20260802003000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802003000 +0800" stop="20260802010000 +0800" channel="410378"><title lang="zh">香港新視點 第515集</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802013000 +0800" channel="410378"><title lang="zh">冷暖人生 第437集</title><desc>《冷暖人生》聚焦普通生命個體在時代浪潮中的真實境遇, 通過深度訪談與紀實拍攝, 用一個個鮮活人物, 拼貼出當代中國的“社會影像檔案”。節目涵蓋歷史記憶、社會籮遷、底層生存、人性抉擇等多元領域, 以克制、真誠的敘事, 關注困境中的生命韌性與人性光亮, 以平民視角挖掘“小草般”的生存力量, 形成獨特的人文質感。憑藉極致的人文關懷與敘事張力, 欄目屢獲國內外各項大獎, 成為華語紀實領域的標杆。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="410378"><title lang="zh">風雲對話 第431集</title><desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802020000 +0800" stop="20260802023000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1579集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802023000 +0800" stop="20260802030000 +0800" channel="410378"><title lang="zh">文化大觀園 第484集</title><desc>《文化大觀園》是鳳凰文化節目的標杆, 深受年輕觀眾喜愛, 是他們了解傳統文化的窗口。「雅文化俗」、「俗文化雅」, 從有形的古物到無形的文化歷史, 節目緊扣大眾議題, 以廣闊視角解讀身邊文化現象。《文化大觀園》走訪中國各地, 打造文化旅遊系列, 深挖地方景觀, 立體多元推廣中國文化, 並提供豐富人文旅行指南。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802030000 +0800" stop="20260802033000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802033000 +0800" stop="20260802040000 +0800" channel="410378"><title lang="zh">石評天下 第167集</title><desc>《石評天下》是一檔深度政經評論性的週播專題節目。節目透過三個環節: 「石觀世界」、「齊論古今」及「平說新語」, 由資深評論員石齊平以獨特的觀點, 剖析天下政經話題, 縱橫萬里, 借古喻今, 為觀眾深入分析全球大趨勢。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802040000 +0800" stop="20260802043000 +0800" channel="410378"><title lang="zh">我們和牠們 第159集</title><desc>《我們和牠們》講述人與動物之間有趣、真攀又感人的故事。在這個「治癒系」節目中, 有各種各樣吸引人眼球的動物, 充滿真情流露的時刻, 也傳遞了人與動物自然和諧相處的價值理念, 展示了保護動物的積極態度。人們的善良、可親, 動物們的活潑、可愛, 共同構築了一個個生動又溫馨的場景。節目以紀實拍攝的手法, 從人與動物、自然和諧相處的角度, 講述跨物種的感人故事, 傳遞純潔善良的高尚情操。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802043000 +0800" stop="20260802050000 +0800" channel="410378"><title lang="zh">X + 第5集</title><desc>《X+》是一檔全新科技創新類季播電視欄目, 作為一個窗口, 既能幫助觀眾了解最新的科學趨勢、創新技術和科技應用, 又能啟發觀眾的創造力和想像力, 探索科技如何改變我們的生活和未來, 激發觀眾對科技的興趣和熱情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802050000 +0800" stop="20260802060000 +0800" channel="410378"><title lang="zh">皇牌大放送</title><desc>《皇牌大放送》是鳳凰衛視中文台精心製作的週末黃金檔紀錄片節目, 題目緊隨國內外時事焦點, 以及社會歷史文化熱點。節目具備強烈即時性, 將最熱門的社會或時政話題在最令人關注的時間點爆發式呈現。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802063000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1579集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802063000 +0800" stop="20260802070000 +0800" channel="410378"><title lang="zh">築夢天下 第490集</title><desc>《築夢天下》: 尋找中外不同風格的建築、民居, 道出背後的環境因素和地理條件, 詳述生活於其間的人物, 細訴人和建築之間糾纏不清的故事。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802070000 +0800" stop="20260802075500 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802075500 +0800" stop="20260802080000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
+  </programme><programme start="20260803010000 +0800" stop="20260803080000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
+    <date>2026-08-02</date>
+  </programme><programme start="20260803130000 +0800" stop="20260804080000 +0800" channel="400476"><title lang="zh">This Is TNT Sports Ultimate</title><desc />
+    <date>2026-08-03</date>
   </programme><programme start="20260802080000 +0800" stop="20260802085500 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-02</date>
   </programme><programme start="20260802085500 +0800" stop="20260802090000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
     <date>2026-08-02</date>
@@ -245,97 +217,62 @@
   </programme><programme start="20260803070000 +0800" stop="20260803075700 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-02</date>
   </programme><programme start="20260803075700 +0800" stop="20260803080000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
     <date>2026-08-02</date>
-  </programme><programme start="20260803080000 +0800" stop="20260804080000 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
-  </programme><programme start="20260801080000 +0800" stop="20260801085500 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801085500 +0800" stop="20260801090000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801092700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0900</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801092700 +0800" stop="20260801093000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801100000 +0800" channel="410355"><title lang="zh">金石財經</title><desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801100000 +0800" stop="20260801105700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1000</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801105700 +0800" stop="20260801110000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801112700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801112700 +0800" stop="20260801113000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801113000 +0800" stop="20260801120000 +0800" channel="410355"><title lang="zh">總編輯時間</title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801125500 +0800" channel="410355"><title lang="zh">鳳凰午間專列</title><desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801125500 +0800" stop="20260801130000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801132700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1300</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801132700 +0800" stop="20260801133000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801133000 +0800" stop="20260801140000 +0800" channel="410355"><title lang="zh">風雲對話</title><desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801142700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1400</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801142700 +0800" stop="20260801143000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801150000 +0800" channel="410355"><title lang="zh">總編輯時間</title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801155700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1500</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801155700 +0800" stop="20260801160000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801160000 +0800" stop="20260801162700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1600</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801162700 +0800" stop="20260801163000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801170000 +0800" channel="410355"><title lang="zh">香港新視點</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801174500 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1700</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801174500 +0800" stop="20260801180000 +0800" channel="410355"><title lang="zh">我的香港故事</title><desc>《我的香港故事》: 人物記錄專題欄目。通過每集大約15分鐘的精致篇幅, 講述香港人的故事與發生的事。為全國華人觀眾, 了解香港新的視覺。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801180000 +0800" stop="20260801182700 +0800" channel="410355"><title lang="zh">鳳凰焦點新聞 1800</title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801182700 +0800" stop="20260801183000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801190000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801190000 +0800" stop="20260801191300 +0800" channel="410355"><title lang="zh">華聞大直播</title><desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801191300 +0800" stop="20260801191500 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801191500 +0800" stop="20260801200000 +0800" channel="410355"><title lang="zh">中國深度財經</title><desc>《中國深度財經》: 節目以上海為據點, 全面、深入探討中國內地經濟發展狀況, 從而讓世界更準確地了解中國、了解上海。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260801202700 +0800" channel="410355"><title lang="zh">鳳凰焦點新聞 2000</title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801202700 +0800" stop="20260801203000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801203000 +0800" stop="20260801210000 +0800" channel="410355"><title lang="zh">問答神州</title><desc>《問答神州》: 致力採訪兩岸四地的關鍵人物, 與政壇精英進行高端對話。觀眾將可第一時間掌握中國的最新變化和發展, 將眼光投向快速增長的中國經濟、改革轉型中的大時代。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801215500 +0800" channel="410355"><title lang="zh">時事直通車</title><desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801215500 +0800" stop="20260801220000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801220000 +0800" stop="20260801222700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 2200</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801222700 +0800" stop="20260801223000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801223000 +0800" stop="20260801230000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801230000 +0800" stop="20260801232700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 2300</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801232700 +0800" stop="20260801233000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801233000 +0800" stop="20260802000000 +0800" channel="410355"><title lang="zh">香港新視點</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802000000 +0800" stop="20260802002700 +0800" channel="410355"><title lang="zh">鳳凰洲際快車</title><desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802002700 +0800" stop="20260802003000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802003000 +0800" stop="20260802010000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802012700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802012700 +0800" stop="20260802013000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802013000 +0800" stop="20260802015700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802015700 +0800" stop="20260802020000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802020000 +0800" stop="20260802022700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802022700 +0800" stop="20260802023000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802023000 +0800" stop="20260802030000 +0800" channel="410355"><title lang="zh">問答神州</title><desc>《問答神州》: 致力採訪兩岸四地的關鍵人物, 與政壇精英進行高端對話。觀眾將可第一時間掌握中國的最新變化和發展, 將眼光投向快速增長的中國經濟、改革轉型中的大時代。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802030000 +0800" stop="20260802032700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802032700 +0800" stop="20260802033000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802033000 +0800" stop="20260802040000 +0800" channel="410355"><title lang="zh">風雲對話</title><desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802040000 +0800" stop="20260802042700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802042700 +0800" stop="20260802043000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802043000 +0800" stop="20260802050000 +0800" channel="410355"><title lang="zh">香港新視點</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802050000 +0800" stop="20260802052700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802052700 +0800" stop="20260802053000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802053000 +0800" stop="20260802060000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802062700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802062700 +0800" stop="20260802063000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802063000 +0800" stop="20260802070000 +0800" channel="410355"><title lang="zh">風雲對話</title><desc>《風雲對話》是一個高素質的訪談節目, 節目採訪全球“最關鍵、最前線、最敏感”權傾一時的掌權者, 他們影響並決定著整個國際局勢的變化和發展。一個個世界級人物在節目中, 親自向您剖析他們的觀點。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802070000 +0800" stop="20260802075500 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802075500 +0800" stop="20260802080000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
-    <date>2026-08-01</date>
+  </programme><programme start="20260803080000 +0800" stop="20260803085700 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803085700 +0800" stop="20260803090000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803090000 +0800" stop="20260803100000 +0800" channel="410378"><title lang="zh">皇牌大放送</title><desc>《皇牌大放送》是鳳凰衛視中文台精心製作的週末黃金檔紀錄片節目, 題目緊隨國內外時事焦點, 以及社會歷史文化熱點。節目具備強烈即時性, 將最熱門的社會或時政話題在最令人關注的時間點爆發式呈現。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803105700 +0800" channel="410378"><title lang="zh">鳳凰正點播報 1000 </title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803105700 +0800" stop="20260803110000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803113000 +0800" channel="410378"><title lang="zh">築夢天下 第491集</title><desc>《築夢天下》: 尋找中外不同風格的建築、民居, 道出背後的環境因素和地理條件, 詳述生活於其間的人物, 細訴人和建築之間糾纏不清的故事。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803113000 +0800" stop="20260803120000 +0800" channel="410378"><title lang="zh">有報天天讀 </title><desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803125500 +0800" channel="410378"><title lang="zh">鳳凰午間專列 </title><desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803125500 +0800" stop="20260803130000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803133000 +0800" channel="410378"><title lang="zh">我們和牠們 第180集</title><desc>《我們和牠們》講述人與動物之間有趣、真攀又感人的故事。在這個「治癒系」節目中, 有各種各樣吸引人眼球的動物, 充滿真情流露的時刻, 也傳遞了人與動物自然和諧相處的價值理念, 展示了保護動物的積極態度。人們的善良、可親, 動物們的活潑、可愛, 共同構築了一個個生動又溫馨的場景。節目以紀實拍攝的手法, 從人與動物、自然和諧相處的角度, 講述跨物種的感人故事, 傳遞純潔善良的高尚情操。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803133000 +0800" stop="20260803143000 +0800" channel="410378"><title lang="zh">鳳凰大健康 第397集</title><desc>《鳳凰大健康》是全媒體健康科普節目, 精準鎖定25-65歲商業領袖、中產白領與高知人群為核心受眾。節目以熱點健康話題為切入點, 深度融合傳統中醫智慧與前沿西醫成果, 匯聚院士領銜的頂級專家團隊, 依托 XR 虛擬場景與 AI 智能圖形技術, 打造虛實交織的沉浸式視聽體驗。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803143000 +0800" stop="20260803150000 +0800" channel="410378"><title lang="zh">發現大灣區 第182集</title><desc>《發現大灣區》: 現今越來越多目光聚焦粵港澳大灣區, 尋找發展機遇與空間。《發現大灣區》以鳳凰記者親身走訪大灣區9+2城市的形式, 運用雜誌式專題片手法, 深度報道灣區內的地標、人物及熱點, 引領觀眾全方位地體驗、感受大灣區的繁榮與創新, 機遇與煙火氣, 一同發現灣區內那些鮮為人知的成功故事。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803155700 +0800" channel="410378"><title lang="zh">鳳凰正點播報 1500 </title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803155700 +0800" stop="20260803160000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803163000 +0800" channel="410378"><title lang="zh">近觀中國 第236集</title><desc>《近觀中國》: 是一檔觀察類紀實節目, 以中英雙語字幕呈現。外國人擔當主角, 遊歷中國各地, 體驗多元生活, 探討熱點事件, 對話不同人群, 挖掘個人故事, 展現中國在政治、經濟、科技、文化等領域發生的變化。節目引入西方視角, 創新有趣、自然真實, 為全球華人觀眾講述中國故事。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803163000 +0800" stop="20260803170000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1581集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803173000 +0800" channel="410378"><title lang="zh">空間觀策 第234集</title><desc>《空間觀策》: 高精度觀測空間安全, 洞悉環球風雲變幻。穿梭多維時空, 感知地緣維度。以獨家衛星入點, 網臺聯動, 主打李煒先生獨到見解與策略。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803180000 +0800" channel="410378"><title lang="zh">有報天天讀 </title><desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803182700 +0800" channel="410378"><title lang="zh">鳳凰焦點新聞 1800 </title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803182700 +0800" stop="20260803183000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803190000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803193000 +0800" channel="410378"><title lang="zh">亞洲財經透視 第1194集</title><desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803200000 +0800" channel="410378"><title lang="zh">總編輯時間 </title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803203000 +0800" channel="410378"><title lang="zh">鳳凰大視野</title><desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803210000 +0800" channel="410378"><title lang="zh">鳳凰衝擊播 第1013集 </title><desc>《問答神州》: 致力採訪兩岸四地的關鍵人物, 與政壇精英進行高端對話。觀眾將可第一時間掌握中國的最新變化和發展, 將眼光投向快速增長的中國經濟、改革轉型中的大時代。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803215500 +0800" channel="410378"><title lang="zh">時事直通車 </title><desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803215500 +0800" stop="20260803220000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803223000 +0800" channel="410378"><title lang="zh">鳳凰聚焦 第1196集</title><desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803223000 +0800" stop="20260803230000 +0800" channel="410378"><title lang="zh">鳳凰全球連線 </title><desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803230000 +0800" stop="20260803233000 +0800" channel="410378"><title lang="zh">亞洲財經透視 第1194集</title><desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803233000 +0800" stop="20260804000000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804000000 +0800" stop="20260804005700 +0800" channel="410378"><title lang="zh">鳳凰洲際快車 </title><desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804005700 +0800" stop="20260804010000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804013000 +0800" channel="410378"><title lang="zh">有報天天讀 </title><desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804013000 +0800" stop="20260804020000 +0800" channel="410378"><title lang="zh">鳳凰大視野</title><desc>《鳳凰大視野》: 鳳凰衛視力求創新, 不為人後, 推出鳳凰大視野一系列主題性紀錄片節目, 每周連續播出某一專題, 或是社會焦點、或是歷史紀念日、或特別行動、獨家內幕透析時代局勢, 一氣呵成五集持續播出。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804020000 +0800" stop="20260804023000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1581集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804023000 +0800" stop="20260804030000 +0800" channel="410378"><title lang="zh">亞洲財經透視 第1194集</title><desc>《亞洲財經透視》: 立足於香港國際中心, 關註每日資本市場動態, 聚焦區內熱門政經事件。匯總境內外媒體多元財經觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804030000 +0800" stop="20260804033000 +0800" channel="410378"><title lang="zh">新聞今日談 </title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804033000 +0800" stop="20260804040000 +0800" channel="410378"><title lang="zh">鳳凰聚焦 第1196集</title><desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804040000 +0800" stop="20260804043000 +0800" channel="410378"><title lang="zh">空間觀策 第234集</title><desc>《空間觀策》: 高精度觀測空間安全, 洞悉環球風雲變幻。穿梭多維時空, 感知地緣維度。以獨家衛星入點, 網臺聯動, 主打李煒先生獨到見解與策略。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804043000 +0800" stop="20260804050000 +0800" channel="410378"><title lang="zh">鳳凰全球連線 </title><desc>《鳳凰全球連線》為你帶來世界各地的熱點新聞, 並深入探討事件始末因由, 分析事情的重要性。主持人會於直播時段, 通過衛星、電話與全球各地的鳳凰衛視記者、特約記者、評論員連線, 向你匯報當天要聞。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804050000 +0800" stop="20260804053000 +0800" channel="410378"><title lang="zh">有報天天讀 </title><desc>《有報天天讀》搜羅全球主流的媒體和重要報紙、雜誌的最新資訊和精華焦點, 內容充實, 資訊豐富, 節奏明快, 充滿動感和創意, 是個既有個性, 也有獨到見解的節目。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804053000 +0800" stop="20260804060000 +0800" channel="410378"><title lang="zh">鳳凰衝擊播 第1013集 </title><desc>《問答神州》: 致力採訪兩岸四地的關鍵人物, 與政壇精英進行高端對話。觀眾將可第一時間掌握中國的最新變化和發展, 將眼光投向快速增長的中國經濟、改革轉型中的大時代。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804063000 +0800" channel="410378"><title lang="zh">紀錄大時代 第1581集</title><desc>《紀錄．大時代》: 紀錄珍貴片段, 重溫精彩大時代, 《紀錄．大時代》為您精選鳳凰優秀紀錄片, 把歷史再次真實地呈現眼前。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804063000 +0800" stop="20260804070000 +0800" channel="410378"><title lang="zh">總編輯時間 </title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804075700 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804075700 +0800" stop="20260804080000 +0800" channel="410378"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="410378"><title lang="zh">鳳凰早班車 </title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-04</date>
   </programme><programme start="20260802080000 +0800" stop="20260802085500 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-02</date>
   </programme><programme start="20260802085500 +0800" stop="20260802090000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
     <date>2026-08-02</date>
@@ -422,22 +359,94 @@
   </programme><programme start="20260803070000 +0800" stop="20260803075700 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-02</date>
   </programme><programme start="20260803075700 +0800" stop="20260803080000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
     <date>2026-08-02</date>
-  </programme><programme start="20260803080000 +0800" stop="20260804080000 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801110000 +0800" channel="410286"><title lang="zh">為你鍾情</title><desc>的士高唱片騎師陳福水, 自命風流, 與任職車房的好友沙皮及表弟海膽, 組成「求愛敢死隊」。某日, 在巴士上陳福水遇見海膽的鄰居阿珠的好同學余麗珍, 驚為天人, 便展開熱烈追求, 最後衝破種種阻障, 獲得珍的垂青。但得芳心後, 福水便故態復萌, 將珍置諸腦後...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801124000 +0800" channel="410286"><title lang="zh">冷面狙擊手</title><desc>James與John着手調查一宗商業案件, 對象是富商李紹邦。James的女友Suki, 正為李的公司工作。John偶然間偷聽到李與手下談及股票內幕消息, John決定將全部儲蓄買下股票, 但李的會計師突然被殺；James亦被伏擊, 雖逃脫但已被燒得不似人形。多人遭遇身亡, 案件在重大壓力下唯有終結。John所買的股票大跌, 變得一無所有。六個月後, James回復體力, 但容貌已毀；Suki此時位於高位, 李變得阻手阻腳...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801124000 +0800" stop="20260801125500 +0800" channel="410286"><title lang="zh">影人映語 </title><desc>喜劇女皇「三姑」吳君如的演員人生橫跨了不同年代, 而她也見證著香港電影業的大起大落。回憶當年的黃金年代, 三姑笑說當年拍喜劇更單純直接, 更揭秘《家有囍事》班底在鏡頭後的搞笑競爭。再憶起步入千禧年代的香港, 她坦言那時是電影業的衰落時期, 卻因此激發了更多新穎的創意, 也拍了讓自己印象深刻的作品。三姑可以說是為了香港電影奉獻了青春, 那獲獎無數的她, 有沒有因為選擇了演員生涯而感到遺憾或可惜呢?</desc><date>2026-08-01</date>
-  </programme><programme start="20260801125500 +0800" stop="20260801143000 +0800" channel="410286"><title lang="zh">屍家重地</title><desc>本故事開始在香港離島, 一條偏僻漁村一年一度的祭祖典禮上。該村村民並沒有任何生產, 但各人卻過着富裕的生活, 引起該村多事的警長懷疑, 元懷疑該村財富是販毒得來, 遂與兩名手下等追查。而跟隨一劇團來到該村做大戲的花旦在一名臨死男子手中得到一張藏寶圖, 兩人找來在團中當教師的, 三人展開一幕幕驚險的尋寶旅途。元與手下三人見吳等三人行蹤有異, 遂展開跟蹤, 結果被他們發現該村一個不為外人所知的秘密...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801160500 +0800" channel="410286"><title lang="zh">追鬼七雄</title><desc>大財主苗老爺托一隊販運鴉片的冒牌趕屍隊把一具不明男屍帶走, 其後趕屍隊隊員阿英與其他隊員誤墮硫磺池被救, 排長不欲阻礙行程, 決定把男屍棄於硫磺池, 卻令他化成怪屍。後來有隊員不明被殺, 發現乃怪屍作為, 隊員更逐一遇害, 當中必有冤情。苗老爺隱瞞該怪屍是死於其手, 怪屍亦狂性大發, 誓把苗老爺及生還隊員全部殺死...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801160500 +0800" stop="20260801174500 +0800" channel="410286"><title lang="zh">皇家師姐</title><desc>倫敦商業罪案調查科探員因掌握了香港某大集團的犯罪證據, 招來殺身之禍。碰巧扒手止立消與散利痛偷去探員藏有犯罪證據的護照, 並將之轉交予擅於偽造証件的脫苦海, 三人因而被捲入漩渦。女高級督察吳洛茜與來自蘇格蘭的外籍女警Carrie奉命調查此案, 惟二人因思想及工作方式不同而經常產生磨擦。集團老闆派出殺手追殺消、痛及海三人, 欲取回犯罪證據。痛與海因一時貪念, 勒索集團老闆, 但不果...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801174500 +0800" stop="20260801192000 +0800" channel="410286"><title lang="zh">大內密探零零發</title><desc>零零發是大內密探「恭、喜、發、財」四大猛將之一, 但礙於不懂武功, 始終不被重用。後來, 金國策劃侵佔中原, 發悉破奸計, 並拯救皇上於危難, 自此陛官進爵；此時, 發被名妓琴所引誘, 兩人關係不但激怒發妻, 還惹來皇上責罪。原來, 這是一個佈局......</desc><date>2026-08-01</date>
-  </programme><programme start="20260801192000 +0800" stop="20260801210000 +0800" channel="410286"><title lang="zh">星影週末笑聲匯: 情人知己</title><desc>大志在電玩店中工作, 胸無大志的他只希望日子得過且過, 身無長技唯獨打電玩厲害的他, 也只能在比他年幼的多的孩子們之中耍耍威風。阿美是大志的女友, 雖然大志對待兩人之間的感情一直敷敷衍衍, 但忠貞賢惠的阿美依舊溫柔的包容著他的任性。某日, 阿美在無意之中得知了大志在外沾花惹草的“光榮事蹟”, 心痛的她再也無法忍耐, 決心徹底離開他。與此同時, 大志在偶然中勾搭上了黑幫大佬的女人, 因此而引來了殺身之禍。接踵而至的危險和麻煩讓大志開始明白, 究竟什麼才是生命中值得珍惜的東西, 然而, 他還有機會再次挽回阿美早已經破碎的心嗎?</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801224000 +0800" channel="410286"><title lang="zh">時光倒流1994: 殺手的童話</title><desc>高守外號法官, 是ICE殺手集團中一級殺手, 二人關係微妙, ICE一直心儀高守, 欲收為裙下之臣, 可是高守每次均以殺手不能有真感情為由來拒絕, 令ICE又愛又恨。高守自知殺手生涯是不能有絲毫感情牽掛, 以免害己害人, 故一直過著外表玩世不恭而內心孤獨無奈的生活, 也許是天意弄人, 在巧遇下碰上初出道殺手如楓, 在她完成暗殺任務時, 脅持高守送她一程, 高守霎時間被如楓之清新爽朗外型及佻脫不羈的性格所吸引, 不自覺地流露出一絲好感。辣手神探董輝奉命嚴密保護一污點証人, 直至犯罪集團首腦被判刑為止, 可惜中途被高守施計而把污點証人殺掉, 頓時間董輝義憤填胸, 雖則被殺者是惡貫滿盈之輩, 但殺手亦不能視法紀如無物, 遂展開天網行動, 誓要緝捕高守歸案, 以正法紀。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801224000 +0800" stop="20260802003500 +0800" channel="410286"><title lang="zh">特務迷城</title><desc>健身器店營業員小北從小習武, 並且有奇異預感能力, 夢想一天成為特務。一日得悉父親原來在韓國, 在好奇心下到韓尋找父親, 可惜他來到韓國後眼見父親奄奄一息, 臨死留下一筆鉅款給兒子, 鉅款藏在土耳其一處秘密地方。獲得女記者嘉文協助下, 小北遠赴土耳其...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802003500 +0800" stop="20260802021500 +0800" channel="410286"><title lang="zh">鎗王</title><desc>Rick熱衷於射擊和鎗械, 視重案組的苗為對手。在一次比賽中, Rick一嘗殺人的快感。三年後, 他成為一手段利落的冷血殺手, 與苗再續三年前未分勝負的生死戰。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802021500 +0800" stop="20260802035000 +0800" channel="410286"><title lang="zh">屍家重地</title><desc>本故事開始在香港離島, 一條偏僻漁村一年一度的祭祖典禮上。該村村民並沒有任何生產, 但各人卻過着富裕的生活, 引起該村多事的警長懷疑, 元懷疑該村財富是販毒得來, 遂與兩名手下等追查。而跟隨一劇團來到該村做大戲的花旦在一名臨死男子手中得到一張藏寶圖, 兩人找來在團中當教師的, 三人展開一幕幕驚險的尋寶旅途。元與手下三人見吳等三人行蹤有異, 遂展開跟蹤, 結果被他們發現該村一個不為外人所知的秘密...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802035000 +0800" stop="20260802052500 +0800" channel="410286"><title lang="zh">冷面狙擊手</title><desc>James與John着手調查一宗商業案件, 對象是富商李紹邦。James的女友Suki, 正為李的公司工作。John偶然間偷聽到李與手下談及股票內幕消息, John決定將全部儲蓄買下股票, 但李的會計師突然被殺；James亦被伏擊, 雖逃脫但已被燒得不似人形。多人遭遇身亡, 案件在重大壓力下唯有終結。John所買的股票大跌, 變得一無所有。六個月後, James回復體力, 但容貌已毀；Suki此時位於高位, 李變得阻手阻腳...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802052500 +0800" stop="20260802071500 +0800" channel="410286"><title lang="zh">A 計劃續集</title><desc>馬如龍因搗破海盜巢穴有功, 被委派治理港島治安, 因而與三區總幫辦鎮三環結怨, 遭陷害入獄。鎮其實是清廷鷹犬, 對付白影紅, 瑩瑩, 珊珊等革命黨。龍被逼逃獄, 阻止革命黨非法暗殺鎮, 堅持以法懲奸...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802071500 +0800" stop="20260802080000 +0800" channel="410286"><title lang="zh">追鬼七雄</title><desc>大財主苗老爺托一隊販運鴉片的冒牌趕屍隊把一具不明男屍帶走, 其後趕屍隊隊員阿英與其他隊員誤墮硫磺池被救, 排長不欲阻礙行程, 決定把男屍棄於硫磺池, 卻令他化成怪屍。後來有隊員不明被殺, 發現乃怪屍作為, 隊員更逐一遇害, 當中必有冤情。苗老爺隱瞞該怪屍是死於其手, 怪屍亦狂性大發, 誓把苗老爺及生還隊員全部殺死...</desc><date>2026-08-01</date>
+  </programme><programme start="20260803080000 +0800" stop="20260803085700 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803085700 +0800" stop="20260803090000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803090000 +0800" stop="20260803091500 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0900</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803091500 +0800" stop="20260803100000 +0800" channel="410355"><title lang="zh">大新聞大歷史</title><desc>《大新聞大歷史》是新聞式紀錄片, 旨在透過正在發生的新聞, 沿著歷史的脈絡, 全方位探索事件的點、線、面、四維空間和三體世界。由表象勾勒事件輪廓, 還原新聞背後的邏輯。新聞紀錄片去除盤根錯節, 梳理由關鍵點構成的事實框架, 穿越在歷史和現實之間, 進行一場思想驗證。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803105700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1000</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803105700 +0800" stop="20260803110000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803112700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803112700 +0800" stop="20260803113000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803113000 +0800" stop="20260803120000 +0800" channel="410355"><title lang="zh">問答神州</title><desc>《問答神州》: 致力採訪兩岸四地的關鍵人物, 與政壇精英進行高端對話。觀眾將可第一時間掌握中國的最新變化和發展, 將眼光投向快速增長的中國經濟、改革轉型中的大時代。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803125500 +0800" channel="410355"><title lang="zh">鳳凰午間專列</title><desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803125500 +0800" stop="20260803130000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803132700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1300</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803132700 +0800" stop="20260803133000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803133000 +0800" stop="20260803140000 +0800" channel="410355"><title lang="zh">香港新視點</title><desc>《香港新視點》是一檔廣東話專題節目, 以不同領域切入, 透視香港社會、民生百態、經濟及科技創新, 透過訪問社會各階層及焦點事件人物, 讓觀眾透徹了解香港。節目貼近民情, 瞄準熱點, 從多角度拆解香港的社會時事與前景。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803142700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1400</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803142700 +0800" stop="20260803143000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803143000 +0800" stop="20260803145700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1400</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803145700 +0800" stop="20260803150000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803155700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1500</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803155700 +0800" stop="20260803160000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803165700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1600</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803165700 +0800" stop="20260803170000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803172700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 1700</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803172700 +0800" stop="20260803173000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803180000 +0800" channel="410355"><title lang="zh">金石財經</title><desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803182700 +0800" channel="410355"><title lang="zh">鳳凰焦點新聞 1800</title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803182700 +0800" stop="20260803183000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803190000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803195700 +0800" channel="410355"><title lang="zh">華聞大直播</title><desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803195700 +0800" stop="20260803200000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803202700 +0800" channel="410355"><title lang="zh">鳳凰焦點新聞 2000</title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803202700 +0800" stop="20260803203000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803210000 +0800" channel="410355"><title lang="zh">鳳凰財經日報</title><desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803215500 +0800" channel="410355"><title lang="zh">時事直通車</title><desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803215500 +0800" stop="20260803220000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803223000 +0800" channel="410355"><title lang="zh">總編輯時間</title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803223000 +0800" stop="20260803230000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803230000 +0800" stop="20260803232700 +0800" channel="410355"><title lang="zh">鳳凰焦點新聞 2300</title><desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803232700 +0800" stop="20260803233000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803233000 +0800" stop="20260804000000 +0800" channel="410355"><title lang="zh">總編輯時間</title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804000000 +0800" stop="20260804005700 +0800" channel="410355"><title lang="zh">鳳凰洲際快車</title><desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804005700 +0800" stop="20260804010000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804012700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804012700 +0800" stop="20260804013000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804013000 +0800" stop="20260804020000 +0800" channel="410355"><title lang="zh">金石財經</title><desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804020000 +0800" stop="20260804022700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804022700 +0800" stop="20260804023000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804023000 +0800" stop="20260804030000 +0800" channel="410355"><title lang="zh">鳳凰財經日報</title><desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804030000 +0800" stop="20260804032700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804032700 +0800" stop="20260804033000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804033000 +0800" stop="20260804040000 +0800" channel="410355"><title lang="zh">總編輯時間</title><desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804040000 +0800" stop="20260804042700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804042700 +0800" stop="20260804043000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804043000 +0800" stop="20260804045700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804045700 +0800" stop="20260804050000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804050000 +0800" stop="20260804052700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804052700 +0800" stop="20260804053000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804053000 +0800" stop="20260804060000 +0800" channel="410355"><title lang="zh">新聞今日談</title><desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804062700 +0800" channel="410355"><title lang="zh">鳳凰正點播報 0100</title><desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804062700 +0800" stop="20260804063000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804063000 +0800" stop="20260804070000 +0800" channel="410355"><title lang="zh">鳳凰聚焦</title><desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804075700 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804075700 +0800" stop="20260804080000 +0800" channel="410355"><title lang="zh">鳳凰氣象站</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="410355"><title lang="zh">鳳凰早班車</title><desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc><date>2026-08-04</date>
   </programme><programme start="20260802085000 +0800" stop="20260802102500 +0800" channel="410286"><title lang="zh">猛鬼差館</title><desc>香港有一間警局, 三十年前曾是日軍侵略香港時的軍營。因為戰敗, 日本軍官在裡面切腹自殺了。據說他們的陰魂不散, 魂魄依然逗留在這所警局當中, 並會在孟蘭節當天出沒。金麥基與孟超都在這所警局裡面當員警, 但他們一直不相信警局裡面的恐怖傳說。小偷蛇仔明被囚於拘留所內竟誤闖鬼門關, 將惡鬼大佐放出, 自己亦被噬變成僵屍, 正欲逃離差館, 不料被死對頭仔寶神探金麥基與孟超所擒, 兩人不信蛇仔明已成新鬼, 結果太陽一出來, 蛇仔明即為飛灰, 他們才相信警局內的確有陰魂。他們把情況報告上司芬妮正想查明真相, 又遇到了一女子疑似被僵屍咬後死去了, 死狀似遭獸噬, 兩人知定是大佐所為, 遂引芬妮到驗房監視女屍, 鬼王也出場了...</desc><date>2026-08-02</date>
   </programme><programme start="20260802102500 +0800" stop="20260802120500 +0800" channel="410286"><title lang="zh">黑馬王子</title><desc>阿華自小在廟街長大, 讀書少, 不修邊幅, 註定為愛情失敗者。薄冰是上海富家女, 母親自小與父親離異, 薄冰決心到香港尋母, 卻遇上了阿華。薄冰跟阿華媽媽十三姐及死黨咖喱雞相處得十分開心, 而阿華亦慢慢由不合格的男人變成斯文有禮。薄冰的父親認定阿華心懷不軌, 欲綁架他的女兒, 但殊不知薄冰真的落入綁匪手中...</desc><date>2026-08-02</date>
   </programme><programme start="20260802120500 +0800" stop="20260802134500 +0800" channel="410286"><title lang="zh">武狀元蘇乞兒</title><desc>二世祖燦自幼好習武, 目不識丁, 終日尋歡作樂。廿五歲壽宴之夜, 燦選花魁選中清官人如霜, 卻嫌他未成大器, 於是許諾奪得武狀元歸才附托終生。燦決上京赴試, 力挫眾人, 卻被揭露欺君之罪, 遂被抄家並貶為乞兒。燦巧合救了丐幫傳功長者, 傳功長老傳以打狗捧法要訣, 成為新任幫主......</desc><date>2026-08-02</date>
@@ -453,22 +462,19 @@
   </programme><programme start="20260803042000 +0800" stop="20260803060000 +0800" channel="410286"><title lang="zh">武狀元蘇乞兒</title><desc>二世祖燦自幼好習武, 目不識丁, 終日尋歡作樂。廿五歲壽宴之夜, 燦選花魁選中清官人如霜, 卻嫌他未成大器, 於是許諾奪得武狀元歸才附托終生。燦決上京赴試, 力挫眾人, 卻被揭露欺君之罪, 遂被抄家並貶為乞兒。燦巧合救了丐幫傳功長者, 傳功長老傳以打狗捧法要訣, 成為新任幫主......</desc><date>2026-08-02</date>
   </programme><programme start="20260803060000 +0800" stop="20260803074500 +0800" channel="410286"><title lang="zh">戀上你的床</title><desc>小喬離開Raymond非因他有太多女人, 而是他的女人睡了她的床, 分手後她乞求要回那張她睡慣了的床。小喬獲派跟進神探高志強的故事, 原來他在捉賊途中被槍傷至性無能, 在訪問過程中喬愛上了高, 並堅信愛不一定要有性。Raymond快要升到區域法院, 上頭吩咐他禁慾, 此時18歲少女阿塔竟闖進他的生命, 並希望把第一次給他。喬和Raymond分別愛上他們不能上床的人, 喬不停為高找療法, 而Raymond就決定跟塔結婚, 名正言順跟她上床...</desc><date>2026-08-02</date>
   </programme><programme start="20260803074500 +0800" stop="20260803080000 +0800" channel="410286"><title lang="zh">小偷阿星</title><desc>龍原是警方密探, 在一次奉命與黑幫集團作買賣時, 因身份被揭露, 險遭毒手, 但遭一神秘人所傷, 失去記憶, 而龍所攜帶之公款伍仟萬竟不翼而飛, 因此, 警方以為龍吞去公款, 發出通緝令, 而黑幫集團更派出殺手追殺龍。星原是小偷, 在一次偷竊行動中, 被龍撞破好事, 兩人由誤會而結識, 因龍失去記憶, 誤以為星是自己親人, 追纏不捨。另一方面, 方原是大財團之總經理, 因虧空公款作非法勾當, 被總公司派來查數之胡揭破, 至此, 方要殺胡, 幸好給龍所救, 方得知龍的行蹤, 為了從龍手中奪取伍仟萬, 幾次殺龍。星從行家口中, 得知龍是警方所通緝之人, 且身藏有伍仟萬巨款, 以為龍是運財童子, 千方百計助龍恢復記憶, 但同時, 顧自認龍之妻子出現, 龍因失去記憶, 信已結婚。胡試探方, 方終露出本來面目, 殺胡, 二人救之, 終給方逃去, 首領知事敗, 命顧殺方, 因他身份已露, 怕連累自己,</desc><date>2026-08-02</date>
-  </programme><programme start="20260801081000 +0800" stop="20260801101000 +0800" channel="410285"><title lang="zh">游龍戲鳳</title><desc>世上, 每個人都在尋找一顆屬於自己的星星, 讓它能照亮自己的生命, 也照亮身邊所有人。程仲森, 盛傳26歲的他因為會「執垃圾」, 而考進了美國頂級基金公司。未夠二十年, 已躍登首位華人主席, 他本身就是一個傳奇!曾三度結婚, 三度離婚。仲森多年來, 身邊都有一班忠心的智囊團伴隨左右, 當他以為“愛情”不會再在他身上發生, 他竟在澳門碰上了他的“星星”米蘭。米蘭, 生長在單親家庭, 與爛賭阿姨、姨丈同住。自少過著獨立生活, 她從小就有一個心願, 就是儲錢去紐約學跳舞, 平日在賭場做荷官, 閒時兼職為舞蹈團做一些樂而不淫的“艷舞表演”。每段情都有它們的“第一次”。賭場的大廳是仲森第一次遇上米蘭的地方, 二人間的火花在瞬間爆發。無心的相遇, 卻換來理所當然的相愛, 望著米蘭的舞姿, 仲森為她第一次的心動, 縱使當時米蘭還以為仲森是一名普通的爛賭仔...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801101000 +0800" stop="20260801121500 +0800" channel="410285"><title lang="zh">水餃皇后</title><desc>上世紀七十年代, 青島姑娘臧健和帶著兩個女兒被迫流落他鄉。為了維持生計撫養女兒, 臧姑娘白天洗碗, 晚上擦車。無依無靠的她獨自一人扛下重重壓力, 為衝破命運的束縛, 臧健和決定賣水餃謀生。從無人問津到門庭若市, 身邊嘴硬心軟的紅姐、華哥、糖水伯都給予了她不少力量。堅持不懈的她把水餃生意越做越大, 人生之路也越走越寬......</desc><date>2026-08-01</date>
-  </programme><programme start="20260801121500 +0800" stop="20260801140000 +0800" channel="410285"><title lang="zh">一念無明</title><desc>迴避還是直面, 否定還是擁抱, 放棄還是改變。阿東患有躁鬱症, 因父親離家不顧, 獨力照顧飽受病患折磨的母親。母子二人情緒互相牽引激化, 猶如漫長的困獸鬥。一天, 阿東如常替失禁的母親沖洗, 拉扯間發生意外, 導致母親死亡。阿東的父親大海驚覺一直逃避的問題發酵成了悲劇。獨居多年的他在愧疚和孤獨驅使下, 應醫院建議, 接阿東到自己的板間房暫住。故事從這裡開始。兩個背負沉重愧疚的大男人只剩下對方, 對方卻是自己最不能面對的過去。當二人一步一步走出過去的陰霾和枷鎖, 在狹縫間建立關係, 更大的壓迫卻來自社會。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801154500 +0800" channel="410285"><title lang="zh">爆谷巨星匯：鄭秀文: 衝上雲霄</title><desc>年青機師Branson, 另一身分是富商兒子, 從爸爸手上接管生意後, 全力打理Skylette天頌航空。他對公司的空中服務員Cassie照顧有嘉, 原來二人是前度關係, 數年前Branson因要往紐約接管家族生意, 只好無奈跟她暫別, 但其實大家心中都一直有對方, 只是沒有宣之於口。為幫公司建立新形象, Branson邀請Rock Star TM拍攝宣傳片, 並由Sam擔任拍攝時的飛行顧問, 碰巧二人早前為航班誤點有過磨擦, 令見面時非常尷尬, 但過程中竟又互相發現對方的優點, 暗生情愫。顧夏陽Jayden為接受待遇更佳的私人機師一職, 離開天頌。一次航程, 遇上年輕活潑的女子Kika, 起初只覺得她是貪圖金錢、任性妄為的女子, 但性格吻合又令兩人火速戀上, 正當愛得纏綿之際, Jayden得悉原來奉行及時行樂的Kika的背後另有原因...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801154500 +0800" stop="20260801160000 +0800" channel="410285"><title lang="zh">爆谷電影現場 第273集 </title><desc>爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801160000 +0800" stop="20260801175500 +0800" channel="410285"><title lang="zh">新．超人</title><desc>巨大不明生物「禍威獸」相繼在日本出現, 一般兵器完全沒有作用, 無計可施的日本政府集合對付禍威獸的專家, 成立俗稱「禍特對」的「禍威獸特設對策室專從組」。由組長.田村君男領軍, 帶領作戰策劃負責人.神永新二、非粒子物理學者.滝明久、泛用生物學者.船緣由美, 負責任務。在禍威獸來襲的陰霾下, 一個銀色巨人突然穿越大氣層到來。為了應付此特殊狀況, 分析官.淺見弘子被指派至禍特對, 並與神永成為拍檔。而在淺見的報告上, 她寫著: 「超人 (暫稱) , 身分不明」...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801175500 +0800" stop="20260801200000 +0800" channel="410285"><title lang="zh">桃姐</title><desc>春桃自十三歲開始在梁家擔任家傭, 晃眼間, 六十年過去。梁家一家大小, 一些身故, 大部份移民, 近十年間就剩得桃姐和梁家的少爺仔Roger一起生活。主僕之間相處頗有默契, 但鮮有交流。然後, 有一天, 桃姐忽然中風送院。怕成為別人負累, 桃姐主動要求入住老院, Roger心理上過意不去, 但亦不能不承認這是對大家最好的安排。老人院是一個被大社會冷落的小世界。習慣事事追求完美的的桃姐起初無法適應老人院的簡陋, 心情低落, 但日子還是一日一日過...</desc><date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260801220000 +0800" channel="410285"><title lang="zh">爆谷獨家首播: 夜校女生</title><desc>穿越1997年的台灣板橋, 窺探少女小愛在成長路上的掙扎與光芒。原本考上理想高中的小愛, 因母親的堅持轉入明星高中「北一女中」的夜校就讀。白天與黑夜跟日校生共用桌椅的她, 跟為日校的「桌友」敏敏結下深厚友誼, 卻因夜校生的身份暗自自卑, 與敏敏亦同時愛上資優生路克。為了掩蓋真相, 她披上日校制服, 假裝成與路克匹配的「完美女孩」。綠制服如魔戒般賦予她自信, 卻讓謊言如滾雪球般失控。來到聯考日, 真相終被揭穿, 小愛在友情、愛情與家庭的風暴中迎來了一場痛徹心扉的成長試煉。</desc><date>2026-08-01</date>
-  </programme><programme start="20260801220000 +0800" stop="20260802000000 +0800" channel="410285"><title lang="zh">才貌「謙」備: 潛行</title><desc>時代的車輪滾滾向前, 禁毒鬥爭也面臨新的挑戰。隱蔽的暗網成為新型販毒的溫床, 並將目光瞄準了位於亞太中心的香港。一批重達4噸的毒品利用超強颱風的掩護秘密入港, 預備掀起一場網路銷售狂歡。形勢緊迫, 警方必須找出操縱暗網的幕後「老闆」, 不得已將隱藏許久的臥底警員推上前台。「老闆」身份成謎, 臥底身陷險境, 毒網躍躍欲試, 警匪雙方陷入一場宿命般的對決。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802000000 +0800" stop="20260802013000 +0800" channel="410285"><title lang="zh">Laughing Gor之潛罪犯</title><desc>承接《潛行狙擊》電視劇結局, Laughing謀殺蘇星柏罪名成立, 判無期徒刑。Laughing在獄中認識販毒被囚的大學教授霍天任。教授外表斯文, 與世無爭, 卻能擅用冷讀法, 洞悉對方內心秘密與陰暗面, 無聲無色操控他人, 憑此收服獄霸「巨川」。Laughing亦從教授身上學會心理知識, 並視教授如知己, 但原來教授坐牢是另有目的。同時Laughing入獄也是保安局安排, 目的調查黑警, 找出目標人物...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802013000 +0800" stop="20260802032500 +0800" channel="410285"><title lang="zh">頭文字Ｄ</title><desc>五年來, 十八歲的拓海每天駕著父親殘舊的汽車送遞豆腐, 卻無意中練得一手出神入化的飄移技術。對汽車亳無興趣的他被慫恿參加山路賽, 以送貨的舊車越級挑戰賽車隊, 賽果似乎早已定斷。豈料拓海竟在眾人錯愕下勝出, 一夜成名, 更激發起他遺傳的賽車慾, 面對一連串驚險絕倫的挑戰賽﹗</desc><date>2026-08-01</date>
-  </programme><programme start="20260802032500 +0800" stop="20260802051500 +0800" channel="410285"><title lang="zh">大追捕</title><desc>二十年前, 王遠陽被控謀殺少女依芸, 罪名成立入獄。刑期屆滿, 假釋出獄, 王遠陽卻偶遇相貌跟當年死者依芸極之相似的少女徐雪。同時, 剛出獄不久的王遠陽涉及一宗海邊燒焦男屍案, 而男死者正是徐雪的父親-徐翰林。在警方追查有關線索之際, 王遠陽竟趁亂闖入徐宅, 意圖挑戰警方...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802051500 +0800" stop="20260802053000 +0800" channel="410285"><title lang="zh">爆谷電影現場 第290集 </title><desc>爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802053000 +0800" stop="20260802072500 +0800" channel="410285"><title lang="zh">武俠</title><desc>俠客劉金喜隱姓埋名, 武俠與妻子阿玉和一雙兒子生活在一處偏遠的小村莊, 卻被捲入一樁離奇的命案。捕快徐百九是一位&amp;apos;武癡&amp;apos;, 在查案的過程中, 嗅到了劉金喜身上必有過人之處。不料, 卻因為他的好奇, 迫使劉金喜面臨和七十二地煞教主的生死對決, 他們的家園, 遭受滅頂之災。</desc><date>2026-08-01</date>
-  </programme><programme start="20260802072500 +0800" stop="20260802074000 +0800" channel="410285"><title lang="zh">爆谷製造 </title><desc>曾榮獲康城金棕櫚殊榮的日本大導演是枝裕和, 時隔十年與綾瀨遙打造《再生家族》, 戲中刻意安排她與諧星大悟組成「美女與野獸」組合, 看似違和感十足的二人卻在鏡頭下擦出火花!今次透過 AI 科技編織出扣人心弦的親情故事, 更對戲中的童星桒木里夢讚不絕口!到底是什麼使他將鏡頭聚焦在小孩身上?</desc><date>2026-08-01</date>
-  </programme><programme start="20260802074000 +0800" stop="20260802080000 +0800" channel="410285"><title lang="zh">信用欺詐師JP：英雄篇</title><desc>狂掃70+億日元票房燒腦系列《信用欺詐師JP》, 玩轉香港及馬來西亞後今次衝出亞洲, 神級佈局強勢進攻歐洲!被稱作「英雄」的欺詐師「第三代槌之子」去世, 欺詐三人組達子、少爺仔和理查德為了爭奪「英雄」之稱號, 在地中海設下史上最大騙局!為了要將價值20億的夢幻秘寶 - 古希臘雕塑「舞動維納斯」騙到手, 原本合作無間的同門三巨頭到底會否因此反目?正當大魚看似準備上釣時, 一直監視他們的國際刑警卻在背後佈下天羅地網...</desc><date>2026-08-01</date>
+  </programme><programme start="20260803092000 +0800" stop="20260803110500 +0800" channel="410286"><title lang="zh">精裝追女仔</title><desc>爛口發、吳準少與交通燈三人為死黨並同在一車房內任職, 車房老闆劉定堅為人孤寒刻薄, 但對三人刻薄中帶有一定溫情, 為療發失戀創傷, 提議往檳城散心。眾人在海灘邂逅董董及蚊滋後驚為天人, 決展開追求, 在抽簽下, 發扮有錢仔結識董董, 而三人則追蚊滋。蚊滋見發派頭十足, 提議董董扮有錢女, 搞出笑話連篇...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110500 +0800" stop="20260803122500 +0800" channel="410286"><title lang="zh">我愛一碌葛</title><desc>葛姐、鯪魚球和豆豆三姐妹, 自幼相依為命, 姐妹關係就如朋友一樣。但隨著三人年齡漸漸成長, 與周遭不同的經歷, 亦開始有所改變。大姐葛姐自少輟學賣魚多年, 強一直暗戀葛姐, 但葛姐卻瘋狂崇拜著名歌星Alex。二妹鯪魚球因「長短腳」怕人笑, 勤力讀書, 大學畢業當上律師, 並與法官良的兒子David相戀到談婚論嫁的階段。三妹豆豆天生愛玩, 無心向學, 卻與街市豬肉榮發展一段地下情。強父臨死前告訴強還有一名失散多年的親生弟弟。在葛姐的幫助下懷疑Alex就是強的親弟弟。但在相認過程中, 三姐妹的關係發生微妙的變化...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803122500 +0800" stop="20260803140000 +0800" channel="410286"><title lang="zh">千王</title><desc>偉仔、任世生與雀霸等組成的騙術集團, 中了星加坡高手的騙局, 幸得大哥王上千解圍。王在騙術界是奇俠, 以騙術對付不義之師聞名, 這回他率眾向高利貸還以顏色, 卻遇上死敵泰斗...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803155000 +0800" channel="410286"><title lang="zh">男人四十</title><desc>中學老師林耀國與陳文靖結婚多年, 感情已淡, 耀國有合適的職業和美滿家庭, 背後卻藏伏着中年的困擾。女學生胡彩藍暗戀自己, 師生關係曖昧複雜。文靖當年的國文老師盛世年出現, 揭開塵封多年的情感往事...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803155000 +0800" stop="20260803174000 +0800" channel="410286"><title lang="zh">至尊計狀元才</title><desc>「至尊」雷力為美國華人賭壇第一高手, 台灣賭王蔣山河為爭奪賭壇「至尊」名號, 邀雷力到澳門決賽。雷力經港探望表妹, 卻被老千毛、DEE騙去皮箱和證件, 幸得表妹同學真相助。毛及DEE假扮至尊赴賭局被識破, 雷力趕至不介前嫌, 反與二人合作...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803174000 +0800" stop="20260803193000 +0800" channel="410286"><title lang="zh">倚天屠龍記之魔教教主</title><desc>話說郭靖把名將嶽飛之兵法譜及天下第一武功秘笈九陰真經藏於「倚天劍」、「屠龍刀」之中, 因而掀起江湖腥風血雨, 而張無忌親眼目睹雙親被六大派迫死, 立誓要替父母報仇。憑藉高人傳授「九陽神功」及在明教禁地練成「乾坤大挪移心法」於光明頂一役救明教有功, 而奉為教主。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803210000 +0800" channel="410286"><title lang="zh">洪福齊天</title><desc>肥寶整日坑蒙拐騙, 不顧父親的責罰與朋友小海搭檔出千騙人, 代客泊車的二人見識了女騙子莉莉的高超手段, 欲從中分一杯羹卻被莉莉的仇家盯上。小海被對方捉走當做人質, 肥寶要救小海, 奈何事事不順, 遂遷怒於自己去世的「賭王」爺爺洪九。洪九不甘被孫子侮辱, 加之為了向仇人及其後代尋仇, 其怨靈重返人間, 幫助肥寶在賭場上大殺四方, 並成功救回了小海。得到好處的肥寶想擺脫洪九, 但終因親情而作罷。肥寶依計喬裝成大陸領導接近仇家為祖父報仇, 將父親和莉莉也牽涉其中...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803225500 +0800" channel="410286"><title lang="zh">喋血雙雄</title><desc>職業殺手小莊誤傷女歌手Jennie, 感內疚而退出江湖；但為補償手術費, 遂重做殺手。馮剛給莊接了一單要殺死黑社會頭目汪東源的生意。小莊在逃時遇到暗襲, 期間為救中鎗小村女而送往醫院, 探員李鷹發覺小莊跟別的殺手不同, 於是追查其身份。小莊因受襲而迫問馮誰是幕後主使人...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803225500 +0800" stop="20260804003500 +0800" channel="410286"><title lang="zh">千王</title><desc>偉仔、任世生與雀霸等組成的騙術集團, 中了星加坡高手的騙局, 幸得大哥王上千解圍。王在騙術界是奇俠, 以騙術對付不義之師聞名, 這回他率眾向高利貸還以顏色, 卻遇上死敵泰斗...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804003500 +0800" stop="20260804024500 +0800" channel="410286"><title lang="zh">三更</title><desc>失蹤了的妻子突然驚醒了, 在陌生的市鎮中亂闖, 尋找回家的路途中, 她遇上了一連串怪事...CID阿偉和八歲的兒子祥仔遷入舊警察宿舍, 祥仔突然失蹤, 鄰居于家屋內竟有一具怪屍, 于輝坦然承認三年前殺死了妻子, 但他深信妻子快將復活...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804024500 +0800" stop="20260804043000 +0800" channel="410286"><title lang="zh">戀上你的床</title><desc>小喬離開Raymond非因他有太多女人, 而是他的女人睡了她的床, 分手後她乞求要回那張她睡慣了的床。小喬獲派跟進神探高志強的故事, 原來他在捉賊途中被槍傷至性無能, 在訪問過程中喬愛上了高, 並堅信愛不一定要有性。Raymond快要升到區域法院, 上頭吩咐他禁慾, 此時18歲少女阿塔竟闖進他的生命, 並希望把第一次給他。喬和Raymond分別愛上他們不能上床的人, 喬不停為高找療法, 而Raymond就決定跟塔結婚, 名正言順跟她上床...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804043000 +0800" stop="20260804064000 +0800" channel="410286"><title lang="zh">至尊無上</title><desc>一對逢賭必贏的雙天至尊, 羅森與陳亞蟹被派往賭場揭破日本老千集團的騙局, 結果被該集團的首腦窮追猛打。亞蟹為了救羅森而右手被成殘廢, 忍痛退出江湖, 但日本集團仍然不放過他...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804064000 +0800" stop="20260804080000 +0800" channel="410286"><title lang="zh">至尊無上之永霸天下</title><desc>凡獲賭神金牌, 必可得其相助。擁有一金牌之范老大因被大徒弟Tommy出賣而慘死, 小徒弟雞翼希望剛出獄的二師兄杰對付Tommy, 但遭拒絕。後Tommy為尋賭神金牌而苦苦相迫, 杰終忍無可忍, 決清理門戶...</desc><date>2026-08-03</date>
   </programme><programme start="20260802095000 +0800" stop="20260802114500 +0800" channel="410285"><title lang="zh">傷城</title><desc>2003年平安夜, 兇殺組探員丘建邦拘捕了一個連環姦殺犯。聖誕日的早上回到家中, 發現女友Rachel在床上自殺身亡。驗屍後, 丘建邦方知她剛剛懷有兩個多身孕。之後, 丘建邦轉行當了三年私家偵探, 同時他變成一個酒鬼。2006年, 丘建邦最好的朋友, 乒乓球桌上最好的對手、最信賴的上司兇殺組總督察劉正熙謀殺了他太太周淑珍的父親--隱形富豪周元勝。幹了兇殺組頭目多年, 設計這次謀殺案當然是天衣無縫。劉正熙刻意留下的每一個證據, 將茅頭指向兩名無業遊民陳偉強、黃斌...</desc><date>2026-08-02</date>
   </programme><programme start="20260802114500 +0800" stop="20260802134500 +0800" channel="410285"><title lang="zh">戀愛大都會</title><desc>沒有人相信在熙和興秀只是朋友-在熙自由奔放的個性在群體中惹起不少非議, 直至遇上同樣格格不入的興秀, 並意外得悉了他的秘密。兩人漸漸成為朋友, 更開展同居同樂的生活, 讓對方成為日常和情感上最保護自己的「伴侶」。由大學年代到社畜生活, 二人漫遊又迷失在首爾這個大城市, 尋找愛與關係的答案。</desc><date>2026-08-02</date>
   </programme><programme start="20260802134500 +0800" stop="20260802140000 +0800" channel="410285"><title lang="zh">爆谷製造 </title><desc>《UFO離奇命案》在短短十一日完成拍攝, 低成本製作卻無礙台前幕後創意大爆發, 演員們的即興發揮使拍攝現場笑聲不斷!今次請來主創團隊與大家暢談創作過程之餘, 更揭秘劇組在山上拍攝的失控日常!</desc><date>2026-08-02</date>
@@ -483,22 +489,21 @@
   </programme><programme start="20260803040000 +0800" stop="20260803060000 +0800" channel="410285"><title lang="zh">好好拍電影</title><desc>人聲鼎沸的紅地毯, 一位年過七十精力充沛的短髮女人舉步生風邁向閃光燈舞台。紅地毯淡出變成泥濘小路, 伴著混濁的腳步聲, 她大步流星踏入香港新界的電影片場。於她而言, 榮耀和艱辛不過是接近電影世界的不同路徑。  出生於中國東北, 成長於澳門, 受教於香港, 她秉持中國文化的根基, 沉迷西方文學, 繼而遠赴倫敦進修。終於, 她找到了電影。透過電影她得以融入香港這座華洋雜處的城市, 得以與曖昧疏離的母親和解, 得以探索自己和這座城市的難民身份。電影亦找到了她。  她師承胡金銓, 處女作開闢香港電影新浪潮, 無人問津的小人物們成為她鏡頭下的主角。  四十載光影生涯, 從獲獎無數到跌入谷底, 潮起潮落間, 她對電影, 對香港的一片赤誠始終未變。在孤獨的求索路上, 電影伴她活出人生的圓滿。</desc><date>2026-08-02</date>
   </programme><programme start="20260803060000 +0800" stop="20260803075000 +0800" channel="410285"><title lang="zh">絕世好B</title><desc>Lena, Johnny 和 Wayne 受命開發以「絕世好 B」為宣傳重點的嬰兒產品系列. Johnny 初做主管, 聘請了神經兮兮的 Sabrina 為女秘書. Lena 得知 Wayne 對嬰兒有恐懼症, 於是特別從日本請來兒童行為專家 Boey 協助他完成工作. Lena 發現 Wayne 在研究 BB 產品時, 與 Boey 的關係越來越密切, 妒火中燒. Boey 為免成為第三者, 悄然離開. Johnny 與 Wayne 幾經辛苦終於完成「絕世好 B」系列......</desc><date>2026-08-02</date>
   </programme><programme start="20260803075000 +0800" stop="20260803080000 +0800" channel="410285"><title lang="zh">春心萌動的老屋緣廊</title><desc>孀居的生活本來枯燥無味, 時間日復日從市井野雪婆婆的指隙流過。可是隨手拈來的BL漫畫竟成為了雪婆婆通往新世界的大門。讀過漫畫以後, 雪婆婆一顆少女心小鹿亂撞, 隨後更在書店認識了志同道合的工讀生佐山麗。兩位年紀相距58年的腐女一見如故: 雪婆婆與小麗分享怦然心動的感覺, 小麗也在雪婆婆的鼓勵下拿起畫筆, 繪出自己的未來。電影改編自鶴谷香央理同名人氣漫畫, 自作品推出以來廣受讀者歡迎。和室不只盛載了雪婆婆舊日的回憶, 還有老少兩人靈犀相通的默契</desc><date>2026-08-02</date>
-  </programme><programme start="20260801080000 +0800" stop="20260801094000 +0800" channel="369671"><title lang="zh">Bodyguard</title><desc>Rookie bodyguard Gao Tian gets inadvertently swept into an undercover operation investigating a crime syndicate while trying to rescue his kidnapped fiancee.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801094000 +0800" stop="20260801110000 +0800" channel="369671"><title lang="zh">Peak Confrontation</title><desc>Gangster Chu Tian Kuo involuntarily participates in a competition to win the golden mask. But during the struggle for the mask, he is framed &amp;amp;amp; subsequently rescued by the princess of a foreign tribe.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801121500 +0800" channel="369671"><title lang="zh">The Magic Lotus Lantern</title><desc>When the world-guarding Lotus Lantern is stolen, Yang Jian comes to the mortal world to look for it. There, he meets and falls in love with a mortal woman.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801121500 +0800" stop="20260801133000 +0800" channel="369671"><title lang="zh">Painted Bone Woman</title><desc>Ji Yun Shu, a female coroner of Northern Qi, &amp;amp;amp; Prince Jing Rong team up to solve mysterious cases, bringing  to life a series of extraordinary stories set against a unique worldview.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801133000 +0800" stop="20260801160000 +0800" channel="369671"><title lang="zh">Wander Together</title><desc>Huang Xiao Ming, Huang Zi Tao, Liu Yao Wen, Shao Zi Heng, Wang He Di &amp;amp;amp; Yu Yang join a 2D1N travel variety. Friends-only lineup tackles funny games, nonstop teasing and chaotic fun to relax &amp;amp;amp; recharge.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801160000 +0800" stop="20260801170000 +0800" channel="369671"><title lang="zh">The Lost National Treasure</title><desc>After a priceless black pottery figurine is stolen, the 20-year cold war between archaeologists, relic cops and tomb raiders erupt, unveiling various explosive secrets.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801180000 +0800" channel="369671"><title lang="zh">The Lost National Treasure</title><desc>After a priceless black pottery figurine is stolen, the 20-year cold war between archaeologists, relic cops and tomb raiders erupt, unveiling various explosive secrets.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801180000 +0800" stop="20260801193000 +0800" channel="369671"><title lang="zh">The Legend of Aquawitch</title><desc>Qu Jiang Lake is rumoured to be inhabited by a monster that eats people. When Xue Yang &amp;amp;amp; Shang Guan Yu are tasked to investigate, they discover an underground ice cellar scattered with skeletons.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801215000 +0800" channel="369671"><title lang="zh">Wander Together</title><desc>Huang Xiao Ming, Huang Zi Tao, Liu Yao Wen, Shao Zi Heng, Wang He Di &amp;amp;amp; Yu Yang join a 2D1N travel variety. Friends-only lineup tackles funny games, nonstop teasing and chaotic fun to relax &amp;amp;amp; recharge.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801215000 +0800" stop="20260801230500 +0800" channel="369671"><title lang="zh">Atrocious</title><desc>A group of travellers goes in search of ancient tombs where mysterious treasures were said to appear whenever thick fog came &amp;amp;amp; ethereal sounds echoed, only to meet gruesome deaths one after another.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801230500 +0800" stop="20260802013500 +0800" channel="369671"><title lang="zh">Baoliezhuiji</title><desc>Shang Xia is an honest, kind-hearted &amp;amp;amp; funny chauffeur. But his friend, He Feng, is a lustful gambler who often gets into difficult situations that require Shang Xia to bail him out.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802013500 +0800" stop="20260802030000 +0800" channel="369671"><title lang="zh">Sword Sovereign: Heavenbreaker</title><desc>Many years ago, Jian Nan Tian is kidnapped by Xue Yu Lou while protecting the Sword Sect. Many years later, Xue Yu Lou strikes again, attacking the Sword Sect to capture Nan Tian&amp;apos;s son, Jian Wu Shuang.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802030000 +0800" stop="20260802043000 +0800" channel="369671"><title lang="zh">Desert Lone Hero</title><desc>The fight for a mystical treasure begins after the death of Shen Shijie, the world&amp;apos;s richest businessman, who built an impenetrable vault to seal up his huge wealth.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802043000 +0800" stop="20260802060000 +0800" channel="369671"><title lang="zh">The Legend Of Feng Lou: Divine Fox</title><desc>The grandfather of a human girl is killed after offending a fox fairy in the mountains. Years later, the girl marries Feng Lou, the murderer who killed her grandfather, in an attempt to take revenge.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802060000 +0800" stop="20260802070000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Ning.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802070000 +0800" stop="20260802080000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Ning.</desc><date>2026-08-01</date>
+  </programme><programme start="20260803095000 +0800" stop="20260803112000 +0800" channel="410285"><title lang="zh">超級無敵羊咩咩大電影之天外飛咩</title><desc>小小外星人Lula意外地穿越銀河系, 逼降在羊咩咩的農場。阿爽及一眾羊咩咩雖然與Lula雞同鴨講, 但可愛的Lula馬上奪得羊羊歡心。阿爽不但讓Lula匿藏在羊棚內, 更帶她暢遊大街小巷, 玩轉成個農場同市鎮。就在Lula準備升空回家之際, 神秘邪惡組織大舉殺到, 誓要生擒Lula, 一眾羊羊將會用「咩」爆趣方法擊退敵人, 護送Lula上太空?</desc><date>2026-08-03</date>
+  </programme><programme start="20260803112000 +0800" stop="20260803125500 +0800" channel="410285"><title lang="zh">臥底女神團</title><desc>身高155厘米的小琪是一名拼搏的記者； 從小到大, 她都因為身高而被人嘲笑, 所以有高大的男朋友就成為她的畢生志願。某日, 她重遇了曾是全大學最高、現職為警察的學長阿發, 他們將合作調查一宗案件, 小琪更要喬裝成一位跳唱偶像。最終, 他們能否破案, 小琪又會否捕獲阿發的心?</desc><date>2026-08-03</date>
+  </programme><programme start="20260803125500 +0800" stop="20260803150000 +0800" channel="410285"><title lang="zh">鐵道英雄</title><desc>1939年冬, 山東魯南地區, 鐵道工人老洪和老王領導著一支活躍在鐵道線上的遊擊隊。一個雪夜, 老洪帶領亓魯、林棟幾人暗殺了三名日本高級軍官, 他們的行為激怒了日軍。一位日軍資深特工藤原悄然而至, 著手調查此事。鐵道隊和藤原展開了一系列殊死博弈, 期間鐵道隊犧牲了三名隊員, 老王臥底身份也遭到暴露。此時一輛裝有日軍重要軍火的列車即將經過, 鐵道隊員們在危急存亡之際決定挺身而出與敵人決一死戰。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803164000 +0800" channel="410285"><title lang="zh">末日廝殺橋</title><desc>一場突如其來的迷霧引發嚴重交通事故, 政府高官與其女兒, 及拖車司機等多名市民因此被困在機場大橋上, 政府秘密運送的「寂靜計劃」實驗犬意外逃脫, 基因改造的軍用實驗計劃突發曝光, 被困大橋的生還者頓成獵殺目標!政府陷入補救計劃及拯救生還者之間的兩難局面, 大橋即將崩塌, 迷霧中人人自危, 一場比「屍殺列車」更凶殘的屠殺一觸即發, 眾人能否在困獸戰中殺出霧鎖重圍?</desc><date>2026-08-03</date>
+  </programme><programme start="20260803164000 +0800" stop="20260803182000 +0800" channel="410285"><title lang="zh">蘋果咬一口</title><desc>宋丹如剛剛畢業就幸運的進入了一間學校成為了老師, 然而, 想要那群頑皮的學生乖乖聽話可不是那麼容易的事情。工作之餘, 宋丹如做模特兼職以補貼家用, 談吐和穿著都土裏土氣的她讓攝影師陳東源十分看不過眼, 總忍不住要找宋丹如的碴, 和她過不去。宋丹如化名天使在網上遇見了名叫深藍的網友, 彼此之間聊得十分投機。宋丹如將白天遇到的不如意一一向深藍傾訴, 而深藍亦溫柔而包容的安慰著她。宋丹如並不知道的是, 這個深藍竟然就是平日對她處處刁難的陳東源。天使和深藍決定見面, 而這一消息被陳東源的同事偶然得知, 一個詭計就此醞釀。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803182000 +0800" stop="20260803200000 +0800" channel="410285"><title lang="zh">佛系貓物語</title><desc>鄉村寺廟和尚收留了一隻幼貓並取名為小杏, 自小進駐佛堂, 竟可漸漸活到37歲?!外表可愛但內裡麻甩的貓貓不但識講人話、入得廚房, 仲識按摩!某天, 和尚的兒子帶著11歲女兒花梨回到寺廟, 並轉交給小杏照顧。當自幼喪母的叛逆少女為見媽媽一面, 借助妖怪朋友仔的幫忙, 拜託小杏一起勇闖亡靈世界, 屬於一人一貓「來回地獄又折返人間」的神奇旅程正式開始!</desc><date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803214500 +0800" channel="410285"><title lang="zh">12怪盜</title><desc>在這個尋常得有點不尋常的世界, 有一個地下組織名叫「怪盜公會」, 組織內有12個天才怪盜各自身懷絕技 -- 怪盜Ian擅長策劃、怪盜KT精通催眠、怪盜Stanley擅於竊聽、怪盜A.Lo身手靈活、怪盜Edan游繩技術一流、怪盜Jer可以瞬間變裝、怪盜Tiger懂得遠距離讀唇、怪盜Alton是世界級駭客、怪盜AK掌握動物傳心術、怪盜Lokman熟悉解鎖技術、怪盜Frankie第六感最強, 而怪盜Jeremy則天生擁有超級記憶力, 閱讀大量資料也能過目不忘。他們是怪盜公會中的明星級成員。一天接到Boss指示, 12怪盜於總部集合, 奉命完成一宗將會影響全地球的重要個案。此時最大考驗就是12怪盜數年來聚少離多, 各有各忙, 所以默契欠奉, 面對波士甚為重視的個案, 12人久別之後再度合作, 既要重新燃起團魂, 又要面對公會頭號大敵保安經理Johnny的阻攔, 任務殊不輕易!</desc><date>2026-08-03</date>
+  </programme><programme start="20260803214500 +0800" stop="20260803220000 +0800" channel="410285"><title lang="zh">爆谷製造 </title><desc>一家人圍埋食飯各懷鬼胎, 原來暗藏錯綜複雜的關係?《飯戲攻心》由黃子華 (Dayo)、鄧麗欣 (Stephy)、張繼聰 (Louis)、王菀之 (Ivana) 等主演。住在同一屋簷下的他們, 將於飯桌上展開一輪輪的唇槍舌戰, 主演們齊齊現身說法, 解開這家人的秘密!</desc><date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803234000 +0800" channel="410285"><title lang="zh">「湛」露鋒芒—陳湛文: 失衡凶間之惡念之最</title><desc>《要命的溫柔》-好友小木慘遭擄殺, 魔術師阿花頻見幻象。兩人最後通話的內容疑有破案線索, 為此阿花接受催眠, 試圖尋回那段記憶, 卻將自己置於危險之中。《逃殺》-阿豪半夜醒來, 發現自己在詭秘工廠大廈內。莫明的他繼而遇上屍骸、鬼魅和前妻!他必須想辦法逃出這個迷宮。《死亡回憶》-亞譚和余仔是中學同學兼好友, 兩人對電影充滿熱情卻多年也混不出來。一次意外, 亞譚誤將余仔殺死, 卻竟因此而當上導演。</desc><date>2026-08-03</date>
+  </programme><programme start="20260803234000 +0800" stop="20260804000500 +0800" channel="410285"><title lang="zh">爆谷影之選  微電影「創+作」（音樂篇） 第261集 </title><desc>主角家祈索然無味的生活突然被生病許久的表妹向陽的出現而打破。向陽猶如一束陽光般照盡家祈灰暗的生活, 在她的出現下, 家祈看見生活中的色彩, 同時重新面對自己的舊傷疤。習慣拒人千里的家祈卻不知道向陽的日子已經慢慢進入倒數, 直到暫停的一刻。最後向陽留下的痕跡, 提醒著家祈, 也記得留一口氣給自己和身邊的人、事、物。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804000500 +0800" stop="20260804015000 +0800" channel="410285"><title lang="zh">失憶界刂女王</title><desc>美國華僑丁叮到北京修讀戲劇, 碰上阿當, 注定二人戀上。阿當心情太興奮, 隨即休克昏倒, 隔天已視丁叮為陌生人。原來年前阿當舊女友猝死, 當竟忘掉此事, 因他愛得太深, 大腦自我保護機能要他忘記, 當的失憶已久未發作, 遲醫生解釋可能丁叮外表太像已死女友。兩人一次又一次重新戀上, 而阿當又一而再遺忘她, 丁叮漸感厭倦, 不忍愛郎多次受創, 決定離開, 當卻因氣味喚起感覺....</desc><date>2026-08-03</date>
+  </programme><programme start="20260804015000 +0800" stop="20260804041000 +0800" channel="410285"><title lang="zh">吹哨人</title><desc>馬珂 (雷佳音 飾) 在澳洲能源公司位居要職, 在與漢煤集團合作過程中, 發現前女友周雯 (湯唯 飾) 竟是集團董事長的太太。二人難捨舊情, 周雯更向馬珂告密: 漢煤集團涉嫌收受澳洲公司巨額賄款, 隱瞞能源技術背後的安全隱憂。為了查明真相, 二人踏上一場橫跨三大洲的亡命之旅。他們被滅口之前, 可否破解陰謀, 阻止災難爆發?</desc><date>2026-08-03</date>
+  </programme><programme start="20260804041000 +0800" stop="20260804042500 +0800" channel="410285"><title lang="zh">爆谷製造 </title><desc>《UFO離奇命案》在短短十一日完成拍攝, 低成本製作卻無礙台前幕後創意大爆發, 演員們的即興發揮使拍攝現場笑聲不斷!今次請來主創團隊與大家暢談創作過程之餘, 更揭秘劇組在山上拍攝的失控日常!</desc><date>2026-08-03</date>
+  </programme><programme start="20260804042500 +0800" stop="20260804061500 +0800" channel="410285"><title lang="zh">怒潮</title><desc>橫跨黑白兩道隻手遮天的洪泰集團正值換選之際, 一個神秘殺手陳安卻突然隻身闖入這個是非混亂的漩渦, 攪得洪泰集團大亂。身處警察陣營的麥朗汶和黑幫陣營的馬文康也盯上了他......各方勢力伺機而動, 誰才是幕後的操控者, 一場生猛混戰一觸即發。</desc><date>2026-08-03</date>
+  </programme><programme start="20260804061500 +0800" stop="20260804080000 +0800" channel="410285"><title lang="zh">白塔之光</title><desc>人到中年、離婚後獨自生活的食評家谷文通, 對所有人總是謙恭禮讓。偶然間認識了同樣一個人的年輕攝影師歐陽文慧, 兩個孤獨的靈魂互相陪伴, 漫步在人來人往的北京街頭, 徘徊在肢體與情感間的曖昧。一次偶然的機會, 谷文通得知了歐陽文慧的隱痛往事, 又發現了自己父親失聯四十多年的真相, 讓他的生活有了新的變化......</desc><date>2026-08-03</date>
   </programme><programme start="20260802080000 +0800" stop="20260802091500 +0800" channel="369671"><title lang="zh">Shark Evil</title><desc>Poachers provoke a great white shark in open seas. It retaliates, targeting four friends on a yacht. A fierce battle unfolds for survival.</desc><date>2026-08-02</date>
   </programme><programme start="20260802091500 +0800" stop="20260802110000 +0800" channel="369671"><title lang="zh">Monstert Of Er Long Lake</title><desc>Yu Huan wants to marry his childhood sweetheart Xiao Yu but is stopped by a huge bride price. With three goofy friends, he tries to raise money but accidentally awakens a century-old lake monster.</desc><date>2026-08-02</date>
   </programme><programme start="20260802110000 +0800" stop="20260802121500 +0800" channel="369671"><title lang="zh">Red Land</title><desc>Humans battle underground mutants \&amp;quot;Headhunters\&amp;quot; and the \&amp;quot;Cave Tribe,\&amp;quot; fighting to survive and reclaim their home on the dangerous, resource-scarce surface.</desc><date>2026-08-02</date>
@@ -514,18 +519,30 @@
   </programme><programme start="20260803042000 +0800" stop="20260803060000 +0800" channel="369671"><title lang="zh">Mega Crocodile 2</title><desc>When a giant crocodile escaped from its cage &amp;amp;amp; wreaked havoc in the city of Beihai, hunter Qi &amp;amp;amp; his disciple were invited to capture the creature. But to their surprise, a bigger crisis awaits them.</desc><date>2026-08-02</date>
   </programme><programme start="20260803060000 +0800" stop="20260803070000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Ning.</desc><date>2026-08-02</date>
   </programme><programme start="20260803070000 +0800" stop="20260803080000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Ning.</desc><date>2026-08-02</date>
-  </programme><programme start="20260801091000 +0800" stop="20260801110000 +0800" channel="1298"><title lang="zh">We are Family</title><desc>&amp;quot;Rent-a-Family&amp;quot; offers relatives for rent and in the process, the trio rendering such services discover the complexities of family relationships, forging deeper connections along the way.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801131500 +0800" channel="1298"><title lang="zh">Wu Kong</title><desc>Eddie Peng charms as possibly the most handsome Monkey King alongside Shawn Yue &amp;amp;amp; Ni Ni in this fantasy-action-adventure film.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801131500 +0800" stop="20260801150000 +0800" channel="1298"><title lang="zh">77 Heartwarmings</title><desc>After breaking up with Adam, Eva focuses on her career, but Adam is determined to win her back and makes 77 attempts to do so. The situation worsens when a Thai movie idol courts Eva</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801165000 +0800" channel="1298"><title lang="zh">Rob N Roll</title><desc>A ruthless bandit plots a major heist which is joined by two dispirited men inadvertently. Their ad-hoc and dramatic robbery lands them in a fierce police pursuit, putting their lives on the line!</desc><date>2026-08-01</date>
-  </programme><programme start="20260801165000 +0800" stop="20260801185500 +0800" channel="1298"><title lang="zh">Cloudy Mountain</title><desc>As a decade-long tunnel project reaches completion, an earthquake strikes, forcing a retired soldier &amp;amp;amp; his son to stop the disasters at the source, or risk the community - and the tunnel.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801185500 +0800" stop="20260801210000 +0800" channel="1298"><title lang="zh">Under Current</title><desc>The death of a charity&amp;apos;s CFO and a missing donation force lawyer Ma into an alliance with a police officer. Together, they risk everything to uncover the charity&amp;apos;s darkest secrets and seek justice.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801232000 +0800" channel="1298"><title lang="zh">Operation Hadal</title><desc>Deep-sea special forces and the submarine &amp;apos;Long Jing&amp;apos; join forces to stop an international super-submarine conspiracy, battling through enemy ambushes and treacherous depths in a thrilling showdown.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801232000 +0800" stop="20260802010000 +0800" channel="1298"><title lang="zh">Life Must Go On</title><desc>When the midnight gymnasium programme for wayward teenage girls is at risk of closing down due to funding, social worker Yanki puts together a dodgeball team to compete in a match to save it.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802024000 +0800" channel="1298"><title lang="zh">Confinement</title><desc>A pregnant painter hires a confinement nanny, but inexplicable incidents start happening in the house as her one-month confinement begins, threatening her and her baby daughter...</desc><date>2026-08-01</date>
-  </programme><programme start="20260802024000 +0800" stop="20260802044500 +0800" channel="1298"><title lang="zh">New Police Story</title><desc>A sozzled police inspector (Jackie Chan) must pull himself up again after a bungled mission causes his entire team to be wiped out.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802044500 +0800" stop="20260802062000 +0800" channel="1298"><title lang="zh">Chilli Laugh Story</title><desc>Coba turns his mother&amp;apos;s chili sauce into a trendy commodity during the pandemic, with the help of the whole family. The business booms online, bringing them unexpected success and unity.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802062000 +0800" stop="20260802080000 +0800" channel="1298"><title lang="zh">L Storm</title><desc>ICAC officer Luk and Inspector Lau are stuck in their investigation for bribery and money laundering cases. Framed for bribery, Luk risks everything to gather evidence to clear his name.</desc><date>2026-08-01</date>
+  </programme><programme start="20260803080000 +0800" stop="20260803090000 +0800" channel="369671"><title lang="zh">The Punishment</title><desc>Estranged siblings Qin Feng, Liu Tian Ye &amp;amp;amp; Wen Jiang Yan reunite in a crisis, forced to choose between family, trust and truth. As Director Ye Tian You arrives, a final battle of good and evil erupts.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803090000 +0800" stop="20260803100000 +0800" channel="369671"><title lang="zh">The Punishment</title><desc>Estranged siblings Qin Feng, Liu Tian Ye &amp;amp;amp; Wen Jiang Yan reunite in a crisis, forced to choose between family, trust and truth. As Director Ye Tian You arrives, a final battle of good and evil erupts.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803110000 +0800" channel="369671"><title lang="zh">Love Song In Winter</title><desc>Eight years apart, detective Jiang Cheng Yi and anaesthesiologist Lu Yan reunite to solve a murder. As buried secrets resurface, so does their forbidden love, rekindling old flames.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803120000 +0800" channel="369671"><title lang="zh">Love Song In Winter</title><desc>Eight years apart, detective Jiang Cheng Yi and anaesthesiologist Lu Yan reunite to solve a murder. As buried secrets resurface, so does their forbidden love, rekindling old flames.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803130000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803140000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803150000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803160000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803170000 +0800" channel="369671"><title lang="zh">The Lost National Treasure</title><desc>After a priceless black pottery figurine is stolen, the 20-year cold war between archaeologists, relic cops and tomb raiders erupt, unveiling various explosive secrets.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803180000 +0800" channel="369671"><title lang="zh">The Lost National Treasure</title><desc>After a priceless black pottery figurine is stolen, the 20-year cold war between archaeologists, relic cops and tomb raiders erupt, unveiling various explosive secrets.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803190000 +0800" channel="369671"><title lang="zh">Love Song In Winter</title><desc>Eight years apart, detective Jiang Cheng Yi and anaesthesiologist Lu Yan reunite to solve a murder. As buried secrets resurface, so does their forbidden love, rekindling old flames.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803200000 +0800" channel="369671"><title lang="zh">Love Song In Winter</title><desc>Eight years apart, detective Jiang Cheng Yi and anaesthesiologist Lu Yan reunite to solve a murder. As buried secrets resurface, so does their forbidden love, rekindling old flames.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803210000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803220000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803225000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803225000 +0800" stop="20260803235000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803235000 +0800" stop="20260804012000 +0800" channel="369671"><title lang="zh">Love Song In Winter</title><desc>Eight years apart, detective Jiang Cheng Yi and anaesthesiologist Lu Yan reunite to solve a murder. As buried secrets resurface, so does their forbidden love, rekindling old flames.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804012000 +0800" stop="20260804024000 +0800" channel="369671"><title lang="zh">Fox Demon Legend</title><desc>Girls vanish in a remote village. Li Chang Xiao hunts for his missing disciple Luo Shui, uncovering fox legends, deadly secrets and a dark twisting conspiracy.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804024000 +0800" stop="20260804033000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804033000 +0800" stop="20260804042000 +0800" channel="369671"><title lang="zh">Key To The Phoenix Heart</title><desc>Xiao Wu Yi and Xie Jia Yu enter a political marriage of convenience. Facing court conspiracies, and deadly challenges together, they gradually build trust and discover a love beyond their alliance.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804042000 +0800" stop="20260804051000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804051000 +0800" stop="20260804060000 +0800" channel="369671"><title lang="zh">The Best Thing</title><desc>Warm-hearted doctor He Su Ye&amp;apos;s gentle care melts sleepless hotel manager Shen Xi Fan&amp;apos;s guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804070000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Nu.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804080000 +0800" channel="369671"><title lang="zh">The Secret Path</title><desc>Yang Guang, the deputy director of the National Security Bureau, gets entangled with international spy organizations. As he investigates, he crosses paths with the mysterious Zhao Ya Ning.</desc><date>2026-08-03</date>
   </programme><programme start="20260802080500 +0800" stop="20260802094000 +0800" channel="1298"><title lang="zh">CJ7</title><desc>When a poor laborer picks up a toy for his son from a dumpster, the events that follow teach them about the true nature of family and things money can&amp;apos;t buy.</desc><date>2026-08-02</date>
   </programme><programme start="20260802094000 +0800" stop="20260802111500 +0800" channel="1298"><title lang="zh">OMG! Mom&amp;apos;s Big News</title><desc>A mother in her 50s unexpectedly becomes pregnant, turning her family&amp;apos;s quiet life upside down. As they prepare for the baby&amp;apos;s arrival, chaos and laughter follow, teaching them love and acceptance.</desc><date>2026-08-02</date>
   </programme><programme start="20260802111500 +0800" stop="20260802125000 +0800" channel="1298"><title lang="zh">Inexternal</title><desc>Ming falls into coma and is transported to a fantasy realm where old Master Turtle teaches him ancient boxing skill to defeat an evil boss. Meanwhile, Ming&amp;apos;s mother finds a way to save her son.</desc><date>2026-08-02</date>
@@ -539,21 +556,19 @@
   </programme><programme start="20260803025000 +0800" stop="20260803051000 +0800" channel="1298"><title lang="zh">Cesium Fallout</title><desc>Hong Kong&amp;apos;s survival is at risk due to a radiation leak. A fire brigade is assigned to stop cesium fallout by entering the radiation zone. Facing this unprecedented disaster, can they save the city?</desc><date>2026-08-02</date>
   </programme><programme start="20260803051000 +0800" stop="20260803064500 +0800" channel="1298"><title lang="zh">Little Red Sweet</title><desc>A family running a Chinese dessert shop faces upheaval when the mother suffers a devastating stroke. This heartfelt journey reveals the strength of family bonds, sacrifices, and resilience.</desc><date>2026-08-02</date>
   </programme><programme start="20260803064500 +0800" stop="20260803080000 +0800" channel="1298"><title lang="zh">8 Bucks Tycoon</title><desc>When a struggling painter receives a magical wallet that endlessly produces RM8 notes, his life transforms from hardship to luxury. However, is this miracle truly a blessing or a hidden curse?</desc><date>2026-08-02</date>
-  </programme><programme start="20260801084500 +0800" stop="20260801103500 +0800" channel="369730"><title lang="zh">叱咤风云 / Nezha</title><desc>车王李一飞不甘于过气的事实，为了争一口气证明自己，不料导致同队女车手吕莉莉发生意外，他所属的车队因此陷入倒闭危机。直至一名毫无赛道经验的虚拟赛车冠军选手加入车队后，其真实赛车表现竟超出预料。三人能否一起为车队重夺曾经拥有的辉煌与光荣？.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801103500 +0800" stop="20260801120500 +0800" channel="369730"><title lang="zh">烈探 / Fierce Cop</title><desc>警探张荼为救落入人贩之手的儿子，不惜孤身深入敌穴，跨国追击，但却被牵扯进大型儿童拐卖案。在寻找儿子的过程中，他和身份神秘的女子携手捣毁了一个大型国际犯罪集团，上演了一场惊心动魄的绝地生死营救。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120500 +0800" stop="20260801134000 +0800" channel="369730"><title lang="zh">摩登仙履奇缘 / Girl with the Diamond Slipper</title><desc>陈七是职业惯匪，偷呃拐骗无所不为，但从不使用暴力；张曼珠是电视台新晋演员，收入微薄，生活拮据。一次偶然中，陈得到了一枚巨钻，欲找买家脱手，却遇杀手追杀，情急下将巨钻藏于某鞋店的一只高跟鞋内，后来，此鞋刚好被张买去参加舞会…….</desc><date>2026-08-01</date>
-  </programme><programme start="20260801134000 +0800" stop="20260801150000 +0800" channel="369730"><title lang="zh">降龙大师：魔龙咒 / Dragon Master: Dragon Spell</title><desc>龙王被降龙大师封印了五百年，龙王之女为解除父亲的封印，不惜穿越时空，回到五百年前杀掉降龙大师。但她没想到五百年前的龙王与降龙大师竟是生死挚友….</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801163000 +0800" channel="369730"><title lang="zh">再见七日情 / Let&amp;apos;s Make Laugh II</title><desc>护卫员阿逊被派往保护富商的儿子，期间巧遇住在隔壁的祖儿，更渐渐爱上她，却发现原来祖儿是富商的情妇。当他俩的恋情被富商发现后，事情一发不可收拾！.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801174500 +0800" channel="369730"><title lang="zh">军火大劫案 / Munitions Hijacking Case</title><desc>特工阿文被安排潜伏于东南亚的军火商旗下，寻找其手中的一批军火炸药并将其销毁。当他终于找到该批军火后，却遭到不明匪徒袭击。为防止灾难发生，阿文决定与他的特工搭档阿琼合力夺回军火。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801174500 +0800" stop="20260801192000 +0800" channel="369730"><title lang="zh">法中情 / Law Or Justice</title><desc>摄影师田迪文强奸模特儿凌祖儿，幸得大律师叶颖文洗脱控罪。颖文男友高级督察方伟负责此案，不满女友是非不分。祖儿之妹凌珊珊替姐报仇，反遭田施暴，颖文再任其辩护律师。珊珊因过往不良纪录，处处失利，能够令田入罪的机会极微；检控官决定请师兄龙约翰出山相助。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801192000 +0800" stop="20260801210000 +0800" channel="369730"><title lang="zh">龙的传人 / Legend Of The Dragon</title><desc>青年周小龙离开纯朴的离岛到香港发展。他的师叔欺骗小龙参加桌球比赛，并以他父亲的地皮作为赌注。小龙最后输掉了比赛，幸得他青梅竹马的朋友毛毛鼓励，把自家的田地也作为赌注。小龙最后能否把自己的土地赢回来？.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801230500 +0800" channel="369730"><title lang="zh">激战 / Unbeatable</title><desc>曾经叱咤世界拳坛的拳王程辉，在澳门遇见了热血青年思齐。随着他训练思齐备战即将举行的混合格斗赛，程辉不仅重燃了对拳击的热爱，还重新找回了对生命的热情，并更加珍惜那些在生命中真正重要的人。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260801230500 +0800" stop="20260802004500 +0800" channel="369730"><title lang="zh">表错七日情 / Let&amp;apos;s Make Laugh</title><desc>一对年轻夫妇因欠税款被法庭下令封屋，限七日缴付欠税，并以房屋和财产作为抵偿。丈夫因移情别恋不知去向，法庭则雇用一个年轻的护卫员来看管少妇。那护卫员竟然与少妇日久生情….</desc><date>2026-08-01</date>
-  </programme><programme start="20260802004500 +0800" stop="20260802022000 +0800" channel="369730"><title lang="zh">煞面迷影 / Lost Memories</title><desc>当年轻母亲为女儿莫名失踪而苦恼时，一连串怪异的事件接踵而至。这都可能与二十年前的意外亡魂为复仇归来有关….</desc><date>2026-08-01</date>
-  </programme><programme start="20260802022000 +0800" stop="20260802035500 +0800" channel="369730"><title lang="zh">除恶: 飞车党 / The Gangster, the Cop, the Devil</title><desc>佛山刑警林岩成立精英项目小组，专门重拳打击嚣张跋扈的街头飞车大盗及其幕后庞大的犯罪集团。然而，当他身怀六甲的妻子惨遭猖狂飞车贼蓄意撞击，生死未卜之时，极度悲愤的他意外揭开了一场隐匿在黑恶势力深处的凶险复仇阴谋。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802035500 +0800" stop="20260802053500 +0800" channel="369730"><title lang="zh">神勇双妹唛 / Doubles Cause Troubles</title><desc>故事描述一对表姐妹梁山伯与祝英台乃斗气冤家，两女为争夺神秘俊男阿山欢心，却惹来大圈杀手威吓逼害，更陷入一场宝物争夺战。两女身陷险境，惟有摒弃前嫌，连手反抗…….</desc><date>2026-08-01</date>
-  </programme><programme start="20260802053500 +0800" stop="20260802071000 +0800" channel="369730"><title lang="zh">替身纸人 / Paper Man</title><desc>警方在调查一宗团伙杀人案时，突然又发生了离奇的纸人杀人事件，嫌疑人一个接一个被杀。随着不断挖出的线索，警方最终发现这背后隐藏着横跨两代人的秘密与悲剧。.</desc><date>2026-08-01</date>
-  </programme><programme start="20260802071000 +0800" stop="20260802080000 +0800" channel="369730"><title lang="zh">盲战 / Blind War</title><desc>前特警队长东谷在任务中罹患永久性失明，之后更被胁迫要承担任务失败的责任。幸好东谷在女儿的陪伴下逐渐走出阴霾，并开始适应黑暗的世界。可是曾经的宿敌再度出现，令女儿陷入危险之中。东谷为救女儿，展开了一场生死盲战。.</desc><date>2026-08-01</date>
+  </programme><programme start="20260803084000 +0800" stop="20260803104000 +0800" channel="1298"><title lang="zh">Dust to Dust</title><desc>A blurred figure in a news clip prompts retired cop Wang Shou Yue to reinvestigate a cold case where the mastermind gets tipped off and escapes. A battle between good and evil has just begun!</desc><date>2026-08-03</date>
+  </programme><programme start="20260803104000 +0800" stop="20260803122500 +0800" channel="1298"><title lang="zh">Time Still Turns the Pages</title><desc>High school teacher Cheng finds a suicide note, triggering his childhood memories. He strives to prevent the suicide tragedy, while dealing with his wife&amp;apos;s divorce request and his father&amp;apos;s illness.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803122500 +0800" stop="20260803143000 +0800" channel="1298"><title lang="zh">Honey Money Phony</title><desc>Deceived by a romantic scam and burdened with a massive debt, Lin partners with con artist Ouyang to reclaim her money. Together, they defy the odds and discover an unexpected love in the process.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803143000 +0800" stop="20260803160500 +0800" channel="1298"><title lang="zh">Forbidden City Cop</title><desc>A huge hit in the HK, this typical Stephen Chow movie combines history, science fiction, martial arts &amp;amp;amp; comedy elements makes it a fun watch.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160500 +0800" stop="20260803174500 +0800" channel="1298"><title lang="zh">Love Punch</title><desc>Caught in an underground fight to pay off debts, talented boxer Jia Yang loses her Olympics dream and quits boxing. A decade later, Coach Li aids her comeback. Can Jia Yang resurrect her boxing dream?</desc><date>2026-08-03</date>
+  </programme><programme start="20260803174500 +0800" stop="20260803192000 +0800" channel="1298"><title lang="zh">All&amp;apos;s Well End&amp;apos;s Well Too</title><desc>Another super comedy directed by Clifton Ko about more farcical couplings, mistaken identities, infidelities, and arranged marriages set in the Sung Dynasty.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803192000 +0800" stop="20260803210000 +0800" channel="1298"><title lang="zh">My First Of May</title><desc>Former squash champion Teng and his wife are devastated by their daughter&amp;apos;s muscular dystrophy. Years later, the faint movement of her pinky finger gives them a small but powerful sign of hope.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803231500 +0800" channel="1298"><title lang="zh">Raging Fire</title><desc>Starring Donnie Yen, Nicholas Tse, an inspector discovers that the team of masked thugs who killed his co-workers are led by a former fellow cop who was forced into a life of crime by him.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803231500 +0800" stop="20260804010000 +0800" channel="1298"><title lang="zh">Inner Senses</title><desc>Haunted by recurring visions stemming from past traumas, Yan seeks help from psychiatrist Dr Jim. As she heals, Jim is haunted by the same disturbances when his suppressed memories resurface.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804025000 +0800" channel="1298"><title lang="zh">Ready o/r Knot</title><desc>A couple who first meet at a wedding &amp;amp;amp; have been together for five years, question the institution of marriage from opposing viewpoints. Should marriage always be the &amp;apos;next step.&amp;apos;?</desc><date>2026-08-03</date>
+  </programme><programme start="20260804025000 +0800" stop="20260804044000 +0800" channel="1298"><title lang="zh">Tristar</title><desc>A young priest striving to save lost souls crosses paths with a prostitute seeking refuge in the church to escape her debts, they get entangled in a CID investigation into a prostitution ring.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804044000 +0800" stop="20260804071000 +0800" channel="1298"><title lang="zh">Love After Love</title><desc>Marking the 3rd Eileen Chang adaptation directed by Ann Hui, this film is set in pre-WW2 Hong Kong, where a young girl ends up working for her aunt seducing rich &amp;amp;amp; powerful men.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804071000 +0800" stop="20260804080000 +0800" channel="1298"><title lang="zh">Cliff Walkers</title><desc>Zhang Yi Mou&amp;apos;s first spy thriller follows four Communist Party special agents who embark on a secret mission in the Japanese puppet state of Manchukuo - only to be sold out by a traitor.</desc><date>2026-08-03</date>
   </programme><programme start="20260802085500 +0800" stop="20260802104500 +0800" channel="369730"><title lang="zh">十万火急 / Lifeline</title><desc>这是关于香港消防员的英勇救火故事。勇敢的消防员无惧冲天大火，肩负救灾扶危的重任，甚至舍身救人。但当消防员脱下制服后，是否仍同样勇敢地面对自身的难题呢？.</desc><date>2026-08-02</date>
   </programme><programme start="20260802104500 +0800" stop="20260802122000 +0800" channel="369730"><title lang="zh">倒数回击 / Love Punch</title><desc>天才拳击手徐佳阳为了替父亲还赌债在地下酒馆打黑拳时被举报，痛失奥运资格赛，陨落拳坛。十年后，铁血教练陈丽月决要助她实现父亲的遗愿，重回拳坛找回昔日的自己。当拳击的热血碰上责任时，曾经失落的拳击梦能否再度燃烧？.</desc><date>2026-08-02</date>
   </programme><programme start="20260802122000 +0800" stop="20260802140000 +0800" channel="369730"><title lang="zh">撞邪先生 / Mr. Possessed</title><desc>美容院职员曾小雨机缘巧合之下，认识了富豪之子利志，以为交上好运。岂料利志的父亲是茅山高人，在南洋大败一降头师时，被下咒绝子绝孙，让利志每次恋爱皆遭恶鬼破坏，无疾而终。小雨深爱利志，找大法师沈慈航帮助，授以五色驱邪带，两人顺利结婚。新婚之夜，利志遗失了驱邪彩带，果然恶鬼来犯...</desc><date>2026-08-02</date>
@@ -568,63 +583,21 @@
   </programme><programme start="20260803035500 +0800" stop="20260803054500 +0800" channel="369730"><title lang="zh">叶问 / Ip Man</title><desc>咏春大师叶问的功夫在中国各地备受推崇。正值日本侵华，叶问被迫离开家园并要找工作养家糊口。他唯有无奈地以咏春拳教导学生自卫训练，以赚取生活费用。.</desc><date>2026-08-02</date>
   </programme><programme start="20260803054500 +0800" stop="20260803072000 +0800" channel="369730"><title lang="zh">望夫成龙 / Love Is Love</title><desc>在乡间长大的情侣石金水和吴带娣青梅竹马，但娣父反对他们在一起，于是二人搬到市区共同生活。带娣为助金水找到一份推销员工作，暗中当舞小姐为其筹款。金水因工作勤奋，受上司赏识，加以提拔。虽然工作发展如意，但金水渐渐发觉自己与带娣的距离越来越远...</desc><date>2026-08-02</date>
   </programme><programme start="20260803072000 +0800" stop="20260803080000 +0800" channel="369730"><title lang="zh">怪谈 / The Case of Disappearances</title><desc>在迷雾村，为人养子的文杰反复梦见同一个噩梦。为了解开身世之谜，他卷入连串神秘的失踪案件中。随着更多村民相继离奇死去，村民更深信不疑千年来的井龙王诅咒。于是，文杰与保安队长连手探寻真相，揭开反派阴谋，最终拯救被危害的无辜村民.</desc><date>2026-08-02</date>
-  </programme><programme start="20260801080000 +0800" stop="20260801080500 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801080500 +0800" stop="20260801090000 +0800" channel="368550"><title lang="zh">星期六問責</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801093000 +0800" channel="368550"><title lang="zh">鏗鏘集</title><desc>性暴的創傷</desc><date>2026-08-01</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801103000 +0800" channel="368550"><title lang="zh">非凡香港</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801103000 +0800" stop="20260801105500 +0800" channel="368550"><title lang="zh">留學香港。話你知</title><desc>留學香港。話你知</desc><date>2026-08-01</date>
-  </programme><programme start="20260801105500 +0800" stop="20260801110000 +0800" channel="368550"><title lang="zh">政正關你事 - 官員講話摘要</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801112500 +0800" channel="368550"><title lang="zh">香港故事:尾巴會說話(英文版)</title><desc>百變小鸚</desc><date>2026-08-01</date>
-  </programme><programme start="20260801112500 +0800" stop="20260801121000 +0800" channel="368550"><title lang="zh">照亮你</title><desc>第八集: 風雨中的搜索行動</desc><date>2026-08-01</date>
-  </programme><programme start="20260801121000 +0800" stop="20260801130000 +0800" channel="368550"><title lang="zh">照亮你</title><desc>第九集: 搜救犬平安為救靳時川受傷</desc><date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801130700 +0800" channel="368550"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801130700 +0800" stop="20260801131000 +0800" channel="368550"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801131000 +0800" stop="20260801140000 +0800" channel="368550"><title lang="zh">學人沙龍</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801140500 +0800" channel="368550"><title lang="zh">政正關你事 - 官員講話摘要</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801140500 +0800" stop="20260801143000 +0800" channel="368550"><title lang="zh">時事摘錄</title><desc>時事摘錄</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801153000 +0800" channel="368550"><title lang="zh">31看世界 - 極致新疆</title><desc>第五集：一眼萬年</desc><date>2026-08-01</date>
-  </programme><programme start="20260801153000 +0800" stop="20260801173500 +0800" channel="368550"><title lang="zh">演藝盛薈：約翰紐邁亞的芭蕾舞劇 《請賜我們平安》</title><desc>約翰紐邁亞的芭蕾舞劇 《請賜我們平安》</desc><date>2026-08-01</date>
-  </programme><programme start="20260801173500 +0800" stop="20260801180000 +0800" channel="368550"><title lang="zh">守藝薪傳：名家導讀</title><desc>舞火龍和客家貔貅</desc><date>2026-08-01</date>
-  </programme><programme start="20260801180000 +0800" stop="20260801183000 +0800" channel="368550"><title lang="zh">港樂 • 講樂</title><desc>第158集：Locksmiths開鎖佬</desc><date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801190000 +0800" channel="368550"><title lang="zh">體壇快閃</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801190000 +0800" stop="20260801191500 +0800" channel="368550"><title lang="zh">新聞天地</title><desc>20260801</desc><date>2026-08-01</date>
-  </programme><programme start="20260801191500 +0800" stop="20260801192000 +0800" channel="368550"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801192000 +0800" stop="20260801193000 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801200000 +0800" channel="368550"><title lang="zh">大自然零距離 2</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260801202500 +0800" channel="368550"><title lang="zh">醫生與你 - 醫學．人 2026</title><desc>#5 聽得見希望 - 唐志輝教授</desc><date>2026-08-01</date>
-  </programme><programme start="20260801202500 +0800" stop="20260801203000 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 渠務署 - 赤柱污水處理廠</desc><date>2026-08-01</date>
-  </programme><programme start="20260801203000 +0800" stop="20260801212500 +0800" channel="368550"><title lang="zh">棋士</title><desc>第二十一集：崔業設計拿到五百萬</desc><date>2026-08-01</date>
-  </programme><programme start="20260801212500 +0800" stop="20260801213000 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 渠務署 - 赤柱污水處理廠</desc><date>2026-08-01</date>
-  </programme><programme start="20260801213000 +0800" stop="20260801232000 +0800" channel="368550"><title lang="zh">周末大電影：阿郎的故事</title><desc>阿郎的故事</desc><date>2026-08-01</date>
-  </programme><programme start="20260801232000 +0800" stop="20260801233000 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801233000 +0800" stop="20260802000000 +0800" channel="368550"><title lang="zh">醫生與你</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802000000 +0800" stop="20260802010000 +0800" channel="368550"><title lang="zh">學人沙龍</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802013000 +0800" channel="368550"><title lang="zh">體壇快閃</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="368550"><title lang="zh">大自然零距離 2</title><desc>第五集 墳場 x 百年古樹 x 跑馬地</desc><date>2026-08-01</date>
-  </programme><programme start="20260802020000 +0800" stop="20260802023000 +0800" channel="368550"><title lang="zh">醫生與你 - 醫學．人 2026</title><desc>#5 聽得見希望 - 唐志輝教授</desc><date>2026-08-01</date>
-  </programme><programme start="20260802023000 +0800" stop="20260802033000 +0800" channel="368550"><title lang="zh">棋士</title><desc>第二十一集：崔業設計拿到五百萬</desc><date>2026-08-01</date>
-  </programme><programme start="20260802033000 +0800" stop="20260802040000 +0800" channel="368550"><title lang="zh">時事摘錄</title><desc>時事摘錄</desc><date>2026-08-01</date>
-  </programme><programme start="20260802040000 +0800" stop="20260802043000 +0800" channel="368550"><title lang="zh">大港腳闖中超</title><desc>安永佳</desc><date>2026-08-01</date>
-  </programme><programme start="20260802043000 +0800" stop="20260802050000 +0800" channel="368550"><title lang="zh">留學香港。話你知</title><desc>留學香港。話你知</desc><date>2026-08-01</date>
-  </programme><programme start="20260802050000 +0800" stop="20260802053000 +0800" channel="368550"><title lang="zh">香港故事:尾巴會說話(英文版)</title><desc>百變小鸚</desc><date>2026-08-01</date>
-  </programme><programme start="20260802053000 +0800" stop="20260802063000 +0800" channel="368550"><title lang="zh">31看世界 - 極致新疆</title><desc>第五集：一眼萬年</desc><date>2026-08-01</date>
-  </programme><programme start="20260802063000 +0800" stop="20260802073000 +0800" channel="368550"><title lang="zh">學人沙龍</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802073000 +0800" stop="20260802080000 +0800" channel="368550"><title lang="zh">鏗鏘集</title><desc>我的另類「身家」</desc><date>2026-08-01</date>
+  </programme><programme start="20260803083500 +0800" stop="20260803101500 +0800" channel="369730"><title lang="zh">黑白潜行 / The Grey Men</title><desc>香港警员阿山以卧底身份潜伏在监狱，接近罪犯天哥，以获取其犯罪集团的更多证据。二人获释后，阿山全力帮助天哥扶摇直上，最终使天哥成为集团的主脑。然而，当阿山协助警方顺利摧毁犯罪集团时，他却意外揭开了天哥的一个惊天秘密….</desc><date>2026-08-03</date>
+  </programme><programme start="20260803101500 +0800" stop="20260803114500 +0800" channel="369730"><title lang="zh">替枪老豆 / Let&amp;apos;s Have a Baby</title><desc>万与夏婚后多年忽想生育，但万被证实不育，让夏接受人工受孕；但万心中仍感怪异，内心矛盾弄得精神紧张，行为乖张，闹出不少笑话；万在夏平安产子前后，屡有奇异幻想，误会连场，猜疑甚多，更怀疑夏与任职于夏威夷精子银行的表哥潘震伟有染，不是人工受孕，而是被人受孕。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803114500 +0800" stop="20260803125500 +0800" channel="369730"><title lang="zh">武松斗杀西门庆 / Wusong VS Ximenqing</title><desc>豪杰武松因揭发嫂子潘金莲与西门庆的奸情而遭陷害，被迫刺配流放。当得知兄长武大郎惨遭毒杀后，武松悲愤回乡讨回公道，却发现官府贪赃枉法，拒绝严惩真凶。面对黑白颠倒的世道，怒火中烧的武松决意血战狮子楼，亲手向仇人展开复仇。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803125500 +0800" stop="20260803143500 +0800" channel="369730"><title lang="zh">破坏之王 / Love on Delivery</title><desc>外卖员何金银为让他的女神阿丽对他刮目相看，发奋习武，并学了奇怪的招式。胆小怕事的他一次头戴加菲猫面具拯救了阿丽，不料事后被空手道大师段水流领功。银为揭穿真相，最终在擂台使出绝招“无敌风火轮”击败段大师，并抱得美人归。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803143500 +0800" stop="20260803160500 +0800" channel="369730"><title lang="zh">惊心妒怨 / Jealousy</title><desc>艳丽女模余虹敏在一间盛传闹鬼的废弃医院中离奇身亡。事后，她生前的摄影师不断接到如怨灵索命般的诡异来电，合作撰稿人突遭严重车祸，而她的挚友亦突然离奇失踪。一连串毛骨悚然的怪事接踵而来，彷佛死者充满妒恨的怨魂，正在黑暗中展开疯狂报复。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160500 +0800" stop="20260803173000 +0800" channel="369730"><title lang="zh">国产凌凌漆 / From Beijing With Love</title><desc>一名被重新启用的后备中国特工伪装成猪肉贩，意外被派去追回被盗的恐龙头骨。他被派往香港，并在一名暗中为反派效力的女特工协助下展开行动。两人在重重背叛与危机中应对挑战，最终对抗幕后黑手，成功夺回国宝并揭露阴谋。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803191500 +0800" channel="369730"><title lang="zh">千王斗千霸 / Challenge of the Gamesters</title><desc>名震赌坛的千王与其拍档受命调查一位上海赌界大亨，怀疑其以赌场为掩护从事间谍活动。两人深入危机四伏的赌局世界，在层层布局与试探中步步为营，与强敌展开一场关乎生死与荣耀的斗智对决。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803191500 +0800" stop="20260803210000 +0800" channel="369730"><title lang="zh">拳击小子 / Destiny&amp;apos;s Champion</title><desc>以行船为生的前拳手提早退休，重回香港，遇上青年。青年因追求老板妹妹而与货运少东起冲突，并将少东打伤。他们约定三个月后双方擂台打拳以定强弱...</desc><date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803225000 +0800" channel="369730"><title lang="zh">九品芝麻官 / Hail the Judge</title><desc>包龙星起初为清朝九品候补知县《九品芝麻官》，号称青天的包拯后裔，却无包拯维护公义的精神，接受地方土豪的贿赂而诬害忠良，以至人人喊打。后来痛改前非，为一名含冤被判处死刑的女子申冤，历尽千辛万苦上燕京告御状，最后被封为八府巡按，在公堂辩论打败恶势力，告大白于天下。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260803225000 +0800" stop="20260804002500 +0800" channel="369730"><title lang="zh">白发鬼 / Face to Face</title><desc>年轻俊秀，生于名门望族的日籍华人林保，自幼失去父母，与大学好友川村感情深厚。二人都对美少女琉璃子心存爱慕，但川村自怜身世，不敢与林保争夺，林保顺利娶得琉璃子为妻。林保出国公干期间，川村和琉璃子耐不住寂寞，有了奸情。不久之后，林保竟在一次滑雪中意外身亡...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804002500 +0800" stop="20260804015500 +0800" channel="369730"><title lang="zh">神偷次世代 / Skyline Cruisers</title><desc>四个神偷接到任务，要偷取一种刚研究成功的治癌药物。然而，当他们到达现场时，却遇到了埋伏。这时他们才意识到，这个任务原来是一场骗局。突然，一名神秘女子出现，她的手中掌握着能破解迷局的重要线索…….</desc><date>2026-08-03</date>
+  </programme><programme start="20260804015500 +0800" stop="20260804034000 +0800" channel="369730"><title lang="zh">蛊 / Bewitched</title><desc>故事描述黄锦燊饰的督察查出女童被杀案的凶手，竟为其父艾飞；艾狱中求见黄，告知曾在某地邂逅一女子，获赠颈饰，自此，林突感有性无能之趋向，而其女忽嗜生肉，并数次有伤害林之意图，友人劝其赴巫婆处占算，巫婆算出其女系邪魔入体，必须以九寸钉钉在头上将其钉死，林即在此不可思议力量作崇之下，将亲女钉死；黄赴某地查探线索，并从神媒查出艾中了尸油降，唯神媒法力不足，不能查出谁为降头师，嘱黄往一百里外之古剎，览高僧温马达摩求助...</desc><date>2026-08-03</date>
+  </programme><programme start="20260804034000 +0800" stop="20260804052000 +0800" channel="369730"><title lang="zh">青蛙王子 / Prince Charming</title><desc>此喜剧在夏威夷开始，富家子为人腼腆，追女乏术，好友充当其爱情顾问，带他四出泡妞，却碰得一鼻子灰，闹出连场笑话。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804052000 +0800" stop="20260804065000 +0800" channel="369730"><title lang="zh">画魔人 / The Revenge</title><desc>若为和两位闺蜜回到她儿时居住的房子，重遇一直住在那儿的表哥。他们本打算一起散散心，却频频遭遇灵异事件的侵袭，最后更变成一场惊心动魄之旅，有让人意想不到的结局。.</desc><date>2026-08-03</date>
+  </programme><programme start="20260804065000 +0800" stop="20260804080000 +0800" channel="369730"><title lang="zh">青面修罗 / Song of the Assassins</title><desc>年轻刺客青面修罗接受人生首份刺杀任务，同时暗中调查当年自己家族灭门惨案幕后起因。但任务还未完成，他发现自己已经卷入了一场策划多年的阴谋当中，唯有利用自己的刺客技能，一一破局。.</desc><date>2026-08-03</date>
   </programme><programme start="20260802080000 +0800" stop="20260802080500 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
     <date>2026-08-02</date>
   </programme><programme start="20260802080500 +0800" stop="20260802082500 +0800" channel="368550"><title lang="zh">BobieLand</title><desc>第二百六十八集 - 《還要等100個夜晚》- 時間有快有慢？</desc><date>2026-08-02</date>
@@ -687,91 +660,69 @@
     <date>2026-08-02</date>
   </programme><programme start="20260803073000 +0800" stop="20260803080000 +0800" channel="368550"><title lang="zh">優遊記</title><desc />
     <date>2026-08-02</date>
-  </programme><programme start="20260803080000 +0800" stop="20260804080000 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
+  </programme><programme start="20260803080000 +0800" stop="20260803080500 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
     <date>2026-08-03</date>
-  </programme><programme start="20260801080500 +0800" stop="20260801090000 +0800" channel="368551"><title lang="zh">星期六問責</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801090000 +0800" stop="20260801093000 +0800" channel="368551"><title lang="zh">時事摘錄</title><desc>時事摘錄</desc><date>2026-08-01</date>
-  </programme><programme start="20260801093000 +0800" stop="20260801093500 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801093500 +0800" stop="20260801103000 +0800" channel="368551"><title lang="zh">理財新世代</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801103000 +0800" stop="20260801103500 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801103500 +0800" stop="20260801110000 +0800" channel="368551"><title lang="zh">凝聚香港</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801110000 +0800" stop="20260801110700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801110700 +0800" stop="20260801113000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801113000 +0800" stop="20260801113700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801113700 +0800" stop="20260801120000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801120000 +0800" stop="20260801120700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801120700 +0800" stop="20260801123000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801123000 +0800" stop="20260801123700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801123700 +0800" stop="20260801130000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801130000 +0800" stop="20260801130700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801130700 +0800" stop="20260801133000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801133000 +0800" stop="20260801133700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801133700 +0800" stop="20260801140000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801140000 +0800" stop="20260801140700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801140700 +0800" stop="20260801143000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801143000 +0800" stop="20260801143700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801143700 +0800" stop="20260801150000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801150000 +0800" stop="20260801150700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801150700 +0800" stop="20260801153000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801153000 +0800" stop="20260801153700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801153700 +0800" stop="20260801160000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801160000 +0800" stop="20260801160700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801160700 +0800" stop="20260801163000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801163000 +0800" stop="20260801163700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801163700 +0800" stop="20260801170000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801170000 +0800" stop="20260801170700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801170700 +0800" stop="20260801173000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801173000 +0800" stop="20260801173700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801173700 +0800" stop="20260801180000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801180000 +0800" stop="20260801180700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801180700 +0800" stop="20260801183000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801183000 +0800" stop="20260801183700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801183700 +0800" stop="20260801190000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801190000 +0800" stop="20260801191500 +0800" channel="368551"><title lang="zh">新聞天地</title><desc>20260801</desc><date>2026-08-01</date>
-  </programme><programme start="20260801191500 +0800" stop="20260801193000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801193000 +0800" stop="20260801200000 +0800" channel="368551"><title lang="zh">雙城聯動</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801200000 +0800" stop="20260801201000 +0800" channel="368551"><title lang="zh">晚間新聞</title><desc>晚間新聞</desc><date>2026-08-01</date>
-  </programme><programme start="20260801201000 +0800" stop="20260801201500 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801201500 +0800" stop="20260801202000 +0800" channel="368551"><title lang="zh">盛事傳城</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801202000 +0800" stop="20260801203000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260801203000 +0800" stop="20260801210000 +0800" channel="368551"><title lang="zh">時事摘錄</title><desc>時事摘錄</desc><date>2026-08-01</date>
-  </programme><programme start="20260801210000 +0800" stop="20260801220000 +0800" channel="368551"><title lang="zh">星期六問責</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801220000 +0800" stop="20260801220500 +0800" channel="368551"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 渠務署 - 赤柱污水處理廠</desc><date>2026-08-01</date>
-  </programme><programme start="20260801220500 +0800" stop="20260801230000 +0800" channel="368551"><title lang="zh">理財新世代</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801230000 +0800" stop="20260801233000 +0800" channel="368551"><title lang="zh">雙城聯動</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260801233000 +0800" stop="20260802000000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260802000000 +0800" stop="20260802010000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260802010000 +0800" stop="20260802013000 +0800" channel="368551"><title lang="zh">雙城聯動</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802013000 +0800" stop="20260802073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
-  </programme><programme start="20260802073000 +0800" stop="20260802073500 +0800" channel="368551"><title lang="zh">盛事傳城</title><desc />
-    <date>2026-08-01</date>
-  </programme><programme start="20260802073500 +0800" stop="20260802074000 +0800" channel="368551"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 渠務署 - 赤柱污水處理廠</desc><date>2026-08-01</date>
-  </programme><programme start="20260802074000 +0800" stop="20260802080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-01</date>
+  </programme><programme start="20260803080500 +0800" stop="20260803100000 +0800" channel="368550"><title lang="zh">千禧年代</title><desc>千禧年代 8月3日</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803105500 +0800" channel="368550"><title lang="zh">歡迎來到麥樂村</title><desc>第十一集: 麥樂村的供水設施急待維修</desc><date>2026-08-03</date>
+  </programme><programme start="20260803105500 +0800" stop="20260803110000 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 建築署 - 黃大仙環保公園美學</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803110500 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803110500 +0800" stop="20260803111000 +0800" channel="368550"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803111000 +0800" stop="20260803120000 +0800" channel="368550"><title lang="zh">香江暖流</title><desc>香江暖流</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803130000 +0800" channel="368550"><title lang="zh">31看世界 - 守護天堂</title><desc>加奈馬</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803130700 +0800" channel="368550"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803130700 +0800" stop="20260803131000 +0800" channel="368550"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803131000 +0800" stop="20260803140000 +0800" channel="368550"><title lang="zh">精靈一點</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803140500 +0800" channel="368550"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 建築署 - 黃大仙環保公園美學</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140500 +0800" stop="20260803145000 +0800" channel="368550"><title lang="zh">無所畏懼 (第一季)</title><desc>第三十八集：羅英子回擊馬麗麗的敲詐</desc><date>2026-08-03</date>
+  </programme><programme start="20260803145000 +0800" stop="20260803154000 +0800" channel="368550"><title lang="zh">無所畏懼 (第一季)</title><desc>第三十九集：羅英子聯手陳碩對付温莉</desc><date>2026-08-03</date>
+  </programme><programme start="20260803154000 +0800" stop="20260803160500 +0800" channel="368550"><title lang="zh">灣區全媒睇</title><desc>第一千二百一十五集</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160500 +0800" stop="20260803163000 +0800" channel="368550"><title lang="zh">港樂 • 講樂</title><desc>第159集：IdG Sundae、范卓賢</desc><date>2026-08-03</date>
+  </programme><programme start="20260803163000 +0800" stop="20260803164500 +0800" channel="368550"><title lang="zh">BobieLand</title><desc>第二百七十三集 -</desc><date>2026-08-03</date>
+  </programme><programme start="20260803164500 +0800" stop="20260803170000 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title><desc>可的蛇和螞蟻？</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803173000 +0800" channel="368550"><title lang="zh">小農夫大作物 新一彈</title><desc>鮮為人知的美味手亡豆</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803180000 +0800" channel="368550"><title lang="zh">優遊記</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803183000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title><desc>第一千二百一十六集</desc><date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803190000 +0800" channel="368550"><title lang="zh">凝聚香港</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803193000 +0800" channel="368550"><title lang="zh">新聞天地</title><desc>20260803</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803202500 +0800" channel="368550"><title lang="zh">老家伙</title><desc>第三十集：三人商量如何對付校車司機</desc><date>2026-08-03</date>
+  </programme><programme start="20260803202500 +0800" stop="20260803203000 +0800" channel="368550"><title lang="zh">政正關你事</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803203000 +0800" stop="20260803212000 +0800" channel="368550"><title lang="zh">無所畏懼之永不放棄</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803212000 +0800" stop="20260803212500 +0800" channel="368550"><title lang="zh">國寶時刻</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803212500 +0800" stop="20260803213000 +0800" channel="368550"><title lang="zh">政正關你事</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803213000 +0800" stop="20260803220000 +0800" channel="368550"><title lang="zh">香港故事: 由AI開始</title><desc>AI 教與學</desc><date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803222500 +0800" channel="368550"><title lang="zh">看神州</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803222500 +0800" stop="20260803223000 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803223000 +0800" stop="20260803233000 +0800" channel="368550"><title lang="zh">歡迎來到麥樂村</title><desc>第十一集: 麥樂村的供水設施急待維修</desc><date>2026-08-03</date>
+  </programme><programme start="20260803233000 +0800" stop="20260804000000 +0800" channel="368550"><title lang="zh">凝聚香港</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804000000 +0800" stop="20260804003000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title><desc>第一千二百一十六集</desc><date>2026-08-03</date>
+  </programme><programme start="20260804003000 +0800" stop="20260804010000 +0800" channel="368550"><title lang="zh">香港故事: 由AI開始</title><desc>AI 教與學</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804020000 +0800" channel="368550"><title lang="zh">老家伙</title><desc>第三十集：三人商量如何對付校車司機</desc><date>2026-08-03</date>
+  </programme><programme start="20260804020000 +0800" stop="20260804023000 +0800" channel="368550"><title lang="zh">看神州</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804023000 +0800" stop="20260804033000 +0800" channel="368550"><title lang="zh">狂飆</title><desc>第二十一集</desc><date>2026-08-03</date>
+  </programme><programme start="20260804033000 +0800" stop="20260804043000 +0800" channel="368550"><title lang="zh">無所畏懼之永不放棄</title><desc>第二十集：肖楠楠校園欺凌案</desc><date>2026-08-03</date>
+  </programme><programme start="20260804043000 +0800" stop="20260804053000 +0800" channel="368550"><title lang="zh">31看世界 - 守護天堂</title><desc>加奈馬</desc><date>2026-08-03</date>
+  </programme><programme start="20260804053000 +0800" stop="20260804060000 +0800" channel="368550"><title lang="zh">香港故事: 由AI開始</title><desc>AI 教與學</desc><date>2026-08-03</date>
+  </programme><programme start="20260804060000 +0800" stop="20260804063000 +0800" channel="368550"><title lang="zh">凝聚香港</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804063000 +0800" stop="20260804064500 +0800" channel="368550"><title lang="zh">BobieLand</title><desc>第二百七十三集 -</desc><date>2026-08-03</date>
+  </programme><programme start="20260804064500 +0800" stop="20260804070000 +0800" channel="368550"><title lang="zh">奀菇菇搞搞震 2</title><desc>可的蛇和螞蟻？</desc><date>2026-08-03</date>
+  </programme><programme start="20260804070000 +0800" stop="20260804073000 +0800" channel="368550"><title lang="zh">小農夫大作物 新一彈</title><desc>鮮為人知的美味手亡豆</desc><date>2026-08-03</date>
+  </programme><programme start="20260804073000 +0800" stop="20260804080000 +0800" channel="368550"><title lang="zh">灣區全媒睇</title><desc>第一千二百一十六集</desc><date>2026-08-03</date>
+  </programme><programme start="20260804080000 +0800" stop="20260805080000 +0800" channel="368550"><title lang="zh">盛事傳城</title><desc />
+    <date>2026-08-04</date>
   </programme><programme start="20260802110000 +0800" stop="20260802110700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
     <date>2026-08-02</date>
   </programme><programme start="20260802110700 +0800" stop="20260802113000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-02</date>
@@ -843,4 +794,95 @@
     <date>2026-08-02</date>
   </programme><programme start="20260803073500 +0800" stop="20260803074000 +0800" channel="368551"><title lang="zh">政正關你事 - 為人民服務</title><desc>為人民服務 - 建築署 - 黃大仙環保公園美學</desc><date>2026-08-02</date>
   </programme><programme start="20260803074000 +0800" stop="20260803080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-02</date>
+  </programme><programme start="20260803080500 +0800" stop="20260803100000 +0800" channel="368551"><title lang="zh">千禧年代</title><desc>千禧年代 8月3日</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100000 +0800" stop="20260803100500 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803100500 +0800" stop="20260803103000 +0800" channel="368551"><title lang="zh">灣區全媒睇</title><desc>第一千二百一十五集</desc><date>2026-08-03</date>
+  </programme><programme start="20260803103000 +0800" stop="20260803103500 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803103500 +0800" stop="20260803110000 +0800" channel="368551"><title lang="zh">鏗鏘集</title><desc>我的另類「身家」</desc><date>2026-08-03</date>
+  </programme><programme start="20260803110000 +0800" stop="20260803110700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803110700 +0800" stop="20260803113000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803113000 +0800" stop="20260803113700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803113700 +0800" stop="20260803120000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803120000 +0800" stop="20260803120700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803120700 +0800" stop="20260803123000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803123000 +0800" stop="20260803123700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803123700 +0800" stop="20260803130000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803130000 +0800" stop="20260803130700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803130700 +0800" stop="20260803133000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803133000 +0800" stop="20260803133700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803133700 +0800" stop="20260803140000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803140000 +0800" stop="20260803140700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803140700 +0800" stop="20260803143000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803143000 +0800" stop="20260803143700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803143700 +0800" stop="20260803150000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803150000 +0800" stop="20260803150700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803150700 +0800" stop="20260803153000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803153000 +0800" stop="20260803153700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803153700 +0800" stop="20260803160000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803160000 +0800" stop="20260803160700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803160700 +0800" stop="20260803163000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803163000 +0800" stop="20260803163700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803163700 +0800" stop="20260803170000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803170000 +0800" stop="20260803170700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803170700 +0800" stop="20260803173000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803173000 +0800" stop="20260803173700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803173700 +0800" stop="20260803180000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803180000 +0800" stop="20260803180700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803180700 +0800" stop="20260803183000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803183000 +0800" stop="20260803183700 +0800" channel="368551"><title lang="zh">新聞簡報</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803183700 +0800" stop="20260803185000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260803185000 +0800" stop="20260803190000 +0800" channel="368551"><title lang="zh">國寶時刻</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803190000 +0800" stop="20260803193000 +0800" channel="368551"><title lang="zh">新聞天地</title><desc>20260803</desc><date>2026-08-03</date>
+  </programme><programme start="20260803193000 +0800" stop="20260803200000 +0800" channel="368551"><title lang="zh">看神州</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803200000 +0800" stop="20260803201500 +0800" channel="368551"><title lang="zh">晚間新聞</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803201500 +0800" stop="20260803205500 +0800" channel="368551"><title lang="zh">時事脈動</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803205500 +0800" stop="20260803210000 +0800" channel="368551"><title lang="zh">盛事傳城</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803210000 +0800" stop="20260803213000 +0800" channel="368551"><title lang="zh">鏗鏘集</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803213000 +0800" stop="20260803220000 +0800" channel="368551"><title lang="zh">廣東話去旅行 -- 唐代建築篇 (英文版)</title><desc>穿越千年古蹟</desc><date>2026-08-03</date>
+  </programme><programme start="20260803220000 +0800" stop="20260803220500 +0800" channel="368551"><title lang="zh">政正關你事</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803220500 +0800" stop="20260803223000 +0800" channel="368551"><title lang="zh">凝聚香港</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803223000 +0800" stop="20260803230000 +0800" channel="368551"><title lang="zh">中華知識王</title><desc>第三集 - 「雪龍2號」破冰船×古代絲路冷知識戰｜比西方早1000年！這個「被中香爐」竟讓航天專家震驚？｜空手道少年對決歷史學霸！</desc><date>2026-08-03</date>
+  </programme><programme start="20260803230000 +0800" stop="20260803233000 +0800" channel="368551"><title lang="zh">看神州</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260803233000 +0800" stop="20260804000000 +0800" channel="368551"><title lang="zh">時事脈動</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804000000 +0800" stop="20260804001000 +0800" channel="368551"><title lang="zh">時事脈動</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804001000 +0800" stop="20260804003500 +0800" channel="368551"><title lang="zh">鏗鏘集</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804003500 +0800" stop="20260804010000 +0800" channel="368551"><title lang="zh">廣東話去旅行 -- 唐代建築篇 (英文版)</title><desc>穿越千年古蹟</desc><date>2026-08-03</date>
+  </programme><programme start="20260804010000 +0800" stop="20260804013000 +0800" channel="368551"><title lang="zh">看神州</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804013000 +0800" stop="20260804020000 +0800" channel="368551"><title lang="zh">凝聚香港</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804020000 +0800" stop="20260804073000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
+  </programme><programme start="20260804073000 +0800" stop="20260804073500 +0800" channel="368551"><title lang="zh">盛事傳城</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804073500 +0800" stop="20260804074000 +0800" channel="368551"><title lang="zh">政正關你事</title><desc />
+    <date>2026-08-03</date>
+  </programme><programme start="20260804074000 +0800" stop="20260804080000 +0800" channel="368551"><title lang="zh">生活．健康．資訊</title><desc>生活．健康．資訊</desc><date>2026-08-03</date>
   </programme></tv>
